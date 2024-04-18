@@ -1,0 +1,58 @@
+.line {
+  fill: none;
+  stroke: #eeeeee;
+  stroke-width: 2px;
+}
+
+.line_r {
+  fill: none;
+  stroke: #eeeeee;
+  stroke-width: 2px;
+}
+
+#xAxis,
+#yAxis,
+#xAxis_r {
+  font-size: 20px;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  font-size: 12px;
+  background: #fac74d;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  color: #393e46;
+}
+
+div.tooltip_value {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  font-size: 12px;
+  background: #fac74d;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  color: #393e46;
+}
+
+div.tooltip_player_radar {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  font-size: 12px;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  color: #393e46;
+}

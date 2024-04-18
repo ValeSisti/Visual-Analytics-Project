@@ -1,0 +1,25 @@
+.background path {
+  fill: none;
+  stroke: grey;
+  opacity: 0.1;
+  stroke-width: 1px;
+}
+
+.foreground path {
+  fill: none;
+  opacity: 1;
+  stroke-width: 2px;
+}
+
+.brush .selection {
+  fill-opacity: 0.3;
+  stroke: #fff;
+}
+
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #eeeeee;
+}
+
+

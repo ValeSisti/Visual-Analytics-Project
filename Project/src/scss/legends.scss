@@ -1,0 +1,69 @@
+//Role legend -------------------------
+
+.legend {
+  display: flex;
+  width: auto;
+  font-size: 1.8vmin;
+  justify-content: right;
+}
+
+.legend-elem {
+  display: block;
+  position: relative;
+  padding-left: 2vmin;
+  padding-right: 2vmin;
+}
+
+#circle {
+  width: 1.5vmin;
+  height: 1.5vmin;
+  border-radius: 50%;
+  margin-right: 0.8vmin;
+}
+
+//Cluster legend ------------------------
+
+#legend-cluster {
+  height: 4.2vh;
+  width: auto;
+  font-size: 1.8vmin;
+  justify-content: left;
+}
+
+.legend-elem-cluster {
+  float: left;
+  display: block;
+  position: relative;
+  padding-left: 2vmin;
+  padding-right: 2vmin;
+}
+
+#circle-cluster {
+  width: 1.2vmin;
+  height: 1.2vmin;
+  border-radius: 50%;
+  margin-right: 0.8vmin;
+}
+
+//Radar legend ------------------------
+
+#legend-radar {
+  width: auto;
+  font-size: 1.8vmin;
+  justify-content: left;
+}
+
+.legend-elem-radar {
+  float: left;
+  display: block;
+  position: relative;
+  padding-left: 2vmin;
+  padding-right: 2vmin;
+}
+
+#circle-radar {
+  width: 1.2vmin;
+  height: 1.2vmin;
+  border-radius: 50%;
+  margin-right: 0.8vmin;
+}

@@ -1,0 +1,258 @@
+body {
+  font-family: sans-serif;
+  overflow: hidden;
+  background-color: #222831;
+  color: #eeeeee;
+  height: 100vh;
+  font-size: 1.8vmin;
+}
+
+#rcorners1 {
+  border-radius: 25px;
+  background: #393e46;
+  border: solid #393e46;
+  padding: 1.5vmin;
+  width: auto;
+  height: auto;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  background: #222831;
+  border: solid #222831;
+  padding: 1vmin 2.5vmin 1vmin 2.5vmin; //T L B R
+  width: auto;
+  height: auto;
+}
+
+#center {
+  width: 100%;
+  display: flex;
+}
+
+.radviz-container {
+  width: 68%;
+  height: auto;
+  padding-top: 3.6vmin;
+}
+
+.center-radviz {
+  width: 72%; /* Can be in percentage also. */
+  height: auto;
+  margin: 0 auto;
+  padding-top: 3.6vmin;
+}
+
+select {
+  background: #ffd369;
+  color: #222831;
+  font-size: 1.3vmin;
+  width: 15vmin;
+  height: 3vmin;
+  border-radius: 5px;
+}
+
+select option:checked {
+  background: #fac74d -webkit-linear-gradient(bottom, #fac74d 0%, #fac74d 100%);
+}
+
+.dropdown-container {
+  text-align: left;
+}
+
+/* Personalizzo il label e quindi il contenitore dell'input */
+.checkbox-wrapper {
+  display: block;
+  position: relative;
+  padding-left: 3vmin;
+  padding-right: 3vmin;
+  cursor: pointer;
+  font-size: 1.8vmin;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Nascondo il checkbox di base del browser */
+.checkbox-wrapper input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 20vmin;
+}
+
+/* creo il mio checkbox */
+.checkbox-wrapper .checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 1.2vmin;
+  width: 1.2vmin;
+  background-color: #eeeeee;
+  border: 3px solid transparent;
+  border-radius: 20%;
+}
+
+/* Creo la spunta all'interno dell'input (inizialmente nascosta) */
+.checkbox-wrapper .checkmark::after {
+  content: "";
+  position: absolute;
+  left: 0.3vmin;
+  top: 0;
+  width: 0.5vmin;
+  height: 1vmin;
+  border: solid #393e46;
+  border-width: 0 2px 2px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  display: none;
+}
+
+/* Quando vado sopra con il mouse (opzionale) */
+.checkbox-wrapper:hover input ~ .checkmark {
+  background-color: #fac74d;
+}
+
+/* Quando l'input è selezionato, coloro il bordo dell'input */
+.checkbox-wrapper input:checked ~ .checkmark {
+  background-color: #fac74d;
+}
+
+/* Quando l'input è selezionato mostro la spunta */
+.checkbox-wrapper input:checked ~ .checkmark::after {
+  display: block;
+}
+
+//Radio button -------------------------------
+
+input[type="radio"] {
+  /* remove standard background appearance */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* create custom radiobutton appearance */
+  display: inline-block;
+  width: 1.8vmin;
+  height: 1.8vmin;
+  padding: 0.3vmin;
+  /* background-color only for content */
+  background-clip: content-box;
+  border: 1px solid #eeeeee;
+  background-color: transparent;
+  border-radius: 50%;
+}
+
+/* appearance for checked radiobutton */
+input[type="radio"]:checked {
+  background-color: #fac74d;
+}
+
+.radio-label {
+  padding-left: 0.5vmin;
+  padding-right: 0.8vmin;
+  margin-bottom: 0.2vmin;
+  font-size: 1.7vmin;
+}
+
+.radio-div {
+  display: flex;
+  width: 100%;
+}
+
+//Scatterplot dropdowns ------------------------
+
+.scatter-dropdown {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding: 0.5vmin;
+}
+
+.scatter-dropdown > div {
+  font-size: 1.8vmin;
+}
+
+.dropdown_1 {
+  text-align: left;
+}
+
+.dropdown_2 {
+  text-align: right;
+}
+
+//Loader --------------------
+.loader-sp {
+  border: 1vmin solid #222831; 
+  border-top: 1vmin solid #fac74d; 
+  border-radius: 50%;
+  width: 5vmin;
+  height: 5vmin;
+  animation: spin 2s linear infinite;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  position: relative;
+  left: 40%;
+  top: -45%;
+}
+
+.loader-lc {
+  border: 1vmin solid #222831; 
+  border-top: 1vmin solid #fac74d; 
+  border-radius: 50%;
+  width: 5vmin;
+  height: 5vmin;
+  animation: spin 2s linear infinite;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  position: relative;
+  left: 45%;
+  top: -55%;
+}
+
+.loader-rv {
+  border: 1vmin solid #222831; 
+  border-top: 1vmin solid #fac74d; 
+  border-radius: 50%;
+  width: 5vmin;
+  height: 5vmin;
+  animation: spin 2s linear infinite;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  position: relative;
+  left: 32%;
+  top: -43%;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+//Button --------------------------------------------------------------------------------------
+
+.radviz_buttons {
+  background-color: #393e46;
+  border: none;
+  color: white;
+  padding: 1vmin 4vmin;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.4vmin;
+  font-weight: 600;
+  margin-right: 0.2vmin;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 2px solid #fac74d;
+}
+
+.radviz_buttons:hover {
+  background-color: #fac74d;
+  color: #222831
+}
+

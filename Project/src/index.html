@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Football Players' Stats</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <div class="parent">
+      <!--Checkboxes -->
+      <div class="div1">
+        <div id="center">
+          <label class="checkbox-wrapper"
+            >All
+            <input
+              type="checkbox"
+              id="all_checkbox"
+              name="check"
+              checked
+              onclick="myFunction1()"
+            />
+            <span class="checkmark"></span>
+          </label>
+          <label class="checkbox-wrapper"
+            >Forwards
+            <input
+              type="checkbox"
+              id="f_checkbox"
+              name="check"
+              onclick="myFunction2()"
+            />
+            <span class="checkmark"></span>
+          </label>
+          <label class="checkbox-wrapper"
+            >Midfielders
+            <input
+              type="checkbox"
+              id="m_checkbox"
+              name="check"
+              onclick="myFunction2()"
+            />
+            <span class="checkmark"></span>
+          </label>
+          <label class="checkbox-wrapper"
+            >Defenders
+            <input
+              type="checkbox"
+              id="d_checkbox"
+              name="check"
+              onclick="myFunction2()"
+            />
+            <span class="checkmark"></span>
+          </label>
+          <label class="checkbox-wrapper"
+            >Goalkeepers
+            <input
+              type="checkbox"
+              id="gk_checkbox"
+              name="check"
+              onclick="myFunction2()"
+            />
+            <span class="checkmark"></span>
+          </label>
+        </div>
+      </div>
+
+      <!--Legend role -->
+      <div class="div2">
+        <div class="legend">
+          <div class="legend-elem">
+            <svg id="circle" style="background: #ff7f0e"></svg>Forwards
+          </div>
+          <div class="legend-elem">
+            <svg id="circle" style="background: #2ca02c"></svg>Midfielders
+          </div>
+          <div class="legend-elem">
+            <svg id="circle" style="background: #e377c2"></svg>Defenders
+          </div>
+          <div class="legend-elem">
+            <svg id="circle" style="background: #17becf"></svg>Goalkeepers
+          </div>
+        </div>
+      </div>
+
+      <!--Table -->
+      <div class="div3" id="rcorners1">
+        <input
+          type="text"
+          id="myInput"
+          placeholder="Search for names..."
+          title="Type in a name"
+        />
+
+        <div class="filter-container"></div>
+        <br />
+
+        <div id="list-container">
+          <svg viewBox="0 0 500 470">
+            <foreignObject x="0" y="0" width="500" height="470">
+              <div class="list"></div>
+            </foreignObject>
+          </svg>
+        </div>
+      </div>
+
+      <!--Scatterplot -->
+      <div class="div4" id="rcorners1">
+        <div class="scatter-dropdown">
+          <div class="dropdown_1">
+            <select id="dropdown_scatterplot" name="type">
+              <option value="pca">PCA</option>
+              <option value="tsne">T-SNE</option>
+            </select>
+          </div>
+          <div class="dropdown_2">
+            <select id="dropdown_cluster" name="type">
+              <option value="no">No Cluster</option>
+              <option value="2">2 Cluster</option>
+              <option value="3">3 Cluster</option>
+              <option value="4">4 Cluster</option>
+              <option value="5">5 Cluster</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="scatterplot"></div>
+        <div id="legend-cluster"></div>
+        <div class="loader-sp" style="display: none"></div>
+      </div>
+
+      <!--Parallel Coordinates -->
+      <div class="div5" id="rcorners1">
+        <div id="parallelcoords"></div>
+      </div>
+
+      <!--Radar e radviz -->
+      <div class="div6" id="rcorners1">
+        <div class="two-col">
+          <!-- Radar -->
+          <div class="col1">
+            <div class="dropdown-container">
+              <select id="dropdown_stats" name="type">
+                <option value="p">Physical stats</option>          
+                <option value="a">Attack stats</option>
+                <option value="d">Defense stats</option>
+                <option value="k">Keeper stats</option>
+                <option value="o">Overall stats</option>
+                
+              </select>
+            </div>
+            <br />
+            <div class="radarChart"></div>
+            <div id="legend-radar"></div>
+          </div>
+
+          <!-- Radviz -->
+          <div class="col2">
+            <div class="rad-grid">
+              <!-- Radviz radio button -->
+              <div class="radio-rad">
+                <input
+                  type="radio"
+                  id="ee"
+                  name="radio_radviz"
+                  value="ee"
+                  checked
+                  onclick="myFunction3()"
+                />
+                <label class="radio-label" for="ee">Effectiveness error</label>
+                <input type="radio" id="c" name="radio_radviz" value="c" onclick="myFunction3()"/>
+                <label class="radio-label" for="c">Roles</label>
+              </div>
+
+              <!-- Radviz -->
+              <div class="container-rad"> 
+                <div class="radviz-container">
+                  <div id="radviz"></div>
+                </div>
+                <div class="loader-rv" style="display: none"></div>
+              </div>
+
+              <!-- Legend radviz -->
+              <div class="legend-rad" id="legend-rad">
+                <p style="font-size: 1.2vmin;">Effectiveness<br>error:</p>
+                <div id="legend-radviz" style="margin-top: 1vh"></div>
+              </div>
+
+              <!-- Button radviz -->
+              <div class="btn-rad" style="margin-top: -1vh">
+                <button type="button" class="radviz_buttons" id="reset_button">
+                  Reset
+                </button>
+                <button
+                  type="button"
+                  class="radviz_buttons"
+                  id="selected_button"
+                >
+                  Selected
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!--Linechart -->
+      <div class="div7" id="rcorners1">
+          <select id="dropdown_lc" name="type" style="width: 20vmin">
+            <option value="tv">Transfer values</option>
+            <option value="pw">Players' wages</option>
+          </select>
+
+          <br /><br />
+
+          <div id="line_chart"></div>
+          <div id="line_chart_range_selector"></div>
+          <div class="loader-lc" style="display: none"></div>
+        </div>
+      </div>
+    </div>
+<script>
+      var checkBoxA = document.getElementById("all_checkbox");
+      var checkBoxF = document.getElementById("f_checkbox");
+      var checkBoxM = document.getElementById("m_checkbox");
+      var checkBoxD = document.getElementById("d_checkbox");
+      var checkBoxG = document.getElementById("gk_checkbox");
+
+      var radio1 = document.getElementById("1");
+      var radio2 = document.getElementById("2");
+      var radio3 = document.getElementById("3");
+      var radio4 = document.getElementById("4");
+      var radio5 = document.getElementById("5");
+
+      function myFunction1() {
+        if (checkBoxA.checked == true) {
+          checkBoxF.checked = false;
+          checkBoxM.checked = false;
+          checkBoxD.checked = false;
+          checkBoxG.checked = false;
+        }
+        if (
+          checkBoxF.checked == false &&
+          checkBoxM.checked == false &&
+          checkBoxD.checked == false &&
+          checkBoxG.checked == false
+        ) {
+          checkBoxA.checked = true;
+        }
+      }
+
+      function myFunction2() {
+        if (
+          checkBoxF.checked == false &&
+          checkBoxM.checked == false &&
+          checkBoxD.checked == false &&
+          checkBoxG.checked == false
+        ) {
+          checkBoxA.checked = true;
+        }
+      }
+
+
+    const selectBtn = document.getElementById('selected_button');
+
+    selectBtn.addEventListener('click', function onClick() {
+          selectBtn.style.backgroundColor = '#fac74d';
+          selectBtn.style.color = '#222831';
+
+    });  
+
+    
+    function myFunction3() {
+
+      const legend = document.getElementById('legend-rad');
+    
+      if (document.querySelector('input[name="radio_radviz"]:checked').value == "c") {
+        legend.style.display = 'none';
+      } 
+      if (document.querySelector('input[name="radio_radviz"]:checked').value == "ee") {
+        legend.style.display = null;
+      }
+    }
+
+    </script>
+
+
+  </body>
+</html>

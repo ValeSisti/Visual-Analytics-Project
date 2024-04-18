@@ -1,0 +1,2977 @@
+Positions,sofifa_id,short_name,Pace,Shooting,Passing,Dribbling,Defending,Physic
+Midfielder,158023,L. Messi,85.0,92.0,91.0,95.0,34.0,65.0
+Forward,188545,R. Lewandowski,78.0,92.0,79.0,86.0,44.0,82.0
+Forward,20801,Cristiano Ronaldo,87.0,94.0,80.0,88.0,34.0,75.0
+Midfielder,190871,Neymar Jr,91.0,83.0,86.0,94.0,37.0,63.0
+Midfielder,192985,K. De Bruyne,76.0,86.0,93.0,88.0,64.0,78.0
+Goalkeeper,200389,J. Oblak,,,,,,
+Forward,231747,K. Mbappé,97.0,88.0,80.0,92.0,36.0,77.0
+Goalkeeper,167495,M. Neuer,,,,,,
+Goalkeeper,192448,M. ter Stegen,,,,,,
+Forward,202126,H. Kane,70.0,91.0,83.0,83.0,47.0,83.0
+Midfielder,215914,N. Kanté,78.0,66.0,75.0,82.0,87.0,83.0
+Midfielder,208722,S. Mané,91.0,83.0,80.0,89.0,44.0,77.0
+Goalkeeper,230621,G. Donnarumma,,,,,,
+Goalkeeper,212831,Alisson,,,,,,
+Goalkeeper,210257,Ederson,,,,,,
+Midfielder,209331,M. Salah,90.0,87.0,81.0,90.0,45.0,75.0
+Midfielder,212622,J. Kimmich,70.0,73.0,86.0,84.0,83.0,79.0
+Defender,203376,V. van Dijk,78.0,60.0,71.0,72.0,91.0,84.0
+Forward,165153,K. Benzema,76.0,86.0,81.0,87.0,39.0,77.0
+Midfielder,200104,H. Son,88.0,87.0,82.0,86.0,43.0,69.0
+Goalkeeper,192119,T. Courtois,,,,,,
+Midfielder,200145,Casemiro,65.0,73.0,76.0,73.0,86.0,90.0
+Goalkeeper,193041,K. Navas,,,,,,
+Forward,239085,E. Haaland,89.0,91.0,65.0,80.0,45.0,88.0
+Midfielder,212198,Bruno Fernandes,75.0,86.0,89.0,84.0,70.0,77.0
+Midfielder,202652,R. Sterling,91.0,82.0,79.0,87.0,45.0,66.0
+Forward,192505,R. Lukaku,84.0,87.0,74.0,78.0,39.0,83.0
+Midfielder,182521,T. Kroos,53.0,81.0,91.0,81.0,71.0,68.0
+Forward,176580,L. Suárez,72.0,90.0,82.0,84.0,47.0,83.0
+Defender,155862,Sergio Ramos,70.0,70.0,76.0,74.0,88.0,84.0
+Midfielder,199556,M. Verratti,64.0,61.0,87.0,91.0,79.0,67.0
+Defender,239818,Rúben Dias,61.0,38.0,65.0,68.0,88.0,88.0
+Midfielder,233049,J. Sancho,81.0,76.0,82.0,91.0,36.0,65.0
+Defender,231281,T. Alexander-Arnold,79.0,68.0,88.0,80.0,80.0,72.0
+Midfielder,228702,F. de Jong,81.0,69.0,85.0,88.0,77.0,78.0
+Defender,216267,A. Robertson,84.0,61.0,81.0,81.0,82.0,76.0
+Midfielder,209658,L. Goretzka,81.0,82.0,82.0,84.0,81.0,86.0
+Defender,207865,Marquinhos,81.0,53.0,75.0,74.0,89.0,81.0
+Forward,211110,P. Dybala,84.0,86.0,86.0,90.0,40.0,60.0
+Midfielder,195864,P. Pogba,71.0,81.0,86.0,86.0,65.0,83.0
+Forward,153079,S. Agüero,71.0,89.0,75.0,87.0,33.0,69.0
+Midfielder,189596,T. Müller,67.0,84.0,83.0,80.0,56.0,71.0
+Goalkeeper,186153,W. Szczęsny,,,,,,
+Midfielder,183898,Á. Di María,83.0,81.0,86.0,87.0,48.0,69.0
+Midfielder,177003,L. Modrić,73.0,76.0,89.0,88.0,72.0,66.0
+Goalkeeper,167948,H. Lloris,,,,,,
+Forward,192387,C. Immobile,86.0,87.0,67.0,81.0,39.0,77.0
+Midfielder,213345,K. Coman,93.0,76.0,79.0,88.0,30.0,60.0
+Forward,208830,J. Vardy,85.0,84.0,70.0,80.0,52.0,73.0
+Defender,210514,João Cancelo,85.0,71.0,83.0,84.0,80.0,72.0
+Defender,212218,A. Laporte,63.0,50.0,72.0,69.0,86.0,80.0
+Midfielder,231866,Rodri,61.0,70.0,77.0,78.0,82.0,82.0
+Midfielder,218667,Bernardo Silva,80.0,76.0,83.0,91.0,54.0,67.0
+Midfielder,226161,Marcos Llorente,88.0,80.0,81.0,82.0,78.0,82.0
+Midfielder,204485,R. Mahrez,81.0,79.0,81.0,90.0,38.0,60.0
+Defender,232363,M. Škriniar,80.0,41.0,53.0,69.0,87.0,84.0
+Forward,208093,Gerard Moreno,79.0,86.0,77.0,84.0,46.0,73.0
+Midfielder,209499,Fabinho,67.0,69.0,78.0,78.0,85.0,83.0
+Defender,201535,R. Varane,82.0,49.0,64.0,65.0,87.0,82.0
+Midfielder,189509,Thiago,63.0,72.0,86.0,90.0,70.0,66.0
+Defender,201024,K. Koulibaly,81.0,28.0,51.0,65.0,87.0,85.0
+Defender,138956,G. Chiellini,68.0,46.0,60.0,59.0,89.0,85.0
+Goalkeeper,162835,S. Handanovič,,,,,,
+Defender,189332,Jordi Alba,86.0,69.0,81.0,83.0,77.0,71.0
+Defender,178603,M. Hummels,56.0,59.0,77.0,73.0,89.0,77.0
+Midfielder,189511,Sergio Busquets,42.0,62.0,79.0,80.0,82.0,75.0
+Midfielder,189513,Parejo,50.0,83.0,90.0,81.0,71.0,69.0
+Goalkeeper,192984,K. Casteels,,,,,,
+Midfielder,198219,L. Insigne,87.0,78.0,85.0,90.0,36.0,45.0
+Midfielder,223848,S. Milinković-Savić,68.0,79.0,80.0,81.0,79.0,86.0
+Forward,201942,Roberto Firmino,77.0,78.0,79.0,89.0,59.0,78.0
+Forward,202556,M. Depay,82.0,83.0,82.0,84.0,30.0,79.0
+Defender,204963,Carvajal,80.0,54.0,78.0,80.0,81.0,80.0
+Midfielder,205498,Jorginho,55.0,67.0,86.0,81.0,73.0,73.0
+Midfielder,206113,S. Gnabry,83.0,84.0,79.0,86.0,43.0,69.0
+Defender,235243,M. de Ligt,73.0,59.0,60.0,69.0,84.0,87.0
+Midfielder,226790,W. Ndidi,67.0,62.0,69.0,74.0,87.0,83.0
+Midfielder,230142,Oyarzabal,82.0,82.0,81.0,84.0,41.0,63.0
+Forward,231478,L. Martínez,84.0,81.0,72.0,85.0,48.0,84.0
+Midfielder,231677,M. Rashford,90.0,84.0,79.0,84.0,43.0,77.0
+Defender,235212,A. Hakimi,95.0,71.0,78.0,83.0,76.0,78.0
+Forward,194765,A. Griezmann,80.0,84.0,84.0,87.0,52.0,72.0
+Defender,198176,S. de Vrij,72.0,41.0,64.0,70.0,87.0,79.0
+Midfielder,193747,Koke,70.0,75.0,85.0,81.0,79.0,80.0
+Defender,164240,Thiago Silva,53.0,54.0,72.0,72.0,86.0,78.0
+Midfielder,183277,E. Hazard,84.0,80.0,82.0,88.0,35.0,63.0
+Midfielder,143076,A. Gómez,87.0,78.0,84.0,87.0,39.0,55.0
+Goalkeeper,163587,K. Schmeichel,,,,,,
+Midfielder,168542,David Silva,63.0,74.0,87.0,87.0,52.0,53.0
+Goalkeeper,177683,Y. Sommer,,,,,,
+Forward,179813,E. Cavani,66.0,86.0,70.0,76.0,51.0,79.0
+Defender,184344,L. Bonucci,64.0,58.0,69.0,72.0,86.0,80.0
+Goalkeeper,185122,P. Gulácsi,,,,,,
+Midfielder,186942,İ. Gündoğan,65.0,80.0,85.0,86.0,73.0,72.0
+Midfielder,188350,M. Reus,73.0,84.0,84.0,85.0,47.0,63.0
+Defender,188377,K. Walker,92.0,63.0,76.0,78.0,80.0,82.0
+Forward,188567,P. Aubameyang,89.0,85.0,75.0,80.0,35.0,69.0
+Defender,209889,R. Guerreiro,75.0,77.0,85.0,88.0,76.0,58.0
+Midfielder,216352,M. Brozović,69.0,74.0,80.0,79.0,79.0,78.0
+Goalkeeper,215698,M. Maignan,,,,,,
+Forward,212188,T. Werner,91.0,81.0,70.0,82.0,35.0,70.0
+Defender,210243,Ricardo Pereira,83.0,67.0,78.0,82.0,80.0,75.0
+Midfielder,208670,H. Ziyech,78.0,76.0,87.0,83.0,50.0,65.0
+Midfielder,208574,F. Kostić,88.0,77.0,82.0,83.0,68.0,80.0
+Midfielder,208418,Y. Carrasco,88.0,81.0,78.0,85.0,45.0,67.0
+Defender,216460,J. Giménez,69.0,45.0,57.0,59.0,86.0,80.0
+Midfielder,216393,Y. Tielemans,63.0,79.0,86.0,80.0,71.0,72.0
+Midfielder,230938,F. Kessié,78.0,74.0,74.0,80.0,82.0,87.0
+Midfielder,216594,N. Fekir,83.0,83.0,82.0,87.0,38.0,79.0
+Midfielder,222492,L. Sané,90.0,81.0,79.0,85.0,38.0,68.0
+Midfielder,224232,N. Barella,78.0,71.0,79.0,86.0,75.0,78.0
+Defender,224334,M. Acuña,76.0,74.0,82.0,87.0,79.0,82.0
+Forward,228941,André Silva,74.0,84.0,69.0,83.0,45.0,77.0
+Defender,207862,M. Ginter,62.0,58.0,72.0,66.0,86.0,79.0
+Defender,232656,T. Hernández,93.0,71.0,76.0,81.0,77.0,82.0
+Midfielder,235790,K. Havertz,82.0,78.0,79.0,84.0,45.0,66.0
+Midfielder,237692,P. Foden,84.0,78.0,80.0,87.0,56.0,57.0
+Defender,207863,Felipe,61.0,41.0,58.0,62.0,85.0,84.0
+Midfielder,206517,J. Grealish,80.0,76.0,83.0,88.0,46.0,64.0
+Midfielder,181291,G. Wijnaldum,77.0,75.0,80.0,86.0,79.0,79.0
+Goalkeeper,193080,De Gea,,,,,,
+Forward,41236,Z. Ibrahimović,65.0,87.0,78.0,79.0,34.0,77.0
+Defender,146536,Jesús Navas,87.0,69.0,81.0,83.0,79.0,58.0
+Defender,152729,Piqué,58.0,61.0,71.0,68.0,85.0,78.0
+Forward,175943,D. Mertens,85.0,82.0,80.0,88.0,34.0,50.0
+Defender,205988,L. Shaw,79.0,54.0,79.0,80.0,81.0,80.0
+Midfielder,183711,J. Henderson,66.0,74.0,83.0,79.0,78.0,81.0
+Midfielder,184134,Fernando,66.0,62.0,75.0,74.0,83.0,82.0
+Defender,186345,K. Trippier,73.0,63.0,82.0,77.0,80.0,72.0
+Forward,192629,Iago Aspas,82.0,85.0,79.0,86.0,35.0,63.0
+Defender,197445,D. Alaba,77.0,70.0,81.0,80.0,83.0,76.0
+Midfielder,198706,Luis Alberto,60.0,76.0,86.0,84.0,57.0,59.0
+Forward,199451,W. Ben Yedder,82.0,84.0,77.0,87.0,39.0,70.0
+Defender,200458,L. Digne,79.0,69.0,80.0,80.0,80.0,76.0
+Forward,200647,J. Iličić,75.0,86.0,84.0,86.0,40.0,67.0
+Goalkeeper,202811,E. Martínez,,,,,,
+Defender,203263,H. Maguire,50.0,55.0,69.0,70.0,85.0,87.0
+Defender,204639,S. Savić,64.0,35.0,57.0,58.0,87.0,76.0
+Midfielder,204923,M. Sabitzer,78.0,84.0,81.0,80.0,67.0,78.0
+Forward,215333,D. Zapata,80.0,81.0,61.0,78.0,35.0,84.0
+Midfielder,220834,Marco Asensio,82.0,80.0,81.0,83.0,43.0,62.0
+Defender,220814,L. Hernández,77.0,54.0,68.0,71.0,84.0,79.0
+Defender,220651,Angeliño,78.0,71.0,82.0,84.0,76.0,70.0
+Forward,216354,A. Kramarić,71.0,86.0,76.0,86.0,30.0,71.0
+Defender,223697,R. Gosens,82.0,75.0,74.0,79.0,77.0,81.0
+Forward,214997,Á. Correa,85.0,83.0,78.0,87.0,49.0,74.0
+Midfielder,213648,P. Højbjerg,60.0,71.0,76.0,76.0,81.0,82.0
+Midfielder,213565,T. Lemar,82.0,76.0,82.0,86.0,59.0,63.0
+Defender,211688,Gayà,83.0,61.0,77.0,80.0,79.0,73.0
+Midfielder,209989,T. Partey,69.0,71.0,82.0,81.0,80.0,84.0
+Forward,223689,W. Weghorst,63.0,83.0,59.0,70.0,52.0,86.0
+Midfielder,205632,L. Ocampos,81.0,84.0,78.0,83.0,63.0,84.0
+Midfielder,225193,Merino,74.0,78.0,81.0,82.0,82.0,81.0
+Defender,225850,P. Kimpembe,81.0,42.0,68.0,70.0,83.0,86.0
+Defender,228618,F. Mendy,92.0,64.0,76.0,79.0,78.0,84.0
+Defender,229880,A. Wan-Bissaka,85.0,52.0,69.0,79.0,81.0,75.0
+Midfielder,230658,Arthur,69.0,67.0,83.0,88.0,72.0,70.0
+Forward,230666,Gabriel Jesus,84.0,81.0,72.0,86.0,39.0,73.0
+Midfielder,231443,O. Dembélé,93.0,77.0,77.0,86.0,36.0,56.0
+Midfielder,233064,M. Mount,74.0,79.0,84.0,83.0,55.0,65.0
+Goalkeeper,234642,É. Mendy,,,,,,
+Midfielder,235805,F. Chiesa,91.0,81.0,74.0,85.0,48.0,73.0
+Midfielder,239053,F. Valverde,86.0,74.0,78.0,79.0,77.0,80.0
+Defender,241486,J. Koundé,81.0,45.0,64.0,72.0,84.0,78.0
+Midfielder,207410,M. Kovačić,70.0,69.0,83.0,88.0,69.0,70.0
+Forward,242444,João Félix,82.0,79.0,76.0,86.0,40.0,68.0
+Defender,205452,A. Rüdiger,75.0,43.0,68.0,64.0,84.0,84.0
+Defender,192774,K. Manolas,81.0,25.0,44.0,62.0,85.0,81.0
+Goalkeeper,204935,J. Pickford,,,,,,
+Midfielder,135507,Fernandinho,59.0,72.0,75.0,78.0,84.0,75.0
+Midfielder,177413,A. Witsel,61.0,72.0,81.0,79.0,82.0,79.0
+Goalkeeper,178750,Sergio Asenjo,,,,,,
+Defender,179645,S. Kjær,67.0,55.0,64.0,59.0,85.0,78.0
+Forward,180930,E. Džeko,66.0,83.0,72.0,78.0,45.0,76.0
+Defender,184432,Azpilicueta,66.0,55.0,76.0,72.0,84.0,76.0
+Midfielder,189575,Muniain,81.0,76.0,82.0,87.0,51.0,61.0
+Midfielder,190286,Canales,83.0,80.0,85.0,82.0,67.0,71.0
+Goalkeeper,190941,L. Hrádecký,,,,,,
+Defender,191043,Alex Sandro,81.0,65.0,77.0,79.0,78.0,79.0
+Goalkeeper,192563,B. Leno,,,,,,
+Defender,183907,J. Boateng,72.0,50.0,73.0,67.0,84.0,79.0
+Forward,192883,H. Mkhitaryan,85.0,80.0,79.0,83.0,56.0,74.0
+Forward,201153,Morata,82.0,80.0,72.0,81.0,31.0,77.0
+Defender,193082,J. Cuadrado,90.0,75.0,77.0,87.0,76.0,72.0
+Forward,204838,R. Jiménez,72.0,82.0,76.0,81.0,47.0,82.0
+Goalkeeper,203841,N. Pope,,,,,,
+Defender,203574,J. Stones,70.0,51.0,71.0,74.0,84.0,78.0
+Forward,201399,M. Icardi,69.0,83.0,65.0,77.0,36.0,69.0
+Defender,202884,L. Spinazzola,92.0,64.0,73.0,80.0,78.0,71.0
+Forward,200610,K. Volland,73.0,85.0,79.0,80.0,42.0,86.0
+Midfielder,199914,Allan,72.0,71.0,77.0,82.0,80.0,79.0
+Defender,199845,F. Acerbi,63.0,50.0,62.0,64.0,86.0,83.0
+Defender,197061,J. Matip,58.0,46.0,68.0,68.0,85.0,78.0
+Defender,229668,Mario Hermoso,75.0,49.0,72.0,71.0,83.0,80.0
+Midfielder,224293,Rúben Neves,59.0,75.0,85.0,77.0,74.0,73.0
+Defender,229558,D. Upamecano,81.0,43.0,62.0,68.0,81.0,81.0
+Midfielder,227796,C. Pulisic,89.0,70.0,73.0,86.0,37.0,59.0
+Midfielder,226271,Fabián,63.0,78.0,79.0,82.0,74.0,71.0
+Defender,225100,J. Gomez,81.0,30.0,66.0,69.0,83.0,78.0
+Midfielder,224458,Diogo Jota,84.0,81.0,73.0,85.0,57.0,77.0
+Midfielder,212616,R. De Paul,78.0,76.0,80.0,82.0,71.0,79.0
+Midfielder,222665,M. Ødegaard,77.0,74.0,83.0,84.0,58.0,62.0
+Midfielder,222077,M. Locatelli,61.0,72.0,79.0,77.0,79.0,79.0
+Defender,220440,C. Lenglet,72.0,45.0,67.0,66.0,83.0,79.0
+Midfielder,220018,A. Rebić,86.0,83.0,75.0,81.0,48.0,80.0
+Defender,219693,Diego Carlos,76.0,47.0,63.0,68.0,81.0,83.0
+Defender,212462,Alex Telles,83.0,73.0,82.0,78.0,77.0,73.0
+Defender,229984,B. Chilwell,76.0,53.0,77.0,78.0,78.0,75.0
+Midfielder,229906,L. Bailey,93.0,78.0,74.0,84.0,33.0,64.0
+Midfielder,241461,Ferran Torres,82.0,79.0,78.0,82.0,35.0,66.0
+Goalkeeper,230869,Unai Simón,,,,,,
+Forward,235410,Y. En-Nesyri,78.0,83.0,58.0,78.0,35.0,76.0
+Midfielder,244260,Dani Olmo,67.0,76.0,81.0,86.0,50.0,60.0
+Defender,241464,Pau Torres,71.0,38.0,67.0,70.0,84.0,80.0
+Goalkeeper,211515,P. Gollini,,,,,,
+Defender,240130,Éder Militão,83.0,50.0,69.0,71.0,83.0,82.0
+Midfielder,236792,T. Souček,64.0,72.0,74.0,74.0,82.0,85.0
+Midfielder,235569,T. Ndombele,71.0,72.0,81.0,88.0,69.0,72.0
+Midfielder,234943,F. Neuhaus,64.0,72.0,79.0,82.0,66.0,67.0
+Forward,231943,Richarlison,83.0,78.0,73.0,83.0,53.0,80.0
+Defender,234396,A. Davies,96.0,67.0,71.0,82.0,75.0,75.0
+Midfielder,234378,D. Rice,66.0,53.0,71.0,74.0,81.0,79.0
+Forward,233731,A. Isak,84.0,82.0,68.0,79.0,29.0,69.0
+Midfielder,233419,Raphinha,91.0,76.0,76.0,84.0,49.0,72.0
+Defender,233096,D. Dumfries,80.0,61.0,66.0,72.0,78.0,89.0
+Defender,232488,C. Romero,76.0,46.0,52.0,61.0,83.0,84.0
+Defender,212190,N. Süle,65.0,42.0,59.0,51.0,83.0,81.0
+Midfielder,220697,J. Maddison,75.0,78.0,84.0,84.0,54.0,60.0
+Midfielder,210935,D. Berardi,79.0,80.0,81.0,85.0,36.0,69.0
+Midfielder,197781,Isco,66.0,75.0,80.0,88.0,59.0,59.0
+Goalkeeper,193698,O. Baumann,,,,,,
+Midfielder,193474,I. Gueye,69.0,62.0,71.0,78.0,83.0,77.0
+Forward,193301,A. Lacazette,75.0,82.0,74.0,82.0,44.0,72.0
+Goalkeeper,193105,A. Areola,,,,,,
+Midfielder,190460,C. Eriksen,62.0,78.0,88.0,81.0,53.0,52.0
+Midfielder,189242,Coutinho,69.0,79.0,80.0,88.0,52.0,59.0
+Goalkeeper,188943,K. Trapp,,,,,,
+Defender,183512,Yuri Berchiche,83.0,68.0,76.0,76.0,79.0,82.0
+Goalkeeper,178005,Rui Patrício,,,,,,
+Midfielder,173731,G. Bale,82.0,84.0,82.0,80.0,55.0,70.0
+Midfielder,168651,I. Rakitić,57.0,79.0,85.0,78.0,75.0,69.0
+Goalkeeper,168435,S. Sirigu,,,,,,
+Goalkeeper,164835,Ł. Fabiański,,,,,,
+Defender,210413,A. Romagnoli,68.0,40.0,56.0,68.0,85.0,78.0
+Defender,157481,Raúl Albiol,40.0,41.0,62.0,63.0,86.0,73.0
+Goalkeeper,194404,Neto,,,,,,
+Midfielder,187072,L. Stindl,61.0,84.0,81.0,81.0,60.0,73.0
+Forward,198717,W. Zaha,89.0,77.0,73.0,87.0,34.0,75.0
+Midfielder,208461,M. de Roon,66.0,68.0,71.0,73.0,82.0,83.0
+Goalkeeper,209981,Y. Bounou,,,,,,
+Midfielder,208421,Saúl,71.0,78.0,78.0,79.0,78.0,79.0
+Midfielder,208333,E. Can,78.0,78.0,78.0,80.0,84.0,87.0
+Midfielder,208128,H. Çalhanoğlu,67.0,78.0,84.0,85.0,59.0,57.0
+Midfielder,205070,Portu,90.0,78.0,77.0,79.0,59.0,79.0
+Defender,205069,Juan Bernat,82.0,65.0,78.0,82.0,76.0,68.0
+Midfielder,203486,T. Hazard,80.0,76.0,80.0,85.0,52.0,66.0
+Midfielder,202651,Suso,76.0,76.0,82.0,85.0,32.0,55.0
+Midfielder,201519,J. Veretout,77.0,75.0,77.0,79.0,77.0,81.0
+Defender,201305,Gabriel Paulista,67.0,49.0,71.0,65.0,84.0,83.0
+Midfielder,199823,Campaña,68.0,74.0,83.0,82.0,71.0,72.0
+Goalkeeper,199482,A. Lopes,,,,,,
+Forward,199110,L. Muriel,89.0,83.0,74.0,86.0,27.0,67.0
+Midfielder,221363,D. van de Beek,68.0,78.0,76.0,79.0,72.0,77.0
+Forward,221479,D. Calvert-Lewin,83.0,77.0,64.0,77.0,39.0,82.0
+Midfielder,221992,H. Lozano,93.0,76.0,72.0,82.0,41.0,62.0
+Midfielder,224411,Gonçalo Guedes,86.0,79.0,76.0,82.0,36.0,68.0
+Goalkeeper,223952,David Soria,,,,,,
+Midfielder,224081,K. Phillips,67.0,65.0,76.0,75.0,78.0,82.0
+Defender,220093,H. Hateboer,84.0,64.0,72.0,77.0,77.0,79.0
+Midfielder,225375,K. Laimer,81.0,68.0,77.0,78.0,80.0,77.0
+Goalkeeper,220407,M. Dúbravka,,,,,,
+Goalkeeper,214979,J. Musso,,,,,,
+Defender,217940,D. Djené,69.0,37.0,62.0,62.0,83.0,79.0
+Forward,216475,Morales,86.0,82.0,75.0,85.0,52.0,68.0
+Midfielder,216409,M. Politano,83.0,77.0,78.0,84.0,42.0,55.0
+Forward,216201,Iñaki Williams,94.0,78.0,72.0,78.0,37.0,81.0
+Forward,215330,J. Correa,84.0,75.0,77.0,85.0,39.0,69.0
+Midfielder,212194,J. Brandt,73.0,75.0,80.0,84.0,48.0,66.0
+Forward,211300,A. Martial,87.0,80.0,73.0,85.0,35.0,68.0
+Midfielder,210463,D. Machís,88.0,80.0,75.0,83.0,38.0,70.0
+Defender,226166,N. Mukiele,80.0,49.0,69.0,73.0,82.0,80.0
+Midfielder,226110,N. Pépé,88.0,79.0,75.0,83.0,36.0,65.0
+Defender,247263,E. Tapsoba,75.0,52.0,65.0,69.0,82.0,79.0
+Midfielder,226226,G. Lo Celso,75.0,76.0,82.0,83.0,69.0,73.0
+Goalkeeper,227127,Álex Remiro,,,,,,
+Goalkeeper,210385,Rui Silva,,,,,,
+Midfielder,251854,Pedri,78.0,65.0,79.0,84.0,66.0,63.0
+Defender,251573,Renan Lodi,84.0,67.0,76.0,81.0,77.0,75.0
+Midfielder,247394,D. Kulusevski,84.0,74.0,77.0,84.0,56.0,76.0
+Defender,245279,Reguilón,86.0,58.0,75.0,78.0,78.0,70.0
+Midfielder,241852,M. Diaby,94.0,67.0,73.0,85.0,41.0,53.0
+Midfielder,239231,Cucurella,79.0,67.0,78.0,80.0,73.0,74.0
+Defender,238074,R. James,80.0,58.0,77.0,77.0,76.0,80.0
+Defender,235374,M. Lazzari,92.0,62.0,76.0,82.0,70.0,65.0
+Midfielder,234906,H. Aouar,75.0,75.0,81.0,85.0,66.0,71.0
+Midfielder,234742,H. Barnes,86.0,77.0,76.0,81.0,45.0,63.0
+Midfielder,234153,Carlos Soler,78.0,77.0,82.0,79.0,71.0,71.0
+Midfielder,233927,Lucas Paquetá,74.0,75.0,79.0,83.0,69.0,78.0
+Midfielder,232411,C. Nkunku,79.0,74.0,81.0,85.0,69.0,65.0
+Forward,231969,R. Malinovskyi,74.0,80.0,83.0,81.0,64.0,79.0
+Midfielder,228251,L. Pellegrini,78.0,74.0,81.0,80.0,72.0,77.0
+Defender,227950,Yeray,68.0,49.0,62.0,64.0,82.0,77.0
+Midfielder,210406,P. Zieliński,81.0,75.0,81.0,85.0,70.0,61.0
+Goalkeeper,193314,Aitor,,,,,,
+Midfielder,210008,A. Rabiot,76.0,74.0,76.0,80.0,76.0,79.0
+Defender,199564,Sergi Roberto,76.0,63.0,80.0,77.0,76.0,73.0
+Midfielder,198710,J. Rodríguez,53.0,86.0,86.0,86.0,50.0,60.0
+Forward,195859,D. Ings,79.0,84.0,70.0,80.0,45.0,70.0
+Midfielder,195365,K. Kampl,70.0,67.0,81.0,85.0,63.0,62.0
+Forward,193983,A. Delort,84.0,82.0,73.0,75.0,37.0,85.0
+Midfielder,193283,T. Delaney,75.0,71.0,74.0,74.0,83.0,82.0
+Midfielder,190674,B. André,67.0,64.0,74.0,75.0,80.0,85.0
+Forward,183574,M. Kruse,64.0,81.0,81.0,82.0,40.0,66.0
+Midfielder,181872,A. Vidal,65.0,79.0,79.0,79.0,82.0,82.0
+Midfielder,181458,I. Perišić,81.0,79.0,76.0,79.0,64.0,74.0
+Midfielder,176266,Lucas Leiva,56.0,65.0,73.0,76.0,82.0,69.0
+Defender,171791,José Fonte,32.0,46.0,62.0,63.0,83.0,77.0
+Goalkeeper,163705,S. Mandanda,,,,,,
+Goalkeeper,163489,A. Consigli,,,,,,
+Midfielder,156519,H. Herrera,70.0,75.0,76.0,76.0,78.0,84.0
+Forward,124375,B. Yılmaz,79.0,83.0,69.0,73.0,34.0,79.0
+Midfielder,45186,Joaquín,68.0,80.0,84.0,81.0,44.0,55.0
+Midfielder,209297,Fred,77.0,66.0,77.0,81.0,75.0,71.0
+Defender,199304,Danilo,73.0,67.0,73.0,74.0,82.0,79.0
+Forward,184200,M. Arnautović,79.0,81.0,79.0,78.0,44.0,82.0
+Goalkeeper,199987,J. Cillessen,,,,,,
+Forward,205175,A. Milik,64.0,84.0,67.0,76.0,39.0,71.0
+Forward,200454,Paco Alcácer,77.0,84.0,69.0,81.0,35.0,61.0
+Forward,208596,A. Belotti,76.0,81.0,59.0,78.0,38.0,83.0
+Midfielder,208448,E. Forsberg,70.0,73.0,82.0,83.0,35.0,62.0
+Midfielder,208330,A. Januzaj,79.0,75.0,80.0,83.0,30.0,58.0
+Midfielder,207439,L. Paredes,66.0,71.0,83.0,79.0,76.0,79.0
+Midfielder,206511,M. Arnold,65.0,81.0,79.0,78.0,76.0,74.0
+Goalkeeper,205659,A. Cragno,,,,,,
+Midfielder,205569,J. Ward-Prowse,59.0,74.0,86.0,78.0,67.0,73.0
+Midfielder,208618,Lucas Vázquez,82.0,73.0,79.0,80.0,69.0,69.0
+Defender,204638,W. Orban,49.0,36.0,52.0,55.0,84.0,80.0
+Defender,202695,J. Tarkowski,57.0,45.0,67.0,65.0,82.0,81.0
+Defender,204525,Iñigo Martínez,71.0,56.0,66.0,64.0,81.0,79.0
+Midfielder,200888,Danilo Pereira,64.0,63.0,71.0,73.0,80.0,86.0
+Midfielder,200949,Lucas Moura,90.0,79.0,70.0,86.0,43.0,68.0
+Defender,200724,Nacho Fernández,78.0,37.0,66.0,69.0,81.0,80.0
+Defender,203551,A. Florenzi,76.0,77.0,79.0,80.0,76.0,62.0
+Defender,204311,K. Zouma,65.0,51.0,63.0,57.0,81.0,85.0
+Midfielder,224309,Joan Jordán,63.0,75.0,81.0,77.0,67.0,76.0
+Defender,227813,O. Zinchenko,73.0,65.0,80.0,80.0,77.0,69.0
+Goalkeeper,227290,M. Dmitrović,,,,,,
+Midfielder,226754,I. Bennacer,73.0,67.0,80.0,84.0,73.0,73.0
+Defender,226491,K. Tierney,84.0,60.0,75.0,77.0,75.0,79.0
+Defender,227928,Nélson Semedo,82.0,57.0,68.0,81.0,75.0,75.0
+Midfielder,225953,S. Bergwijn,85.0,78.0,75.0,82.0,39.0,69.0
+Midfielder,225201,Álex Berenguer,82.0,76.0,76.0,81.0,63.0,65.0
+Midfielder,225085,J. Bamba,89.0,75.0,74.0,81.0,39.0,69.0
+Defender,222331,L. Klostermann,85.0,51.0,64.0,71.0,82.0,77.0
+Forward,224179,Borja Iglesias,65.0,80.0,64.0,74.0,35.0,80.0
+Midfielder,223959,L. Torreira,74.0,67.0,74.0,79.0,79.0,75.0
+Defender,223724,S. Lainer,78.0,63.0,70.0,75.0,74.0,80.0
+Defender,221660,V. Lindelöf,63.0,51.0,73.0,72.0,81.0,78.0
+Goalkeeper,221087,Pau López,,,,,,
+Midfielder,220971,N. Keïta,70.0,73.0,75.0,85.0,65.0,66.0
+Defender,220182,J. Denayer,83.0,43.0,67.0,71.0,81.0,81.0
+Midfielder,229261,D. Zakaria,83.0,64.0,72.0,75.0,80.0,84.0
+Defender,229237,M. Akanji,81.0,48.0,67.0,74.0,81.0,77.0
+Defender,217870,G. Di Lorenzo,84.0,66.0,73.0,76.0,76.0,79.0
+Defender,229582,G. Mancini,61.0,45.0,50.0,59.0,80.0,84.0
+Midfielder,229857,S. Sensi,67.0,60.0,83.0,83.0,67.0,59.0
+Midfielder,246669,B. Saka,84.0,68.0,76.0,82.0,65.0,64.0
+Defender,244470,V. Coufal,77.0,56.0,73.0,75.0,78.0,81.0
+Midfielder,241095,N. Vlašić,83.0,77.0,78.0,82.0,48.0,71.0
+Defender,240900,Unai Núñez,72.0,22.0,49.0,50.0,81.0,76.0
+Midfielder,240709,R. Baku,84.0,73.0,73.0,81.0,70.0,78.0
+Forward,239207,M. Gómez,66.0,81.0,68.0,73.0,32.0,82.0
+Midfielder,238794,Vinícius Jr.,95.0,70.0,71.0,87.0,29.0,66.0
+Defender,237383,A. Bastoni,65.0,33.0,65.0,69.0,82.0,80.0
+Midfielder,237238,S. McTominay,66.0,75.0,75.0,75.0,78.0,84.0
+Midfielder,236987,B. Kamara,74.0,50.0,72.0,73.0,79.0,78.0
+Goalkeeper,233306,D. Henderson,,,,,,
+Midfielder,233195,X. Schlager,69.0,70.0,73.0,77.0,73.0,81.0
+Forward,232293,V. Osimhen,88.0,80.0,63.0,75.0,39.0,81.0
+Defender,232119,Ç. Söyüncü,76.0,46.0,60.0,67.0,80.0,80.0
+Forward,231447,D. Malen,90.0,79.0,72.0,83.0,30.0,74.0
+Midfielder,230767,Renato Sanches,84.0,74.0,77.0,84.0,72.0,84.0
+Midfielder,229927,Gerson,74.0,64.0,79.0,80.0,78.0,77.0
+Midfielder,219683,C. Tolisso,66.0,77.0,77.0,78.0,76.0,78.0
+Midfielder,219953,Embarba,83.0,77.0,78.0,79.0,55.0,72.0
+Defender,216189,Capa,82.0,64.0,76.0,77.0,74.0,88.0
+Midfielder,185020,José Callejón,77.0,76.0,76.0,81.0,48.0,59.0
+Defender,198141,Bartra,71.0,61.0,72.0,73.0,80.0,74.0
+Goalkeeper,198009,M. Perin,,,,,,
+Midfielder,193061,R. Pereyra,76.0,74.0,79.0,81.0,68.0,73.0
+Goalkeeper,189690,Guaita,,,,,,
+Midfielder,189271,F. Coquelin,68.0,67.0,76.0,80.0,78.0,79.0
+Goalkeeper,189117,R. Bürki,,,,,,
+Defender,187598,Rafael Tolói,66.0,47.0,58.0,64.0,82.0,80.0
+Midfielder,186561,A. Ramsey,66.0,70.0,81.0,83.0,66.0,66.0
+Forward,184941,A. Sánchez,78.0,76.0,78.0,83.0,43.0,68.0
+Forward,199254,João Pedro,72.0,78.0,77.0,81.0,41.0,74.0
+Defender,183855,A. Ogbonna,56.0,40.0,60.0,62.0,82.0,76.0
+Defender,177604,Nacho Monreal,65.0,61.0,74.0,74.0,80.0,68.0
+Midfielder,177388,D. Payet,69.0,77.0,83.0,82.0,38.0,67.0
+Defender,176676,Marcelo,73.0,72.0,80.0,87.0,75.0,71.0
+Defender,172522,D. Wass,74.0,77.0,80.0,77.0,76.0,76.0
+Forward,171579,Raúl García,41.0,82.0,81.0,78.0,65.0,83.0
+Defender,169588,J. Evans,52.0,32.0,61.0,60.0,83.0,77.0
+Goalkeeper,215316,G. Rulli,,,,,,
+Midfielder,199042,C. Aránguiz,65.0,71.0,80.0,77.0,76.0,72.0
+Defender,182493,D. Godín,57.0,48.0,63.0,61.0,80.0,78.0
+Defender,201143,A. Mandi,66.0,46.0,74.0,70.0,81.0,74.0
+Forward,207732,Roger,77.0,82.0,63.0,77.0,41.0,74.0
+Midfielder,201400,Rafinha,71.0,75.0,80.0,84.0,69.0,68.0
+Midfielder,162347,João Moutinho,50.0,72.0,84.0,80.0,70.0,66.0
+Goalkeeper,215223,W. Benítez,,,,,,
+Defender,213661,A. Christensen,65.0,31.0,65.0,68.0,83.0,72.0
+Midfielder,211117,D. Alli,68.0,78.0,78.0,82.0,65.0,75.0
+Defender,210455,Jonny,75.0,53.0,71.0,76.0,79.0,69.0
+Goalkeeper,209960,Pacheco,,,,,,
+Forward,209519,G. Laborde,77.0,78.0,76.0,78.0,40.0,82.0
+Goalkeeper,212151,T. Strakosha,,,,,,
+Defender,207599,M. Keane,55.0,49.0,65.0,65.0,82.0,80.0
+Midfielder,205686,T. Savanier,67.0,74.0,83.0,82.0,69.0,69.0
+Defender,205600,S. Umtiti,65.0,62.0,68.0,67.0,80.0,78.0
+Defender,203890,Š. Vrsaljko,79.0,55.0,73.0,74.0,78.0,77.0
+Midfielder,202325,D. Demme,57.0,42.0,75.0,77.0,76.0,76.0
+Midfielder,202166,J. Draxler,74.0,76.0,80.0,82.0,58.0,66.0
+Midfielder,202024,R. Freuler,69.0,71.0,77.0,78.0,75.0,73.0
+Defender,201922,M. Hinteregger,70.0,70.0,67.0,61.0,81.0,81.0
+Defender,224490,Z. Çelik,79.0,58.0,71.0,72.0,75.0,79.0
+Defender,221491,N. Elvedi,74.0,39.0,63.0,68.0,80.0,77.0
+Defender,222501,T. Castagne,78.0,57.0,71.0,76.0,75.0,70.0
+Defender,223597,R. Aguilar,79.0,53.0,72.0,76.0,74.0,77.0
+Defender,224031,A. Marušić,86.0,66.0,67.0,74.0,75.0,79.0
+Defender,224196,R. Bensebaini,73.0,59.0,72.0,75.0,77.0,80.0
+Midfielder,225663,A. Golovin,81.0,72.0,79.0,83.0,67.0,69.0
+Goalkeeper,225116,A. Meret,,,,,,
+Defender,225508,E. Bailly,73.0,42.0,58.0,67.0,79.0,77.0
+Defender,226221,Aritz Elustondo,66.0,33.0,61.0,60.0,79.0,77.0
+Midfielder,226162,E. Buendía,73.0,73.0,80.0,81.0,64.0,67.0
+Midfielder,220673,R. Tapia,69.0,69.0,72.0,73.0,79.0,82.0
+Defender,220793,D. Sánchez,75.0,45.0,55.0,65.0,80.0,80.0
+Goalkeeper,212442,José Sá,,,,,,
+Defender,220523,Y. Mina,45.0,54.0,60.0,60.0,80.0,81.0
+Midfielder,220253,Munir,79.0,78.0,75.0,82.0,35.0,66.0
+Midfielder,219809,T. Bakayoko,64.0,48.0,68.0,74.0,77.0,84.0
+Defender,219789,H. Traoré,85.0,54.0,72.0,76.0,73.0,77.0
+Midfielder,218339,M. Dahoud,70.0,69.0,76.0,83.0,67.0,70.0
+Midfielder,216388,A. Saint-Maximin,91.0,69.0,70.0,87.0,25.0,61.0
+Defender,216150,D. Zappacosta,76.0,66.0,73.0,74.0,75.0,71.0
+Defender,216145,A. Izzo,70.0,33.0,48.0,65.0,82.0,78.0
+Midfielder,212404,F. Bernardeschi,79.0,71.0,80.0,83.0,61.0,65.0
+Midfielder,212096,V. Grifo,70.0,74.0,79.0,81.0,41.0,62.0
+Midfielder,211748,K. Demirbay,58.0,76.0,79.0,82.0,65.0,70.0
+Defender,226851,B. Pavard,69.0,53.0,72.0,71.0,78.0,76.0
+Midfielder,226456,Pablo Fornals,68.0,74.0,79.0,79.0,69.0,68.0
+Midfielder,241637,A. Tchouaméni,72.0,69.0,75.0,77.0,77.0,82.0
+Midfielder,228093,M. Thuram,82.0,78.0,70.0,79.0,48.0,77.0
+Forward,228520,E. Ávila,81.0,81.0,65.0,78.0,44.0,83.0
+Midfielder,252371,J. Bellingham,75.0,69.0,73.0,80.0,75.0,77.0
+Defender,251809,S. Botman,60.0,36.0,59.0,61.0,80.0,84.0
+Midfielder,247851,Bruno Guimarães,68.0,63.0,78.0,78.0,73.0,75.0
+Defender,247204,Emerson,84.0,62.0,71.0,74.0,74.0,77.0
+Defender,244067,M. Lacroix,88.0,33.0,56.0,65.0,80.0,77.0
+Midfielder,243812,Rodrygo,87.0,76.0,71.0,83.0,32.0,56.0
+Midfielder,211022,Rubén García,80.0,76.0,79.0,79.0,45.0,58.0
+Midfielder,240679,T. Koopmeiners,65.0,72.0,79.0,72.0,76.0,77.0
+Midfielder,240243,Matheus Cunha,85.0,78.0,74.0,84.0,31.0,69.0
+Midfielder,239433,N. Maksimović,56.0,68.0,75.0,71.0,77.0,78.0
+Defender,237942,P. Estupiñán,82.0,34.0,68.0,72.0,75.0,75.0
+Midfielder,237239,E. Bardhi,75.0,81.0,78.0,82.0,63.0,56.0
+Forward,236610,M. Kean,85.0,77.0,56.0,78.0,40.0,75.0
+Midfielder,236480,Y. Bissouma,70.0,68.0,75.0,78.0,77.0,75.0
+Goalkeeper,235073,G. Kobel,,,,,,
+Midfielder,234612,J. Ikoné,89.0,70.0,74.0,83.0,35.0,60.0
+Forward,234236,P. Schick,70.0,79.0,70.0,80.0,35.0,68.0
+Defender,234035,Odriozola,84.0,55.0,71.0,75.0,74.0,65.0
+Defender,233738,Zubeldia,68.0,67.0,75.0,73.0,79.0,81.0
+Defender,232756,F. Tomori,82.0,37.0,57.0,65.0,80.0,79.0
+Midfielder,232730,D. Kamada,75.0,68.0,79.0,83.0,41.0,59.0
+Midfielder,232665,M. Arambarri,47.0,60.0,72.0,72.0,77.0,76.0
+Defender,232580,Gabriel,68.0,36.0,60.0,58.0,80.0,80.0
+Forward,232432,L. Jović,75.0,80.0,68.0,78.0,29.0,74.0
+Forward,228687,K. Dolberg,73.0,81.0,69.0,77.0,30.0,68.0
+Defender,211241,Rubén Peña,80.0,70.0,72.0,78.0,75.0,68.0
+Forward,223578,Mata,68.0,80.0,61.0,76.0,31.0,76.0
+Defender,210625,K. Mbabu,88.0,51.0,69.0,73.0,74.0,80.0
+Forward,190717,M. Antonio,83.0,76.0,73.0,78.0,55.0,83.0
+Defender,198230,Germán,49.0,40.0,59.0,56.0,81.0,79.0
+Forward,196978,C. Wilson,80.0,78.0,66.0,78.0,41.0,77.0
+Goalkeeper,194333,R. Gikiewicz,,,,,,
+Midfielder,193348,X. Shaqiri,75.0,76.0,80.0,81.0,46.0,67.0
+Midfielder,193198,N. Gudelj,60.0,70.0,79.0,70.0,75.0,83.0
+Defender,192789,Mario Gaspar,74.0,69.0,71.0,72.0,78.0,76.0
+Defender,192638,Marcos Alonso,58.0,74.0,78.0,77.0,75.0,77.0
+Forward,192123,C. Wood,64.0,79.0,60.0,70.0,40.0,81.0
+Midfielder,191740,Ander Herrera,65.0,70.0,77.0,79.0,78.0,75.0
+Midfielder,191202,N. Matić,36.0,67.0,75.0,73.0,80.0,73.0
+Midfielder,190813,S. El Shaarawy,87.0,75.0,74.0,79.0,46.0,63.0
+Goalkeeper,190745,M. Silvestri,,,,,,
+Midfielder,190584,Illarramendi,47.0,71.0,77.0,78.0,77.0,69.0
+Midfielder,198784,A. Oxlade-Chamberlain,81.0,74.0,77.0,82.0,67.0,74.0
+Forward,189805,L. de Jong,50.0,78.0,71.0,70.0,46.0,75.0
+Defender,189615,A. Cresswell,70.0,60.0,75.0,76.0,77.0,68.0
+Midfielder,189560,Iborra,33.0,70.0,75.0,70.0,77.0,79.0
+Midfielder,186682,Montoro,45.0,64.0,75.0,72.0,75.0,70.0
+Midfielder,184484,G. Sigurðsson,54.0,78.0,82.0,78.0,59.0,66.0
+Forward,178509,O. Giroud,39.0,80.0,70.0,71.0,42.0,77.0
+Goalkeeper,176550,D. Ospina,,,,,,
+Midfielder,173221,A. Candreva,72.0,78.0,79.0,80.0,61.0,62.0
+Goalkeeper,158121,B. Costil,,,,,,
+Forward,156616,F. Ribéry,69.0,73.0,81.0,85.0,30.0,53.0
+Midfielder,210324,J. Hofmann,75.0,72.0,80.0,79.0,57.0,66.0
+Midfielder,138412,J. Milner,56.0,70.0,81.0,77.0,77.0,75.0
+Midfielder,198329,Rodrigo,86.0,78.0,75.0,79.0,45.0,71.0
+Defender,189682,B. Mee,62.0,42.0,58.0,63.0,81.0,78.0
+Defender,198946,D. D'Ambrosio,70.0,56.0,67.0,71.0,80.0,79.0
+Midfielder,204024,C. Kramer,44.0,50.0,70.0,73.0,78.0,75.0
+Defender,209846,C. Günter,83.0,55.0,70.0,70.0,74.0,81.0
+Forward,199354,Lucas Pérez,79.0,82.0,75.0,77.0,32.0,69.0
+Forward,210315,De Tomás,75.0,82.0,68.0,81.0,35.0,68.0
+Defender,208165,B. Djimsiti,68.0,39.0,59.0,50.0,82.0,79.0
+Midfielder,208135,A. Doucouré,70.0,76.0,72.0,76.0,77.0,81.0
+Midfielder,207494,J. Lingard,76.0,79.0,75.0,80.0,58.0,68.0
+Goalkeeper,206585,Kepa,,,,,,
+Forward,206467,A. Plea,71.0,82.0,77.0,79.0,39.0,74.0
+Defender,205923,B. Davies,69.0,58.0,75.0,75.0,78.0,73.0
+Defender,204884,B. Mendy,74.0,54.0,76.0,76.0,75.0,76.0
+Defender,204259,S. Arias,77.0,53.0,70.0,76.0,77.0,74.0
+Goalkeeper,204234,Edgar Badia,,,,,,
+Midfielder,206545,Manu Trigueros,56.0,71.0,78.0,78.0,70.0,67.0
+Defender,202935,Álvaro,64.0,33.0,59.0,58.0,80.0,82.0
+Midfielder,202477,Deulofeu,88.0,73.0,73.0,83.0,30.0,64.0
+Midfielder,200315,Cristian Tello,89.0,75.0,74.0,80.0,48.0,62.0
+Midfielder,199503,G. Xhaka,50.0,64.0,79.0,69.0,69.0,80.0
+Goalkeeper,200726,B. Lecomte,,,,,,
+Midfielder,201455,G. Kondogbia,68.0,74.0,75.0,77.0,78.0,89.0
+Defender,202335,E. Dier,53.0,64.0,69.0,64.0,79.0,83.0
+Defender,202048,C. Coady,47.0,58.0,75.0,67.0,79.0,75.0
+Midfielder,202648,Sergi Darder,66.0,75.0,78.0,79.0,71.0,71.0
+Defender,202750,W. Boly,62.0,36.0,64.0,65.0,79.0,83.0
+Midfielder,202857,K. Bellarabi,85.0,76.0,71.0,81.0,34.0,72.0
+Defender,225341,David García,53.0,37.0,64.0,64.0,78.0,75.0
+Midfielder,226789,A. Fulgini,74.0,70.0,74.0,81.0,68.0,73.0
+Midfielder,225659,G. Rodríguez,54.0,56.0,66.0,66.0,80.0,77.0
+Defender,225711,A. Diallo,74.0,39.0,71.0,76.0,78.0,77.0
+Forward,225719,K. Iheanacho,74.0,80.0,70.0,77.0,38.0,71.0
+Defender,225263,D. Ćaleta-Car,59.0,39.0,60.0,62.0,79.0,82.0
+Midfielder,226766,Daniel Podence,90.0,65.0,71.0,85.0,33.0,50.0
+Defender,227678,E. Konsa,77.0,39.0,62.0,71.0,79.0,75.0
+Midfielder,227055,Gelson Martins,93.0,71.0,70.0,83.0,51.0,61.0
+Defender,227174,M. Cash,81.0,63.0,68.0,73.0,72.0,66.0
+Midfielder,227535,R. Bentancur,73.0,62.0,79.0,80.0,75.0,76.0
+Defender,228881,D. Calabria,77.0,50.0,67.0,73.0,76.0,72.0
+Midfielder,228336,F. Grillitsch,69.0,60.0,77.0,78.0,72.0,66.0
+Goalkeeper,228413,E. Audero,,,,,,
+Midfielder,224069,K. Toko Ekambi,85.0,78.0,71.0,77.0,25.0,70.0
+Goalkeeper,229909,A. Lunev,,,,,,
+Midfielder,224371,J. Bowen,76.0,74.0,73.0,79.0,44.0,65.0
+Defender,216643,L. Dubois,72.0,59.0,75.0,73.0,76.0,74.0
+Goalkeeper,224003,Sergio Herrera,,,,,,
+Defender,217036,Álex Moreno,88.0,60.0,71.0,77.0,71.0,64.0
+Midfielder,214092,A. Miranchuk,75.0,70.0,76.0,80.0,31.0,62.0
+Forward,231352,T. Abraham,70.0,78.0,62.0,72.0,31.0,70.0
+Midfielder,214097,B. Bourigeaud,70.0,74.0,79.0,77.0,66.0,73.0
+Forward,215353,L. Alario,63.0,78.0,58.0,74.0,30.0,75.0
+Midfielder,215590,Ayoze Pérez,77.0,73.0,72.0,80.0,58.0,67.0
+Midfielder,216194,Dani García,41.0,69.0,71.0,74.0,78.0,83.0
+Midfielder,216320,S. Fofana,76.0,71.0,72.0,78.0,72.0,79.0
+Forward,219733,L. Ajorque,60.0,78.0,60.0,70.0,26.0,81.0
+Midfielder,223273,M. Pašalić,64.0,75.0,75.0,77.0,67.0,76.0
+Midfielder,219792,B. Santamaria,60.0,62.0,71.0,74.0,76.0,74.0
+Midfielder,219985,M. Vecino,65.0,71.0,75.0,77.0,76.0,73.0
+Forward,220883,R. Borré,81.0,77.0,72.0,78.0,44.0,76.0
+Forward,221697,O. Watkins,85.0,75.0,68.0,75.0,46.0,71.0
+Defender,222493,M. Friedrich,64.0,41.0,57.0,53.0,81.0,76.0
+Midfielder,222558,R. Karsdorp,87.0,64.0,74.0,77.0,76.0,78.0
+Midfielder,222943,Jony,82.0,69.0,77.0,78.0,52.0,65.0
+Defender,231340,G. Montiel,86.0,53.0,70.0,74.0,73.0,81.0
+Midfielder,244253,U. Račić,66.0,75.0,75.0,74.0,78.0,81.0
+Midfielder,231410,Brahim,78.0,69.0,76.0,82.0,30.0,50.0
+Midfielder,246147,M. Greenwood,84.0,78.0,73.0,79.0,39.0,68.0
+Goalkeeper,241727,P. Rajković,,,,,,
+Midfielder,242187,C. Baumgartner,80.0,72.0,73.0,80.0,44.0,56.0
+Midfielder,242201,Luis Milla,72.0,70.0,76.0,74.0,74.0,75.0
+Midfielder,243559,De Frutos,83.0,70.0,74.0,81.0,37.0,59.0
+Forward,243630,J. David,85.0,76.0,71.0,78.0,25.0,70.0
+Midfielder,244622,Puado,83.0,76.0,68.0,80.0,45.0,73.0
+Midfielder,245630,Y. Fofana,71.0,67.0,74.0,77.0,74.0,78.0
+Forward,246430,D. Vlahović,75.0,78.0,58.0,73.0,28.0,76.0
+Goalkeeper,231691,A. Lafont,,,,,,
+Midfielder,246646,M. Caqueret,73.0,58.0,72.0,81.0,72.0,69.0
+Defender,246844,Carlos Neva,78.0,52.0,63.0,74.0,75.0,68.0
+Midfielder,248243,E. Camavinga,72.0,65.0,76.0,80.0,75.0,77.0
+Defender,248695,W. Fofana,74.0,37.0,55.0,64.0,80.0,78.0
+Defender,252145,Nuno Mendes,85.0,57.0,68.0,74.0,74.0,72.0
+Midfielder,256630,F. Wirtz,72.0,68.0,76.0,83.0,51.0,59.0
+Midfielder,213874,Thiago Mendes,72.0,67.0,76.0,77.0,74.0,75.0
+Defender,241184,Junior Firpo,81.0,64.0,71.0,72.0,75.0,76.0
+Forward,240753,A. Gouiri,79.0,80.0,75.0,79.0,44.0,70.0
+Midfielder,239817,B. Soumaré,70.0,56.0,74.0,77.0,72.0,80.0
+Midfielder,239613,M. Pessina,70.0,70.0,74.0,78.0,67.0,72.0
+Forward,231887,Y. Yazıcı,67.0,76.0,79.0,80.0,47.0,72.0
+Midfielder,232080,J. Harrison,83.0,71.0,72.0,79.0,42.0,68.0
+Midfielder,232487,W. Endo,66.0,61.0,70.0,75.0,78.0,73.0
+Defender,233486,R. Le Normand,66.0,25.0,52.0,56.0,80.0,74.0
+Midfielder,234060,Y. Herrera,63.0,70.0,73.0,75.0,77.0,74.0
+Defender,234835,Domingos Duarte,56.0,35.0,58.0,54.0,80.0,78.0
+Midfielder,235353,I. Sarr,94.0,76.0,67.0,80.0,22.0,67.0
+Defender,236045,Reinildo,77.0,54.0,65.0,73.0,76.0,78.0
+Defender,236355,Luiz Felipe,73.0,29.0,61.0,68.0,80.0,72.0
+Forward,236791,A. Barák,66.0,76.0,77.0,78.0,62.0,72.0
+Defender,237678,I. Konaté,71.0,34.0,57.0,67.0,80.0,76.0
+Midfielder,238067,N. Zaniolo,83.0,74.0,71.0,80.0,61.0,82.0
+Midfielder,238463,A. Haidara,70.0,72.0,76.0,80.0,68.0,70.0
+Defender,238476,D. Zagadou,59.0,34.0,61.0,52.0,80.0,80.0
+Midfielder,238616,Pedro Neto,87.0,74.0,69.0,81.0,31.0,59.0
+Midfielder,213956,Adama Traoré,96.0,66.0,67.0,86.0,38.0,81.0
+Midfielder,195096,Fransérgio,59.0,75.0,75.0,75.0,73.0,80.0
+Midfielder,213577,Puertas,78.0,76.0,72.0,77.0,44.0,75.0
+Forward,188335,A. Budimir,65.0,78.0,48.0,73.0,35.0,77.0
+Defender,180334,Marcelo,42.0,46.0,60.0,56.0,78.0,85.0
+Midfielder,183394,M. Sissoko,74.0,61.0,73.0,75.0,75.0,87.0
+Defender,184392,M. Darmian,70.0,58.0,69.0,74.0,78.0,68.0
+Defender,185103,A. Kolarov,63.0,74.0,79.0,74.0,79.0,74.0
+Midfielder,186197,G. Kakuta,73.0,72.0,76.0,83.0,42.0,66.0
+Defender,186801,C. Kouyaté,64.0,64.0,62.0,69.0,78.0,85.0
+Midfielder,187936,S. Nzonzi,40.0,56.0,70.0,67.0,77.0,85.0
+Forward,189053,F. Caputo,82.0,79.0,62.0,78.0,30.0,67.0
+Defender,192679,Escudero,69.0,63.0,74.0,71.0,78.0,71.0
+Midfielder,189125,G. Bonaventura,69.0,75.0,80.0,80.0,70.0,65.0
+Midfielder,189280,A. Westwood,58.0,62.0,80.0,74.0,74.0,75.0
+Forward,189505,Pedro,74.0,73.0,77.0,84.0,40.0,52.0
+Midfielder,189606,J. Baumgartlinger,55.0,49.0,70.0,69.0,77.0,79.0
+Defender,189881,C. Smalling,64.0,47.0,58.0,60.0,79.0,79.0
+Goalkeeper,190243,M. Hitz,,,,,,
+Midfielder,191180,J. Pastore,64.0,73.0,80.0,78.0,52.0,50.0
+Defender,180216,S. Coleman,66.0,65.0,73.0,76.0,78.0,70.0
+Midfielder,178088,Juan Mata,55.0,71.0,81.0,81.0,36.0,42.0
+Midfielder,178007,Miguel Veloso,46.0,70.0,83.0,76.0,66.0,71.0
+Forward,177633,Ángel,71.0,81.0,61.0,78.0,34.0,66.0
+Defender,213331,J. Tah,67.0,27.0,55.0,57.0,79.0,81.0
+Goalkeeper,24630,Pepe Reina,,,,,,
+Forward,146439,Negredo,59.0,81.0,64.0,72.0,36.0,77.0
+Defender,152908,A. Young,72.0,66.0,74.0,77.0,73.0,68.0
+Forward,159261,F. Quagliarella,61.0,83.0,74.0,79.0,30.0,63.0
+Goalkeeper,163155,B. Foster,,,,,,
+Defender,165229,L. Koscielny,54.0,43.0,63.0,65.0,79.0,75.0
+Forward,167397,Falcao,56.0,79.0,67.0,76.0,41.0,69.0
+Midfielder,170368,E. Lamela,70.0,77.0,79.0,81.0,53.0,68.0
+Midfielder,171897,A. Guardado,64.0,68.0,80.0,79.0,73.0,69.0
+Defender,173306,C. Ansaldi,77.0,64.0,76.0,77.0,72.0,70.0
+Midfielder,173909,K. Boateng,69.0,78.0,77.0,80.0,66.0,74.0
+Goalkeeper,174543,C. Bravo,,,,,,
+Forward,175254,F. Caicedo,74.0,78.0,70.0,75.0,44.0,80.0
+Goalkeeper,176772,A. Oukidja,,,,,,
+Forward,192678,Kike García,61.0,81.0,64.0,74.0,44.0,74.0
+Midfielder,178213,E. Capoue,48.0,72.0,75.0,71.0,77.0,76.0
+Defender,193171,Jaume Costa,73.0,61.0,71.0,73.0,77.0,68.0
+Defender,208920,N. Aké,76.0,53.0,70.0,71.0,80.0,75.0
+Midfielder,205966,A. Younes,74.0,68.0,74.0,86.0,38.0,59.0
+Forward,206534,P. Bamford,73.0,78.0,67.0,73.0,42.0,77.0
+Midfielder,206590,Moi Gómez,68.0,74.0,77.0,78.0,55.0,61.0
+Midfielder,206651,Roberto Torres,67.0,78.0,79.0,76.0,65.0,72.0
+Midfielder,207566,William Carvalho,40.0,60.0,75.0,68.0,74.0,84.0
+Midfielder,208268,B. Cristante,55.0,71.0,76.0,75.0,75.0,78.0
+Midfielder,208334,J. Hector,59.0,60.0,75.0,75.0,76.0,75.0
+Midfielder,209288,F. Mollet,74.0,75.0,78.0,80.0,51.0,63.0
+Defender,204614,Mário Rui,80.0,49.0,73.0,79.0,71.0,64.0
+Midfielder,210537,R. Steffen,79.0,75.0,74.0,80.0,48.0,65.0
+Defender,210665,M. Halstenberg,63.0,66.0,73.0,71.0,76.0,80.0
+Defender,210736,Emerson,80.0,63.0,70.0,78.0,75.0,63.0
+Midfielder,210881,J. McGinn,70.0,73.0,75.0,78.0,71.0,80.0
+Forward,211591,M. Dembélé,78.0,77.0,63.0,73.0,30.0,82.0
+Midfielder,193361,R. Soriano,69.0,75.0,78.0,79.0,67.0,71.0
+Defender,212419,T. Mings,72.0,44.0,67.0,66.0,78.0,81.0
+Midfielder,205192,Denis Suárez,74.0,71.0,81.0,80.0,61.0,56.0
+Defender,208295,R. Saïss,58.0,56.0,69.0,70.0,79.0,77.0
+Midfielder,199652,D. Praet,67.0,72.0,78.0,79.0,63.0,66.0
+Defender,201042,D. Sidibé,74.0,62.0,74.0,74.0,74.0,79.0
+Defender,194222,Laguardia,50.0,46.0,55.0,52.0,80.0,78.0
+Defender,204082,J. Brooks,59.0,39.0,59.0,64.0,80.0,76.0
+Defender,197837,D. Boyata,70.0,29.0,52.0,58.0,79.0,83.0
+Midfielder,199189,R. Barkley,69.0,73.0,77.0,78.0,57.0,72.0
+Midfielder,199576,Oriol Romeu,41.0,44.0,62.0,65.0,80.0,81.0
+Midfielder,199715,Vitolo,76.0,76.0,76.0,77.0,41.0,72.0
+Defender,199915,L. Dunk,46.0,51.0,62.0,64.0,79.0,78.0
+Goalkeeper,200159,S. Ortega,,,,,,
+Defender,201417,M. Doherty,68.0,64.0,73.0,75.0,75.0,76.0
+Midfielder,201995,Felipe Anderson,85.0,74.0,76.0,82.0,55.0,59.0
+Defender,202849,J. Vestergaard,32.0,48.0,62.0,49.0,79.0,82.0
+Defender,203605,P. Kadeřábek,74.0,43.0,73.0,73.0,72.0,79.0
+Defender,203747,Héctor Bellerín,83.0,51.0,69.0,77.0,73.0,65.0
+Defender,203843,D. Suárez,73.0,69.0,73.0,74.0,76.0,77.0
+Defender,193469,Víctor Ruiz,50.0,42.0,65.0,60.0,79.0,78.0
+Midfielder,229752,D. Sow,79.0,64.0,77.0,76.0,75.0,79.0
+Midfielder,230717,T. Kadewere,83.0,76.0,69.0,78.0,38.0,71.0
+Defender,229971,F. Centonze,81.0,51.0,70.0,72.0,70.0,79.0
+Defender,229942,A. Disasi,52.0,28.0,53.0,57.0,77.0,83.0
+Defender,232144,F. Uduokhai,67.0,39.0,54.0,60.0,80.0,72.0
+Forward,229167,M. Rashica,83.0,77.0,71.0,83.0,46.0,65.0
+Defender,228302,Pedraza,78.0,72.0,70.0,75.0,73.0,77.0
+Midfielder,230965,N. Nández,77.0,67.0,72.0,77.0,76.0,83.0
+Defender,228295,R. Holding,57.0,34.0,60.0,65.0,79.0,75.0
+Midfielder,230899,A. Lookman,85.0,73.0,68.0,82.0,29.0,62.0
+Defender,231633,I. Diop,65.0,36.0,52.0,56.0,78.0,79.0
+Midfielder,230977,M. Almirón,86.0,72.0,74.0,79.0,53.0,63.0
+Midfielder,231102,L. Blas,74.0,72.0,75.0,81.0,58.0,65.0
+Defender,231318,R. Perraud,74.0,72.0,75.0,74.0,72.0,73.0
+Midfielder,231521,E. Palacios,55.0,73.0,74.0,77.0,72.0,71.0
+Defender,231554,J. Justin,82.0,50.0,69.0,73.0,73.0,70.0
+Forward,231628,Rafa Mir,72.0,79.0,64.0,71.0,45.0,76.0
+Midfielder,232104,D. James,95.0,72.0,70.0,76.0,46.0,63.0
+Midfielder,227508,Melero,63.0,76.0,74.0,72.0,73.0,76.0
+Defender,227927,K. Walker-Peters,76.0,38.0,68.0,75.0,73.0,68.0
+Forward,220502,M. Zaccagni,78.0,71.0,75.0,80.0,60.0,68.0
+Defender,226637,Rubén Duarte,66.0,36.0,65.0,67.0,77.0,69.0
+Defender,225793,B. Godfrey,83.0,44.0,61.0,66.0,76.0,82.0
+Midfielder,232999,T. Adams,81.0,48.0,70.0,73.0,74.0,75.0
+Defender,220132,Zaldúa,68.0,34.0,67.0,65.0,76.0,76.0
+Defender,220421,H. Kamara,88.0,61.0,69.0,76.0,71.0,76.0
+Midfielder,220621,S. Benrahma,77.0,72.0,73.0,81.0,38.0,54.0
+Forward,222357,B. Embolo,85.0,73.0,70.0,74.0,51.0,82.0
+Midfielder,222390,Unai López,73.0,72.0,78.0,79.0,68.0,70.0
+Midfielder,222400,H. Winks,60.0,58.0,76.0,80.0,71.0,68.0
+Midfielder,222509,Dani Ceballos,60.0,68.0,77.0,82.0,66.0,67.0
+Goalkeeper,223550,J. Omlin,,,,,,
+Midfielder,223874,V. Rongier,69.0,67.0,76.0,77.0,74.0,74.0
+Goalkeeper,223898,P. Bernardoni,,,,,,
+Defender,224221,J. Andersen,58.0,47.0,63.0,59.0,77.0,78.0
+Midfielder,224422,J. Boga,85.0,73.0,72.0,81.0,37.0,63.0
+Midfielder,225014,G. Castrovilli,74.0,65.0,75.0,82.0,66.0,68.0
+Defender,225024,M. Holgate,73.0,43.0,69.0,69.0,78.0,77.0
+Midfielder,225126,E. Skhiri,58.0,69.0,69.0,73.0,77.0,73.0
+Midfielder,225309,N. Amiri,68.0,73.0,78.0,82.0,50.0,67.0
+Defender,232440,Caio Henrique,72.0,54.0,74.0,75.0,73.0,59.0
+Midfielder,246420,J. Doku,92.0,66.0,67.0,83.0,25.0,67.0
+Defender,234678,J. Mæhle,89.0,56.0,68.0,72.0,66.0,78.0
+Midfielder,240740,C. Hudson-Odoi,82.0,67.0,74.0,81.0,40.0,59.0
+Midfielder,241096,S. Tonali,78.0,65.0,77.0,76.0,72.0,76.0
+Forward,241202,P. Daka,93.0,78.0,59.0,76.0,24.0,71.0
+Midfielder,241508,M. Damsgaard,85.0,69.0,72.0,82.0,48.0,63.0
+Midfielder,241721,Rafael Leão,88.0,73.0,68.0,79.0,27.0,70.0
+Goalkeeper,242656,I. Meslier,,,,,,
+Midfielder,243282,D. McNeil,72.0,68.0,77.0,80.0,53.0,67.0
+Defender,243388,B. Sosa,79.0,43.0,75.0,75.0,71.0,69.0
+Defender,244263,A. Rrahmani,62.0,51.0,54.0,60.0,78.0,80.0
+Midfielder,244892,S. Diop,76.0,70.0,73.0,81.0,52.0,53.0
+Defender,245037,Eric García,65.0,44.0,65.0,66.0,79.0,72.0
+Forward,245158,L. Suárez,86.0,78.0,65.0,74.0,40.0,79.0
+Midfielder,245541,G. Reyna,77.0,71.0,74.0,82.0,36.0,71.0
+Midfielder,246172,S. Chukwueze,87.0,73.0,66.0,83.0,36.0,62.0
+Forward,246242,B. Dia,78.0,77.0,55.0,74.0,27.0,75.0
+Defender,247257,Ibañez,81.0,32.0,45.0,57.0,79.0,77.0
+Defender,253163,R. Araujo,77.0,36.0,53.0,52.0,79.0,76.0
+Defender,219681,J. Amavi,76.0,65.0,70.0,74.0,75.0,76.0
+Defender,241049,Gorosabel,75.0,46.0,70.0,71.0,75.0,68.0
+Forward,240690,N. González,87.0,71.0,64.0,82.0,45.0,60.0
+Midfielder,234772,Salvi Sánchez,89.0,70.0,74.0,76.0,39.0,53.0
+Forward,239901,S. Kalajdžić,61.0,73.0,66.0,73.0,45.0,70.0
+Goalkeeper,234777,Z. Steffen,,,,,,
+Goalkeeper,234833,F. Müller,,,,,,
+Midfielder,235794,E. Eze,77.0,69.0,73.0,81.0,47.0,68.0
+Midfielder,235889,C. Ünder,81.0,75.0,73.0,81.0,37.0,52.0
+Midfielder,235945,Marc Roca,50.0,62.0,77.0,73.0,70.0,68.0
+Defender,236403,E. Ndicka,75.0,47.0,70.0,74.0,77.0,76.0
+Midfielder,236477,A. Claude-Maurice,87.0,73.0,75.0,80.0,68.0,68.0
+Midfielder,236496,M. Guendouzi,74.0,63.0,75.0,75.0,72.0,76.0
+Midfielder,236499,Douglas Luiz,67.0,67.0,74.0,76.0,74.0,69.0
+Defender,236532,R. Koch,66.0,38.0,61.0,64.0,78.0,75.0
+Midfielder,236593,C. Stengs,76.0,68.0,75.0,80.0,33.0,59.0
+Midfielder,236639,Xeka,55.0,61.0,74.0,75.0,71.0,77.0
+Midfielder,236772,D. Szoboszlai,79.0,78.0,79.0,79.0,34.0,64.0
+Forward,236786,M. Terrier,84.0,77.0,74.0,76.0,35.0,66.0
+Defender,238160,M. Demiral,73.0,39.0,47.0,60.0,79.0,80.0
+Midfielder,238744,W. McKennie,81.0,71.0,74.0,76.0,76.0,83.0
+Defender,239093,J. Clauss,85.0,66.0,70.0,76.0,67.0,71.0
+Forward,220085,L. Waldschmidt,74.0,80.0,70.0,76.0,29.0,62.0
+Goalkeeper,219522,J. Ledesma,,,,,,
+Defender,192816,L. Cabrera,59.0,45.0,59.0,58.0,78.0,82.0
+Midfielder,190432,Oier,61.0,64.0,72.0,69.0,74.0,74.0
+Defender,193254,C. Trimmel,72.0,65.0,73.0,68.0,74.0,80.0
+Forward,193290,M. Braithwaite,80.0,76.0,72.0,79.0,35.0,74.0
+Defender,193601,G. Pezzella,54.0,49.0,47.0,57.0,79.0,73.0
+Defender,194229,Hugo Mallo,66.0,39.0,68.0,67.0,74.0,74.0
+Defender,194806,C. Dawson,51.0,47.0,59.0,57.0,79.0,76.0
+Midfielder,194932,A. Townsend,77.0,74.0,75.0,79.0,38.0,67.0
+Forward,195093,Willian José,62.0,78.0,66.0,74.0,40.0,80.0
+Defender,195272,M. Faraoni,74.0,71.0,73.0,74.0,70.0,76.0
+Midfielder,197083,D. Caligiuri,66.0,74.0,78.0,75.0,71.0,76.0
+Defender,197948,F. Lejeune,45.0,57.0,61.0,66.0,78.0,76.0
+Goalkeeper,199005,M. Ryan,,,,,,
+Goalkeeper,199641,M. Sels,,,,,,
+Goalkeeper,200110,M. Bizot,,,,,,
+Midfielder,200215,S. Rode,60.0,64.0,71.0,73.0,76.0,77.0
+Defender,200536,N. Schulz,86.0,51.0,72.0,73.0,72.0,77.0
+Goalkeeper,201325,C. Tătărușanu,,,,,,
+Defender,201377,J. Murillo,73.0,40.0,59.0,64.0,77.0,78.0
+Midfielder,190875,J. Kucka,58.0,74.0,73.0,74.0,77.0,87.0
+Defender,190149,De Marcos,82.0,64.0,74.0,76.0,70.0,78.0
+Defender,201505,David López,56.0,58.0,66.0,65.0,78.0,76.0
+Defender,190143,Cote,67.0,54.0,74.0,73.0,77.0,69.0
+Goalkeeper,146748,Diego López,,,,,,
+Midfielder,219391,G. Escalante,66.0,67.0,72.0,72.0,75.0,75.0
+Forward,146758,Soldado,53.0,79.0,71.0,74.0,44.0,69.0
+Forward,154472,Jorge Molina,36.0,81.0,67.0,68.0,41.0,70.0
+Defender,165109,Ș. Radu,61.0,64.0,65.0,68.0,82.0,73.0
+Goalkeeper,170597,T. Krul,,,,,,
+Forward,173608,Joselu,55.0,78.0,68.0,72.0,30.0,70.0
+Forward,176600,K. Gameiro,83.0,77.0,74.0,75.0,41.0,67.0
+Defender,179789,D. Da Silva,50.0,37.0,59.0,55.0,78.0,78.0
+Midfielder,181098,M. Hasebe,51.0,51.0,73.0,71.0,76.0,62.0
+Forward,181820,S. Jovetić,65.0,79.0,76.0,79.0,35.0,60.0
+Defender,183353,Víctor Díaz,71.0,56.0,68.0,67.0,75.0,75.0
+Midfielder,183899,P. Piatti,82.0,74.0,74.0,78.0,47.0,56.0
+Midfielder,188103,Rochina,70.0,77.0,78.0,81.0,54.0,68.0
+Midfielder,188988,M. Lanzini,71.0,72.0,77.0,81.0,32.0,42.0
+Forward,189250,S. Rondón,69.0,76.0,66.0,71.0,32.0,81.0
+Defender,189472,Aridane,56.0,36.0,54.0,55.0,76.0,84.0
+Defender,201454,F. Ghoulam,71.0,64.0,76.0,76.0,75.0,69.0
+Midfielder,198118,J. Guilavogui,67.0,59.0,65.0,65.0,80.0,78.0
+Midfielder,202282,S. Armstrong,73.0,77.0,75.0,76.0,65.0,72.0
+Midfielder,214947,J. Gbamin,73.0,57.0,73.0,73.0,77.0,77.0
+Forward,211784,N. Maupay,77.0,78.0,67.0,73.0,41.0,71.0
+Midfielder,212153,R. Gagliardini,53.0,63.0,71.0,73.0,77.0,75.0
+Midfielder,212245,Y. Gerhardt,64.0,71.0,75.0,75.0,72.0,76.0
+Defender,212491,A. Masuaku,80.0,63.0,72.0,79.0,70.0,70.0
+Midfielder,212501,L. Dendoncker,61.0,72.0,77.0,71.0,78.0,82.0
+Defender,212602,Diego Llorente,71.0,40.0,62.0,65.0,76.0,78.0
+Defender,202371,T. Meunier,73.0,74.0,72.0,72.0,73.0,80.0
+Midfielder,213655,A. Iwobi,77.0,64.0,72.0,80.0,38.0,68.0
+Midfielder,215057,I. Marcone,47.0,63.0,71.0,71.0,73.0,80.0
+Midfielder,211454,M. Elneny,56.0,64.0,73.0,70.0,73.0,74.0
+Forward,215441,S. Guirassy,71.0,77.0,66.0,75.0,38.0,76.0
+Goalkeeper,215502,B. Drągowski,,,,,,
+Forward,216258,I. Bebou,90.0,75.0,68.0,80.0,34.0,64.0
+Midfielder,216435,S. Lobotka,63.0,63.0,76.0,78.0,69.0,64.0
+Forward,216497,M. Philipp,78.0,79.0,71.0,79.0,42.0,61.0
+Defender,217196,J. Palomino,46.0,32.0,55.0,59.0,79.0,81.0
+Defender,218659,M. Targett,74.0,46.0,72.0,72.0,73.0,68.0
+Defender,219145,G. Maripán,34.0,41.0,54.0,51.0,78.0,80.0
+Midfielder,211575,André Gomes,54.0,67.0,76.0,76.0,69.0,74.0
+Forward,212623,Santi Mina,75.0,77.0,69.0,76.0,49.0,72.0
+Defender,211320,D. Rugani,59.0,40.0,55.0,63.0,79.0,72.0
+Goalkeeper,206652,Sergio Rico,,,,,,
+Defender,202562,J. Roussillon,88.0,65.0,72.0,78.0,73.0,73.0
+Goalkeeper,202789,A. Schwolow,,,,,,
+Midfielder,202851,G. Defrel,82.0,77.0,68.0,81.0,36.0,51.0
+Defender,203177,D. Foulquier,77.0,63.0,70.0,73.0,73.0,77.0
+Defender,203487,J. Lascelles,58.0,35.0,51.0,56.0,77.0,79.0
+Defender,204876,Clerc,87.0,58.0,71.0,76.0,70.0,73.0
+Defender,206493,Y. Abdelhamid,33.0,33.0,56.0,65.0,78.0,83.0
+Defender,202493,Aleix Vidal,81.0,67.0,74.0,78.0,72.0,70.0
+Midfielder,207421,L. Trossard,82.0,76.0,74.0,80.0,30.0,61.0
+Forward,207791,Y. Poulsen,82.0,70.0,67.0,73.0,56.0,81.0
+Midfielder,207948,B. Traoré,78.0,73.0,73.0,82.0,45.0,66.0
+Defender,208004,J. Veltman,64.0,49.0,66.0,69.0,79.0,76.0
+Midfielder,208777,Óliver Torres,63.0,67.0,78.0,82.0,63.0,54.0
+Midfielder,210617,Samu Castillejo,80.0,69.0,74.0,82.0,43.0,53.0
+Defender,210864,E. Hysaj,75.0,51.0,66.0,73.0,75.0,72.0
+Forward,207664,C. Bacca,67.0,75.0,64.0,75.0,33.0,65.0
+Forward,228635,Borja Mayoral,68.0,76.0,69.0,77.0,38.0,68.0
+Goalkeeper,228789,Robert Sanchéz,,,,,,
+Midfielder,228747,O. Idrissi,83.0,76.0,70.0,80.0,35.0,69.0
+Defender,228708,L. Martínez Quarta,67.0,56.0,69.0,70.0,75.0,78.0
+Midfielder,227234,L. Tousart,59.0,54.0,65.0,65.0,77.0,82.0
+Defender,228579,B. Henrichs,74.0,53.0,71.0,75.0,73.0,69.0
+Midfielder,227236,A. Zambo Anguissa,77.0,64.0,70.0,80.0,74.0,82.0
+Midfielder,230065,S. Serdar,69.0,69.0,71.0,77.0,74.0,79.0
+Defender,227222,F. Guilbert,74.0,48.0,67.0,68.0,74.0,78.0
+Midfielder,230020,P. Lees-Melou,67.0,72.0,77.0,76.0,67.0,74.0
+Midfielder,231416,D. Lukébakio,84.0,75.0,69.0,79.0,31.0,60.0
+Midfielder,230613,A. Diawara,62.0,54.0,71.0,76.0,72.0,71.0
+Goalkeeper,230727,G. Larsonneur,,,,,,
+Defender,231366,P. Lienhart,64.0,28.0,56.0,61.0,78.0,73.0
+Defender,231936,B. White,69.0,27.0,61.0,67.0,77.0,76.0
+Midfielder,232498,Isi,86.0,74.0,73.0,77.0,39.0,65.0
+Midfielder,233556,R. Orsolini,80.0,70.0,74.0,81.0,39.0,65.0
+Midfielder,233631,A. Ndiaye,92.0,71.0,67.0,79.0,46.0,67.0
+Midfielder,233848,J. Hauge,88.0,68.0,67.0,78.0,42.0,66.0
+Defender,226268,F. Dimarco,75.0,61.0,75.0,74.0,70.0,62.0
+Defender,226853,J. St. Juste,91.0,58.0,66.0,74.0,78.0,73.0
+Midfielder,224158,S. Amrabat,69.0,71.0,70.0,75.0,73.0,78.0
+Defender,226229,T. Kehrer,68.0,44.0,65.0,66.0,77.0,78.0
+Midfielder,220831,M. Malsa,73.0,63.0,71.0,76.0,75.0,77.0
+Midfielder,234171,R. Sallai,72.0,70.0,70.0,79.0,37.0,61.0
+Goalkeeper,216065,M. Sportiello,,,,,,
+Midfielder,216433,A. El Ghazi,73.0,78.0,70.0,76.0,35.0,69.0
+Forward,216549,A. Sørloth,80.0,74.0,66.0,70.0,36.0,83.0
+Forward,217699,I. Slimani,47.0,76.0,73.0,69.0,47.0,80.0
+Defender,220477,M. Caldara,58.0,34.0,46.0,63.0,79.0,71.0
+Defender,220570,J. Bednarek,52.0,22.0,53.0,55.0,78.0,77.0
+Midfielder,220659,J. Brownhill,69.0,67.0,72.0,74.0,74.0,76.0
+Forward,221841,A. Armstrong,90.0,77.0,66.0,76.0,35.0,71.0
+Forward,226093,C. Adams,84.0,77.0,62.0,74.0,40.0,77.0
+Midfielder,222404,M. Normann,72.0,64.0,72.0,75.0,71.0,81.0
+Midfielder,222715,Otávio,61.0,55.0,67.0,72.0,75.0,76.0
+Forward,223113,K. Piątek,75.0,77.0,53.0,72.0,36.0,71.0
+Midfielder,223154,O. Tufan,75.0,73.0,73.0,76.0,73.0,82.0
+Defender,223329,A. Conti,75.0,58.0,69.0,74.0,73.0,64.0
+Midfielder,225783,S. Mavididi,89.0,72.0,67.0,75.0,27.0,67.0
+Defender,225859,M. Niakhaté,77.0,39.0,60.0,66.0,76.0,78.0
+Midfielder,225951,D. Bouanga,80.0,75.0,70.0,78.0,38.0,69.0
+Midfielder,234078,O. Mangala,70.0,53.0,71.0,83.0,71.0,71.0
+Defender,253290,M. Viña,82.0,62.0,71.0,75.0,69.0,69.0
+Defender,234574,Diogo Dalot,79.0,60.0,70.0,77.0,72.0,75.0
+Midfielder,244393,Gonzalo Villar,59.0,57.0,75.0,78.0,71.0,72.0
+Forward,242348,Loren,71.0,78.0,60.0,74.0,32.0,74.0
+Midfielder,242374,M. Barrow,84.0,74.0,67.0,77.0,31.0,63.0
+Defender,242578,B. Badiashile,62.0,39.0,63.0,58.0,77.0,76.0
+Defender,242663,S. Bornauw,72.0,45.0,60.0,65.0,78.0,76.0
+Midfielder,242664,A. Saelemaekers,81.0,66.0,74.0,78.0,62.0,68.0
+Midfielder,242816,Riqui Puig,67.0,61.0,75.0,81.0,58.0,63.0
+Midfielder,244261,L. Majer,69.0,69.0,78.0,83.0,54.0,59.0
+Goalkeeper,244316,Luís Maximiano,,,,,,
+Defender,244749,N. Aguerd,60.0,45.0,60.0,61.0,76.0,77.0
+Midfielder,234711,J. Brekalo,76.0,73.0,71.0,82.0,35.0,52.0
+Midfielder,244778,Trincão,79.0,71.0,70.0,81.0,37.0,69.0
+Defender,244915,M. Salisu,67.0,36.0,51.0,55.0,76.0,79.0
+Defender,245388,J. Todibo,76.0,44.0,61.0,64.0,77.0,76.0
+Midfielder,246785,Bryan Gil,78.0,67.0,72.0,81.0,26.0,35.0
+Midfielder,251566,Gabriel Martinelli,87.0,69.0,67.0,78.0,44.0,67.0
+Defender,251804,S. Dest,87.0,59.0,72.0,81.0,67.0,66.0
+Midfielder,253004,Ansu Fati,88.0,74.0,68.0,79.0,29.0,53.0
+Defender,215699,Y. Sabaly,78.0,46.0,63.0,71.0,73.0,70.0
+Midfielder,241707,P. Gueye,73.0,46.0,65.0,70.0,72.0,79.0
+Defender,241497,C. Dagba,82.0,53.0,70.0,77.0,72.0,61.0
+Defender,240915,Miranda,78.0,57.0,68.0,74.0,71.0,66.0
+Defender,240754,Y. Atal,90.0,68.0,71.0,79.0,70.0,69.0
+Midfielder,235149,J. Schouten,64.0,55.0,67.0,74.0,74.0,70.0
+Midfielder,235424,D. Samassékou,66.0,49.0,65.0,72.0,76.0,74.0
+Defender,235875,Pol Lirola,77.0,57.0,70.0,75.0,71.0,70.0
+Midfielder,235944,Brais Méndez,71.0,74.0,76.0,74.0,50.0,63.0
+Midfielder,236221,D. Brašanac,55.0,70.0,73.0,73.0,72.0,73.0
+Midfielder,236276,A. Danjuma,83.0,73.0,70.0,78.0,42.0,67.0
+Midfielder,236679,Melendo,78.0,66.0,75.0,78.0,48.0,60.0
+Midfielder,236920,J. Kluivert,89.0,72.0,67.0,81.0,37.0,58.0
+Midfielder,237184,K. Bare,75.0,61.0,70.0,74.0,73.0,77.0
+Defender,238095,N. Milenković,66.0,44.0,61.0,62.0,76.0,81.0
+Midfielder,238227,K. Diatta,93.0,69.0,66.0,78.0,47.0,69.0
+Defender,239580,Bremer,64.0,35.0,51.0,62.0,77.0,74.0
+Defender,239890,O. Kabak,69.0,36.0,56.0,69.0,74.0,79.0
+Forward,239956,M. Boadu,89.0,75.0,61.0,76.0,28.0,66.0
+Midfielder,240273,E. Smith Rowe,78.0,64.0,73.0,78.0,32.0,61.0
+Midfielder,240458,Ander Guevara,53.0,64.0,74.0,71.0,73.0,70.0
+Defender,240716,M. Olivera,76.0,50.0,65.0,70.0,74.0,77.0
+Forward,215785,K. Baldé,91.0,74.0,71.0,79.0,30.0,70.0
+Defender,210719,M. Kempf,76.0,42.0,56.0,62.0,76.0,77.0
+Forward,215689,A. Petagna,61.0,75.0,68.0,76.0,34.0,81.0
+Midfielder,201262,V. Darida,66.0,70.0,74.0,78.0,70.0,63.0
+Defender,192641,K. Vogt,71.0,57.0,72.0,68.0,77.0,75.0
+Goalkeeper,192665,A. Luthe,,,,,,
+Midfielder,193116,M. Gonalons,47.0,61.0,72.0,68.0,75.0,72.0
+Goalkeeper,193331,K. Darlow,,,,,,
+Defender,193352,R. Rodríguez,71.0,67.0,74.0,74.0,75.0,74.0
+Midfielder,193683,X. Chavalerin,60.0,64.0,74.0,71.0,70.0,76.0
+Midfielder,193881,F. Đuričić,73.0,69.0,75.0,78.0,42.0,60.0
+Midfielder,194794,A. Yarmolenko,61.0,79.0,77.0,78.0,42.0,67.0
+Forward,194845,W. Khazri,69.0,79.0,76.0,77.0,42.0,67.0
+Goalkeeper,195668,Joel Robles,,,,,,
+Midfielder,198368,Tomás Pina,42.0,66.0,72.0,73.0,73.0,72.0
+Midfielder,198719,N. Redmond,81.0,72.0,70.0,81.0,30.0,53.0
+Defender,199393,N. Pallois,41.0,53.0,60.0,59.0,76.0,85.0
+Midfielder,199561,Nolito,64.0,76.0,77.0,77.0,45.0,62.0
+Defender,199577,Sergi Gómez,58.0,40.0,64.0,61.0,78.0,73.0
+Defender,199633,M. Lowton,66.0,61.0,73.0,72.0,76.0,74.0
+Goalkeeper,200316,T. Horn,,,,,,
+Defender,200677,Pedro Mendes,65.0,38.0,51.0,61.0,77.0,81.0
+Defender,201118,Cédric,76.0,63.0,70.0,75.0,72.0,66.0
+Defender,192041,N. Araújo,66.0,41.0,55.0,59.0,78.0,78.0
+Midfielder,190765,P. Groß,50.0,74.0,80.0,75.0,58.0,71.0
+Forward,190362,T. Pukki,76.0,76.0,60.0,75.0,34.0,68.0
+Goalkeeper,172723,A. Begović,,,,,,
+Goalkeeper,104389,R. Jarstein,,,,,,
+Defender,158625,Dante,32.0,51.0,67.0,64.0,78.0,76.0
+Midfielder,162895,Cesc Fàbregas,40.0,67.0,81.0,75.0,62.0,55.0
+Goalkeeper,163264,T. Heaton,,,,,,
+Midfielder,164859,T. Walcott,85.0,70.0,69.0,78.0,39.0,59.0
+Defender,169705,R. Bertrand,74.0,53.0,72.0,75.0,73.0,71.0
+Midfielder,169706,J. Cork,44.0,60.0,71.0,69.0,75.0,77.0
+Defender,170320,L. De Silvestri,73.0,67.0,71.0,73.0,73.0,75.0
+Defender,173208,D. Criscito,73.0,61.0,75.0,72.0,78.0,71.0
+Midfielder,189712,K. Strootman,50.0,75.0,74.0,74.0,75.0,77.0
+Midfielder,181318,A. Ekdal,47.0,65.0,76.0,73.0,70.0,76.0
+Defender,182495,M. Cáceres,70.0,51.0,63.0,69.0,77.0,75.0
+Midfielder,183130,M. Albrighton,70.0,68.0,76.0,76.0,61.0,66.0
+Forward,183569,E. Choupo-Moting,71.0,73.0,68.0,78.0,38.0,73.0
+Defender,184190,R. Thomas,35.0,33.0,54.0,48.0,78.0,73.0
+Midfielder,184826,Adrien Silva,53.0,73.0,77.0,76.0,69.0,67.0
+Defender,215399,Rúben Vezo,75.0,54.0,63.0,64.0,77.0,76.0
+Midfielder,189251,S. Rudy,66.0,65.0,77.0,76.0,73.0,66.0
+Midfielder,201144,M. Badelj,50.0,63.0,74.0,72.0,73.0,72.0
+Defender,186156,L. Ayling,66.0,54.0,64.0,72.0,76.0,75.0
+Defender,201389,C. Biraghi,75.0,65.0,74.0,73.0,72.0,69.0
+Midfielder,212127,D. Lazović,85.0,68.0,72.0,77.0,61.0,56.0
+Defender,208001,Paulo Otávio,91.0,55.0,67.0,77.0,70.0,59.0
+Forward,208498,M. Dabbur,70.0,75.0,66.0,76.0,32.0,68.0
+Defender,208509,T. Foket,75.0,57.0,69.0,72.0,73.0,77.0
+Midfielder,208787,A. Thomasson,68.0,70.0,76.0,77.0,65.0,69.0
+Defender,210047,F. Schär,58.0,67.0,70.0,68.0,77.0,75.0
+Defender,210384,R. Haps,87.0,63.0,67.0,76.0,68.0,72.0
+Midfielder,210438,F. Boulaya,72.0,69.0,75.0,80.0,26.0,54.0
+Midfielder,210896,M. Sanson,72.0,73.0,76.0,76.0,70.0,77.0
+Forward,212228,I. Toney,80.0,75.0,58.0,72.0,46.0,80.0
+Midfielder,206516,W. Hughes,63.0,64.0,77.0,77.0,68.0,64.0
+Midfielder,212242,R. Andrich,59.0,73.0,76.0,71.0,73.0,82.0
+Forward,212260,Hwang Ui Jo,78.0,77.0,64.0,74.0,42.0,73.0
+Defender,212678,L. Augustinsson,67.0,60.0,75.0,74.0,72.0,71.0
+Defender,212883,D. Amartey,65.0,55.0,65.0,69.0,76.0,75.0
+Defender,212977,N. Stark,77.0,52.0,64.0,69.0,77.0,76.0
+Forward,213135,D. Origi,79.0,75.0,67.0,75.0,27.0,74.0
+Defender,201510,L. Kurzawa,74.0,65.0,72.0,76.0,73.0,72.0
+Midfielder,213388,F. Tait,73.0,69.0,73.0,77.0,35.0,64.0
+Defender,206654,Pablo Marí,53.0,40.0,51.0,51.0,76.0,80.0
+Defender,212219,A. Djiku,71.0,42.0,66.0,69.0,75.0,81.0
+Midfielder,206306,J. Ferri,59.0,65.0,74.0,73.0,69.0,75.0
+Defender,204760,C. Taylor,69.0,54.0,70.0,72.0,75.0,77.0
+Goalkeeper,201976,A. Gomis,,,,,,
+Midfielder,206304,L. Milivojević,50.0,67.0,75.0,68.0,75.0,77.0
+Defender,201982,J. Schmid,77.0,63.0,76.0,76.0,69.0,75.0
+Defender,202201,J. Gouweleeuw,71.0,58.0,65.0,64.0,79.0,75.0
+Defender,202429,D. da Costa,73.0,56.0,66.0,70.0,75.0,82.0
+Forward,202685,S. Zaza,78.0,76.0,61.0,75.0,49.0,80.0
+Midfielder,201858,N. Sansone,78.0,72.0,71.0,80.0,44.0,55.0
+Defender,203741,T. Delaine,85.0,51.0,72.0,74.0,67.0,75.0
+Forward,204077,M. Niang,77.0,78.0,67.0,74.0,31.0,72.0
+Defender,203030,R. Knoche,39.0,41.0,52.0,50.0,79.0,72.0
+Defender,205346,R. Fredericks,91.0,51.0,66.0,73.0,70.0,69.0
+Midfielder,205407,D. Baselli,68.0,72.0,78.0,80.0,66.0,61.0
+Defender,205566,Alberto Moreno,82.0,66.0,68.0,77.0,69.0,69.0
+Defender,206058,M. De Sciglio,68.0,46.0,70.0,74.0,75.0,69.0
+Midfielder,205201,O. Yokuşlu,66.0,70.0,71.0,72.0,74.0,83.0
+Midfielder,206225,D. Cheryshev,76.0,75.0,74.0,74.0,55.0,67.0
+Midfielder,206115,I. Hayden,58.0,60.0,63.0,70.0,75.0,78.0
+Forward,226380,Hwang Hee Chan,84.0,75.0,70.0,78.0,28.0,68.0
+Defender,229476,W. Anton,66.0,46.0,57.0,64.0,76.0,79.0
+Midfielder,229758,R. Krunić,67.0,72.0,74.0,75.0,68.0,70.0
+Defender,229628,Fali,55.0,53.0,66.0,59.0,74.0,87.0
+Midfielder,229593,M. Pjaca,76.0,67.0,74.0,81.0,41.0,63.0
+Midfielder,226627,T. Minamino,79.0,73.0,69.0,81.0,36.0,63.0
+Defender,228732,H. Moukoudi,53.0,32.0,51.0,49.0,75.0,80.0
+Midfielder,228509,J. Reine-Adélaïde,76.0,70.0,72.0,80.0,54.0,68.0
+Defender,226515,Andrei Girotto,55.0,65.0,66.0,67.0,77.0,73.0
+Midfielder,226078,Trezeguet,77.0,73.0,71.0,78.0,36.0,66.0
+Midfielder,226168,M. Eggestein,63.0,67.0,72.0,77.0,70.0,76.0
+Midfielder,230005,T. Davies,65.0,64.0,73.0,75.0,69.0,71.0
+Goalkeeper,234102,I. Radu,,,,,,
+Midfielder,231227,N. Dorsch,68.0,65.0,71.0,76.0,71.0,73.0
+Midfielder,231280,Iván Alejo,80.0,72.0,73.0,76.0,43.0,65.0
+Defender,231591,Javi Galán,77.0,54.0,72.0,74.0,69.0,67.0
+Midfielder,231612,R. Del Castillo,77.0,68.0,72.0,79.0,39.0,65.0
+Midfielder,232097,A. Harit,79.0,64.0,69.0,81.0,45.0,47.0
+Defender,232938,T. Tomiyasu,68.0,32.0,63.0,69.0,76.0,77.0
+Forward,233866,O. Edouard,83.0,74.0,67.0,79.0,45.0,75.0
+Defender,234178,L. Abram,65.0,42.0,58.0,60.0,75.0,78.0
+Midfielder,234789,Y. Eteki,63.0,55.0,66.0,69.0,70.0,76.0
+Midfielder,234824,Y. Wissa,88.0,74.0,65.0,76.0,28.0,68.0
+Midfielder,225748,T. Cantwell,72.0,68.0,72.0,78.0,39.0,51.0
+Midfielder,235134,P. Rosario,67.0,64.0,68.0,72.0,72.0,78.0
+Defender,235565,D. Bronn,66.0,61.0,67.0,65.0,76.0,76.0
+Midfielder,225782,A. Maitland-Niles,81.0,63.0,70.0,77.0,71.0,72.0
+Forward,221639,Mariano,76.0,78.0,61.0,71.0,45.0,78.0
+Midfielder,225475,Hernani,65.0,69.0,69.0,72.0,74.0,70.0
+Midfielder,225439,R. Mandragora,57.0,63.0,74.0,75.0,74.0,76.0
+Midfielder,220905,J. Aholou,67.0,64.0,66.0,70.0,73.0,77.0
+Defender,235883,R. Sessegnon,82.0,65.0,70.0,76.0,68.0,66.0
+Forward,221014,Carlos Fernández,69.0,77.0,64.0,75.0,27.0,71.0
+Midfielder,221016,N. Vukčević,54.0,62.0,69.0,71.0,76.0,79.0
+Midfielder,221269,J. Riedewald,60.0,56.0,74.0,69.0,74.0,70.0
+Defender,221284,J. Gradit,71.0,29.0,60.0,67.0,75.0,82.0
+Defender,221342,Pablo Maffeo,85.0,52.0,67.0,72.0,72.0,69.0
+Forward,221445,Wu Lei,83.0,71.0,69.0,75.0,40.0,69.0
+Midfielder,221671,Lee Jae Sung,69.0,57.0,75.0,78.0,53.0,62.0
+Midfielder,221919,A. Zeneli,81.0,70.0,70.0,80.0,35.0,59.0
+Midfielder,222148,O. Duda,65.0,73.0,72.0,79.0,53.0,64.0
+Midfielder,222994,M. Nakamba,70.0,49.0,62.0,71.0,74.0,78.0
+Midfielder,223061,F. Cervi,88.0,65.0,68.0,79.0,48.0,55.0
+Defender,223570,J. Sambia,75.0,69.0,72.0,73.0,71.0,70.0
+Defender,223671,S. Posch,71.0,29.0,50.0,45.0,79.0,71.0
+Forward,223710,V. Muriqi,56.0,75.0,55.0,67.0,28.0,82.0
+Goalkeeper,223885,A. Nübel,,,,,,
+Midfielder,224030,M. Lopez,71.0,66.0,77.0,77.0,65.0,57.0
+Defender,224258,K. Ajer,73.0,55.0,61.0,68.0,75.0,83.0
+Midfielder,224425,M. Wolf,84.0,70.0,70.0,75.0,67.0,76.0
+Midfielder,224444,H. Belkebla,60.0,49.0,71.0,71.0,70.0,73.0
+Midfielder,225028,N. Radoja,61.0,61.0,71.0,74.0,74.0,75.0
+Defender,225147,C. Roberts,80.0,48.0,65.0,67.0,68.0,72.0
+Defender,225161,Vallejo,68.0,42.0,57.0,64.0,76.0,68.0
+Forward,225293,H. Diallo,72.0,74.0,55.0,71.0,23.0,72.0
+Defender,235634,G. Konan,79.0,48.0,68.0,75.0,70.0,71.0
+Forward,223197,E. Ünal,68.0,77.0,64.0,75.0,36.0,77.0
+Midfielder,235997,Fran Beltrán,63.0,56.0,75.0,77.0,75.0,66.0
+Midfielder,247028,A. Král,75.0,70.0,71.0,75.0,72.0,79.0
+Midfielder,243231,E. Mwepu,82.0,73.0,71.0,75.0,71.0,79.0
+Defender,243414,B. Williams,80.0,57.0,65.0,73.0,70.0,68.0
+Midfielder,243627,Y. Adli,62.0,70.0,75.0,74.0,66.0,66.0
+Midfielder,243631,M. Camara,63.0,57.0,67.0,71.0,73.0,72.0
+Defender,243715,W. Saliba,70.0,33.0,62.0,66.0,76.0,77.0
+Defender,243854,M. Simakan,68.0,36.0,62.0,64.0,76.0,77.0
+Defender,244206,N. Pérez,61.0,25.0,46.0,45.0,76.0,74.0
+Defender,245426,M. Kumbulla,50.0,32.0,53.0,56.0,77.0,76.0
+Midfielder,245940,Silas,87.0,71.0,61.0,80.0,52.0,68.0
+Defender,246113,Adrià Pedrosa,89.0,60.0,69.0,75.0,69.0,69.0
+Defender,246836,A. Pieper,68.0,32.0,53.0,55.0,78.0,74.0
+Midfielder,246960,M. Ihattaren,73.0,68.0,75.0,81.0,40.0,64.0
+Midfielder,247328,Unai Vencedor,66.0,70.0,72.0,74.0,73.0,74.0
+Forward,236245,A. Elis,90.0,71.0,63.0,77.0,31.0,74.0
+Midfielder,247495,Moncayola,66.0,64.0,72.0,70.0,71.0,69.0
+Defender,251182,Iago,81.0,55.0,68.0,72.0,71.0,71.0
+Defender,251517,J. Gvardiol,83.0,54.0,67.0,71.0,71.0,83.0
+Defender,252000,D. Bradarić,79.0,55.0,68.0,75.0,70.0,68.0
+Forward,252084,Marcos André,76.0,78.0,59.0,72.0,38.0,73.0
+Midfielder,253157,H. Boudaoui,74.0,65.0,71.0,79.0,72.0,72.0
+Midfielder,254487,Matheus Henrique,75.0,60.0,76.0,79.0,57.0,64.0
+Defender,256769,A. Truffert,74.0,55.0,70.0,73.0,71.0,69.0
+Midfielder,256790,J. Musiala,76.0,70.0,67.0,84.0,31.0,49.0
+Defender,259694,Mingueza,78.0,35.0,66.0,60.0,75.0,75.0
+Goalkeeper,262621,G. Mamardashvili,,,,,,
+Midfielder,220633,D. Gray,86.0,71.0,67.0,79.0,37.0,55.0
+Midfielder,242794,I. Louza,61.0,64.0,74.0,76.0,63.0,52.0
+Midfielder,242619,C. Doucouré,70.0,56.0,69.0,75.0,72.0,76.0
+Midfielder,242577,R. Faivre,74.0,72.0,73.0,78.0,63.0,63.0
+Defender,242392,G. Magnani,75.0,35.0,47.0,52.0,76.0,74.0
+Forward,236461,J. Mateta,69.0,73.0,53.0,71.0,32.0,77.0
+Midfielder,236699,S. Lukić,64.0,63.0,75.0,77.0,69.0,68.0
+Defender,236804,F. Medina,78.0,33.0,60.0,68.0,76.0,75.0
+Midfielder,236817,H. Maïga,59.0,55.0,67.0,68.0,71.0,86.0
+Forward,237034,J. Hernández,83.0,75.0,65.0,73.0,42.0,73.0
+Defender,237221,J. Foyth,66.0,45.0,67.0,72.0,76.0,73.0
+Midfielder,237329,J. Willock,76.0,72.0,68.0,76.0,61.0,69.0
+Midfielder,237626,Y. Neyou,65.0,60.0,67.0,76.0,73.0,67.0
+Midfielder,237681,T. Kubo,81.0,66.0,68.0,82.0,39.0,56.0
+Midfielder,237819,N. Domínguez,75.0,66.0,70.0,75.0,71.0,77.0
+Forward,237960,Mama Baldé,91.0,72.0,67.0,73.0,50.0,79.0
+Defender,238305,Nacho Vidal,77.0,55.0,69.0,70.0,71.0,65.0
+Defender,238370,M. Pongračić,72.0,26.0,51.0,63.0,74.0,78.0
+Midfielder,238581,R. Vargas,83.0,69.0,67.0,79.0,54.0,65.0
+Midfielder,239335,Óscar,63.0,74.0,74.0,77.0,49.0,55.0
+Midfielder,239529,F. Onyeka,87.0,58.0,66.0,72.0,74.0,81.0
+Forward,239592,J. Macías,73.0,74.0,59.0,74.0,25.0,62.0
+Midfielder,239795,C. Ekuban,86.0,71.0,66.0,73.0,28.0,84.0
+Midfielder,239837,A. Mac Allister,70.0,76.0,77.0,74.0,56.0,62.0
+Defender,240060,M. Aarons,81.0,42.0,64.0,75.0,70.0,71.0
+Defender,240289,Calero,65.0,45.0,67.0,69.0,76.0,74.0
+Midfielder,240654,Carles Pérez,81.0,73.0,66.0,79.0,36.0,62.0
+Midfielder,241042,O. Skipp,62.0,46.0,67.0,67.0,71.0,70.0
+Forward,241686,Manu Vallejo,74.0,76.0,68.0,76.0,43.0,63.0
+Defender,241827,Martín,66.0,35.0,63.0,69.0,74.0,65.0
+Midfielder,220876,F. Honorat,77.0,73.0,71.0,75.0,47.0,57.0
+Defender,215798,M. Cornet,86.0,75.0,70.0,74.0,67.0,77.0
+Goalkeeper,220604,Jaume,,,,,,
+Midfielder,193133,J. Larsen,79.0,61.0,72.0,74.0,70.0,77.0
+Defender,189860,Kiko Femenía,74.0,57.0,70.0,74.0,70.0,68.0
+Goalkeeper,189908,Ł. Skorupski,,,,,,
+Defender,190223,Balenziaga,75.0,46.0,69.0,70.0,73.0,75.0
+Defender,190324,C. Kabasele,67.0,50.0,51.0,61.0,76.0,76.0
+Defender,190456,N. Clyne,69.0,60.0,71.0,75.0,74.0,63.0
+Goalkeeper,190778,J. Zoet,,,,,,
+Midfielder,191076,J. Guðmundsson,67.0,73.0,76.0,75.0,61.0,67.0
+Midfielder,191135,L. Júnior,87.0,72.0,64.0,74.0,34.0,72.0
+Forward,192086,A. Kokorin,78.0,74.0,71.0,78.0,43.0,67.0
+Midfielder,192667,A. Nyom,79.0,59.0,73.0,69.0,74.0,84.0
+Forward,192722,R. Hamouma,67.0,76.0,75.0,78.0,42.0,64.0
+Midfielder,192955,M. Klich,66.0,72.0,74.0,73.0,61.0,75.0
+Defender,194201,P. Jansson,59.0,42.0,53.0,62.0,75.0,80.0
+Defender,200353,A. Soumaoro,56.0,37.0,55.0,55.0,74.0,80.0
+Defender,194644,Montoya,74.0,60.0,70.0,72.0,71.0,70.0
+Midfielder,195038,F. Kainz,72.0,73.0,72.0,77.0,40.0,61.0
+Forward,196889,S. Verdi,80.0,73.0,75.0,80.0,44.0,50.0
+Forward,197756,J. Ayew,76.0,74.0,70.0,78.0,46.0,72.0
+Midfielder,197891,Juanmi,73.0,75.0,69.0,76.0,30.0,51.0
+Defender,198032,D. Burn,48.0,33.0,63.0,58.0,75.0,80.0
+Midfielder,198451,Dani Rodríguez,85.0,75.0,74.0,72.0,63.0,69.0
+Forward,198683,M. Gabbiadini,67.0,79.0,71.0,76.0,26.0,62.0
+Midfielder,198861,N. Mendy,67.0,54.0,69.0,75.0,74.0,71.0
+Defender,198904,G. Hanley,52.0,32.0,45.0,51.0,76.0,74.0
+Midfielder,199247,Álex Fernández,57.0,70.0,79.0,74.0,68.0,64.0
+Midfielder,200054,Pedro Obiang,58.0,59.0,71.0,72.0,76.0,72.0
+Midfielder,189485,Diego Farías,82.0,70.0,68.0,78.0,38.0,49.0
+Defender,189456,L. Cooper,50.0,35.0,56.0,58.0,76.0,78.0
+Defender,189433,B. Hübner,38.0,31.0,54.0,58.0,78.0,67.0
+Goalkeeper,189324,A. McCarthy,,,,,,
+Midfielder,219576,R. Battaglia,63.0,67.0,67.0,72.0,77.0,78.0
+Midfielder,149185,F. Magnanelli,55.0,55.0,69.0,64.0,77.0,68.0
+Midfielder,152879,M. Noble,37.0,67.0,76.0,73.0,72.0,70.0
+Goalkeeper,153275,J. Leca,,,,,,
+Midfielder,158144,Salva Sevilla,44.0,72.0,79.0,71.0,69.0,64.0
+Defender,169595,D. Rose,72.0,58.0,71.0,75.0,74.0,68.0
+Goalkeeper,169697,D. Randolph,,,,,,
+Midfielder,171972,J. McArthur,53.0,66.0,72.0,74.0,75.0,73.0
+Goalkeeper,172203,F. Forster,,,,,,
+Midfielder,173030,Ó. Trejo,71.0,72.0,75.0,78.0,69.0,77.0
+Defender,173546,J. Tomkins,33.0,32.0,56.0,49.0,77.0,68.0
+Midfielder,177358,M. Schneiderlin,51.0,57.0,71.0,70.0,74.0,75.0
+Midfielder,180819,A. Lallana,67.0,70.0,78.0,79.0,62.0,56.0
+Defender,183129,C. Clark,51.0,51.0,53.0,55.0,77.0,73.0
+Defender,183285,M. Sakho,47.0,33.0,64.0,55.0,74.0,79.0
+Midfielder,183427,F. Delph,65.0,67.0,73.0,75.0,72.0,66.0
+Forward,183580,N. Petersen,53.0,78.0,58.0,65.0,40.0,74.0
+Forward,184111,C. Benteke,54.0,76.0,62.0,68.0,32.0,75.0
+Defender,184873,I. Traoré,40.0,39.0,58.0,50.0,75.0,86.0
+Forward,185422,J. King,79.0,76.0,68.0,76.0,38.0,70.0
+Forward,185431,N. Kalinić,63.0,74.0,64.0,73.0,42.0,67.0
+Goalkeeper,186569,S. Ulreich,,,,,,
+Forward,186905,A. Barnes,57.0,75.0,68.0,72.0,47.0,79.0
+Midfielder,189165,J. Shelvey,49.0,72.0,78.0,72.0,61.0,72.0
+Goalkeeper,189296,E. Berisha,,,,,,
+Midfielder,200318,M. Uth,73.0,77.0,72.0,76.0,40.0,68.0
+Defender,179847,F. Fazio,35.0,40.0,53.0,55.0,77.0,75.0
+Midfielder,200759,J. Schlupp,84.0,69.0,67.0,76.0,69.0,75.0
+Goalkeeper,211348,S. Dimitrievski,,,,,,
+Midfielder,211706,Pere Pons,62.0,62.0,72.0,74.0,69.0,70.0
+Goalkeeper,211738,M. Flekken,,,,,,
+Forward,211862,A. Hahn,72.0,75.0,67.0,70.0,55.0,83.0
+Forward,211899,F. Niederlechner,72.0,76.0,63.0,73.0,35.0,79.0
+Midfielder,212212,D. Kohr,77.0,62.0,62.0,70.0,75.0,80.0
+Midfielder,212811,M. Lemina,71.0,68.0,73.0,76.0,72.0,75.0
+Midfielder,213242,A. Tameze,68.0,61.0,67.0,76.0,73.0,74.0
+Midfielder,213367,L. Abergel,72.0,49.0,68.0,73.0,71.0,75.0
+Defender,213404,P. Dawidowicz,62.0,46.0,61.0,62.0,76.0,77.0
+Midfielder,213629,E. Pulgar,63.0,62.0,75.0,74.0,72.0,74.0
+Midfielder,213666,R. Loftus-Cheek,65.0,67.0,73.0,77.0,59.0,75.0
+Forward,213814,F. Di Francesco,79.0,70.0,73.0,81.0,39.0,60.0
+Defender,214639,Postigo,67.0,43.0,54.0,58.0,76.0,74.0
+Forward,215061,D. Benedetto,76.0,76.0,66.0,74.0,38.0,72.0
+Midfielder,215449,R. Skov,78.0,77.0,76.0,73.0,64.0,71.0
+Defender,215466,N. Maksimović,58.0,28.0,47.0,55.0,77.0,77.0
+Midfielder,146947,Vesga,46.0,63.0,70.0,67.0,76.0,75.0
+Defender,216158,S. Widmer,78.0,61.0,69.0,73.0,71.0,78.0
+Defender,216380,D. Sinkgraven,77.0,60.0,73.0,79.0,72.0,64.0
+Midfielder,216447,Álvaro García,92.0,64.0,70.0,73.0,30.0,45.0
+Forward,216452,Gonçalo Paciência,56.0,75.0,57.0,76.0,33.0,79.0
+Forward,216816,G. Simeone,76.0,74.0,59.0,75.0,37.0,70.0
+Midfielder,216820,M. Simon,92.0,70.0,66.0,79.0,34.0,65.0
+Midfielder,201046,R. Saponara,68.0,67.0,76.0,79.0,41.0,58.0
+Defender,219466,B. Meling,84.0,52.0,68.0,75.0,68.0,67.0
+Midfielder,211382,I. Amadou,64.0,55.0,65.0,71.0,73.0,80.0
+Defender,216283,Danilo,73.0,59.0,66.0,75.0,73.0,69.0
+Goalkeeper,211101,Rubén Blanco,,,,,,
+Midfielder,205531,V. Verre,70.0,74.0,74.0,75.0,65.0,66.0
+Defender,201939,C. Piccini,75.0,42.0,64.0,71.0,74.0,76.0
+Defender,201860,E. Bičakčić,60.0,37.0,49.0,48.0,76.0,78.0
+Defender,210635,K. Hause,61.0,45.0,60.0,59.0,74.0,79.0
+Defender,201988,F. Fernández,47.0,30.0,55.0,54.0,76.0,74.0
+Forward,202848,G. Caprari,84.0,70.0,70.0,81.0,20.0,49.0
+Midfielder,203570,S. Dallas,74.0,69.0,70.0,73.0,73.0,75.0
+Forward,203736,S. Bahoken,77.0,74.0,57.0,73.0,24.0,73.0
+Goalkeeper,203775,L. Karius,,,,,,
+Defender,204451,K. Günter,65.0,31.0,56.0,62.0,76.0,72.0
+Defender,204472,B. Sarr,73.0,70.0,73.0,75.0,68.0,72.0
+Midfielder,205343,J. Akpa Akpro,80.0,67.0,72.0,78.0,74.0,77.0
+Midfielder,205402,J. Boëtius,72.0,69.0,74.0,78.0,44.0,65.0
+Midfielder,203362,M. Elyounoussi,75.0,74.0,72.0,77.0,54.0,68.0
+Goalkeeper,207935,M. Dituro,,,,,,
+Defender,207790,K. Ayhan,64.0,53.0,71.0,68.0,76.0,75.0
+Forward,209430,R. Ripart,74.0,75.0,68.0,72.0,64.0,84.0
+Forward,205850,L. Pavoletti,56.0,73.0,51.0,68.0,35.0,72.0
+Midfielder,209781,P. Capelle,67.0,72.0,75.0,74.0,69.0,70.0
+Defender,207993,S. Kolašinac,75.0,62.0,68.0,71.0,71.0,86.0
+Midfielder,207807,R. Fraser,84.0,71.0,70.0,78.0,46.0,55.0
+Defender,209289,Kévin Rodrigues,75.0,59.0,75.0,72.0,70.0,60.0
+Defender,207707,Marçal,71.0,56.0,71.0,72.0,75.0,71.0
+Defender,207616,A. Webster,69.0,31.0,59.0,68.0,75.0,74.0
+Defender,206594,S. March,73.0,67.0,73.0,77.0,67.0,62.0
+Defender,205989,C. Chambers,66.0,56.0,70.0,68.0,76.0,76.0
+Defender,232223,K. Tsimikas,83.0,57.0,69.0,72.0,69.0,74.0
+Midfielder,232244,S. Ascacíbar,63.0,47.0,61.0,69.0,75.0,72.0
+Defender,234686,J. Lotomba,78.0,48.0,65.0,71.0,71.0,65.0
+Midfielder,233061,M. Pereira Lage,78.0,73.0,72.0,73.0,43.0,65.0
+Midfielder,233113,Aleñá,70.0,67.0,74.0,75.0,60.0,62.0
+Midfielder,233265,R. Oudin,72.0,71.0,72.0,74.0,34.0,67.0
+Goalkeeper,233934,A. Ramsdale,,,,,,
+Midfielder,234569,Florentino,62.0,44.0,61.0,68.0,74.0,73.0
+Defender,236636,A. Caci,72.0,52.0,67.0,68.0,72.0,72.0
+Defender,235899,D. Zeefuik,83.0,40.0,61.0,69.0,71.0,80.0
+Defender,235026,O. Richards,81.0,46.0,60.0,73.0,69.0,63.0
+Midfielder,235042,D. Liénard,54.0,70.0,79.0,73.0,62.0,70.0
+Defender,235454,M. Sarr,68.0,52.0,68.0,66.0,75.0,75.0
+Midfielder,235813,R. Marin,67.0,73.0,78.0,73.0,61.0,65.0
+Defender,236295,Aarón,64.0,47.0,71.0,74.0,71.0,64.0
+Midfielder,236311,M. Rog,71.0,66.0,73.0,75.0,63.0,69.0
+Defender,236457,D. Giannoulis,82.0,48.0,65.0,70.0,70.0,67.0
+Forward,236498,S. Lammers,75.0,75.0,61.0,77.0,34.0,66.0
+Forward,231745,L. Dimata,77.0,73.0,64.0,70.0,40.0,77.0
+Defender,236600,J. Tanganga,77.0,34.0,62.0,69.0,74.0,78.0
+Forward,231835,T. Henry,61.0,73.0,65.0,66.0,39.0,79.0
+Defender,227647,M. Mittelstädt,80.0,62.0,67.0,73.0,71.0,67.0
+Midfielder,231640,Ontiveros,77.0,74.0,72.0,76.0,35.0,54.0
+Defender,231485,A. Tuanzebe,80.0,36.0,63.0,69.0,73.0,73.0
+Midfielder,225562,Merquelanz,72.0,77.0,75.0,74.0,45.0,66.0
+Midfielder,237207,S. Kalu,85.0,66.0,69.0,77.0,34.0,56.0
+Defender,225706,M. Trauco,69.0,52.0,74.0,75.0,69.0,72.0
+Midfielder,225844,D. Verde,84.0,73.0,67.0,79.0,36.0,47.0
+Forward,225926,Pere Milla,76.0,74.0,68.0,76.0,37.0,63.0
+Goalkeeper,226085,Léo Jardim,,,,,,
+Defender,226536,O. Colley,68.0,31.0,48.0,54.0,72.0,83.0
+Midfielder,226592,J. Jankto,75.0,71.0,70.0,74.0,67.0,63.0
+Forward,226710,G. Scamacca,70.0,75.0,54.0,69.0,33.0,70.0
+Forward,227232,F. Sotoca,80.0,71.0,68.0,70.0,42.0,80.0
+Defender,227873,A. Touré,79.0,57.0,67.0,73.0,72.0,72.0
+Defender,229359,Jorge Miramón,73.0,58.0,73.0,70.0,71.0,73.0
+Midfielder,229723,M. Jensen,67.0,63.0,75.0,73.0,65.0,70.0
+Defender,230021,J. Aidoo,73.0,25.0,40.0,46.0,73.0,87.0
+Forward,230084,L. Nmecha,82.0,73.0,64.0,75.0,39.0,78.0
+Forward,230978,T. Awoniyi,78.0,73.0,60.0,70.0,32.0,76.0
+Midfielder,231236,M. Cafaro,76.0,69.0,72.0,77.0,44.0,61.0
+Midfielder,231242,A. Ounas,84.0,66.0,71.0,79.0,44.0,64.0
+Defender,231361,J. Gnagnon,50.0,39.0,56.0,60.0,74.0,79.0
+Forward,236988,E. Nketiah,83.0,72.0,55.0,74.0,24.0,61.0
+Midfielder,245275,T. Bašić,54.0,64.0,75.0,73.0,69.0,76.0
+Midfielder,237560,M. Djenepo,82.0,68.0,66.0,80.0,36.0,65.0
+Forward,251892,Beto,71.0,74.0,54.0,68.0,24.0,78.0
+Goalkeeper,243952,A. Lunin,,,,,,
+Goalkeeper,244274,A. Šemper,,,,,,
+Midfielder,246672,Barrenetxea,80.0,69.0,62.0,79.0,24.0,53.0
+Defender,246748,Aihen Muñoz,77.0,53.0,69.0,71.0,72.0,65.0
+Defender,247131,A. Espino,78.0,60.0,63.0,69.0,70.0,75.0
+Midfielder,247246,K. Thuram,73.0,61.0,69.0,74.0,72.0,76.0
+Defender,247832,Thierry Correia,91.0,46.0,65.0,73.0,67.0,69.0
+Midfielder,248148,Zubimendi,62.0,61.0,71.0,71.0,74.0,69.0
+Midfielder,251217,Jean Lucas,70.0,67.0,74.0,75.0,68.0,73.0
+Defender,252339,Tiago Djaló,83.0,42.0,60.0,64.0,74.0,77.0
+Midfielder,237629,A. Maier,69.0,57.0,71.0,75.0,68.0,71.0
+Midfielder,252837,Nico Melamed,83.0,68.0,69.0,79.0,40.0,57.0
+Forward,253002,G. Raspadori,77.0,74.0,63.0,77.0,26.0,53.0
+Midfielder,253102,A. Aouchiche,70.0,64.0,74.0,75.0,56.0,59.0
+Forward,255000,T. Moffi,74.0,74.0,53.0,70.0,24.0,75.0
+Defender,255106,L. Badé,60.0,29.0,54.0,62.0,75.0,77.0
+Defender,255687,D. Zima,74.0,38.0,54.0,63.0,76.0,76.0
+Midfielder,256632,Luis Henrique,84.0,69.0,71.0,74.0,37.0,69.0
+Midfielder,256948,C. Tzolis,86.0,71.0,66.0,76.0,35.0,65.0
+Defender,225410,A. Masina,62.0,42.0,66.0,68.0,72.0,73.0
+Forward,243780,Kangin Lee,72.0,75.0,75.0,79.0,30.0,54.0
+Defender,243237,L. Pellegrini,83.0,54.0,64.0,72.0,69.0,61.0
+Midfielder,243014,B. Mbeumo,83.0,73.0,69.0,74.0,37.0,63.0
+Defender,242835,L. Balerdi,71.0,36.0,57.0,64.0,75.0,75.0
+Forward,237679,R. Kolo Muani,82.0,69.0,60.0,77.0,31.0,61.0
+Midfielder,237995,D. Lainez,78.0,64.0,70.0,80.0,49.0,55.0
+Midfielder,238068,M. Richter,76.0,70.0,65.0,77.0,27.0,61.0
+Midfielder,238216,C. Gallagher,71.0,69.0,70.0,73.0,61.0,66.0
+Defender,238621,Rodrigo Becão,49.0,33.0,55.0,48.0,77.0,71.0
+Defender,238717,E. Pinnock,68.0,37.0,57.0,60.0,74.0,79.0
+Forward,238900,E. Demirović,68.0,74.0,61.0,71.0,37.0,73.0
+Forward,239015,E. Dennis,88.0,72.0,60.0,76.0,38.0,68.0
+Defender,239360,P. Struijk,58.0,35.0,60.0,62.0,75.0,73.0
+Defender,239368,M. Bakker,76.0,50.0,65.0,68.0,72.0,77.0
+Defender,240223,M. Ristić,76.0,60.0,65.0,73.0,69.0,68.0
+Defender,240359,O. Alderete,66.0,56.0,59.0,63.0,74.0,77.0
+Midfielder,240938,Junior Messias,82.0,68.0,72.0,76.0,37.0,54.0
+Defender,240976,M. Saracchi,82.0,63.0,70.0,75.0,69.0,69.0
+Defender,241103,Z. Vanheusden,60.0,45.0,63.0,66.0,75.0,74.0
+Forward,241130,I. Ganago,82.0,74.0,58.0,75.0,34.0,68.0
+Forward,241496,T. Weah,87.0,71.0,67.0,76.0,45.0,61.0
+Midfielder,241867,Aitor Ruibal,78.0,74.0,66.0,75.0,42.0,62.0
+Defender,242418,T. Lamptey,87.0,44.0,66.0,75.0,67.0,52.0
+Defender,225523,Lekue,83.0,64.0,69.0,73.0,68.0,70.0
+Forward,208622,Rubén Sobrino,78.0,76.0,62.0,72.0,37.0,66.0
+Goalkeeper,224987,I. Provedel,,,,,,
+Defender,190854,P. Pekarík,62.0,40.0,64.0,73.0,73.0,67.0
+Midfielder,191783,V. Berisha,71.0,70.0,71.0,77.0,58.0,77.0
+Defender,192557,M. Plattenhardt,70.0,56.0,74.0,71.0,71.0,71.0
+Forward,192991,C. Tosun,66.0,76.0,65.0,72.0,36.0,73.0
+Defender,193091,B. Nuytinck,33.0,40.0,54.0,55.0,77.0,69.0
+Forward,193338,M. Destro,69.0,75.0,60.0,72.0,29.0,60.0
+Defender,193440,N. Viergever,64.0,54.0,65.0,67.0,74.0,75.0
+Defender,193470,A. Souquet,70.0,59.0,70.0,71.0,71.0,70.0
+Midfielder,193532,G. Medel,62.0,47.0,62.0,68.0,74.0,79.0
+Forward,194728,I. Belfodil,65.0,74.0,68.0,74.0,36.0,74.0
+Goalkeeper,194911,Adrián,,,,,,
+Defender,194957,P. Jones,51.0,50.0,60.0,56.0,75.0,67.0
+Midfielder,196942,Iñigo Pérez,56.0,65.0,77.0,66.0,71.0,72.0
+Defender,198023,Ximo Navarro,73.0,47.0,65.0,68.0,70.0,76.0
+Midfielder,198077,P. Herrmann,70.0,72.0,73.0,75.0,33.0,60.0
+Forward,198331,M. Vydra,80.0,74.0,68.0,75.0,36.0,67.0
+Defender,198352,S. Bell,40.0,38.0,52.0,49.0,76.0,73.0
+Defender,198949,K. Malcuit,75.0,62.0,70.0,74.0,72.0,71.0
+Goalkeeper,199339,M. Riemann,,,,,,
+Goalkeeper,199909,P. Pervan,,,,,,
+Midfielder,190982,Alberto Perea,76.0,72.0,70.0,78.0,36.0,61.0
+Defender,189946,V. Manceau,45.0,47.0,70.0,73.0,75.0,72.0
+Goalkeeper,201269,F. Rønnow,,,,,,
+Midfielder,189725,T. Cleverley,60.0,69.0,74.0,73.0,61.0,65.0
+Forward,137506,G. Pandev,54.0,78.0,72.0,79.0,37.0,49.0
+Midfielder,167933,Y. Cahuzac,34.0,46.0,63.0,62.0,73.0,77.0
+Forward,169792,J. Rodriguez,67.0,76.0,67.0,73.0,42.0,66.0
+Goalkeeper,170084,W. Hennessey,,,,,,
+Defender,178031,P. Baysse,43.0,45.0,62.0,61.0,74.0,76.0
+Midfielder,178160,T. Mangani,48.0,69.0,76.0,70.0,70.0,72.0
+Defender,178567,E. Pieters,63.0,39.0,68.0,69.0,74.0,78.0
+Defender,182168,A. Ranocchia,36.0,32.0,57.0,58.0,78.0,66.0
+Goalkeeper,183141,Oier,,,,,,
+Midfielder,183520,Fran Mérida,58.0,72.0,77.0,72.0,67.0,71.0
+Defender,184037,M. Kelly,50.0,44.0,59.0,61.0,76.0,68.0
+Defender,186392,J. Ward,54.0,52.0,67.0,66.0,77.0,71.0
+Defender,186395,M. Ritchie,65.0,73.0,75.0,76.0,65.0,69.0
+Defender,186519,Juan Cala,58.0,54.0,62.0,60.0,74.0,80.0
+Defender,186589,I. Radovanović,51.0,59.0,69.0,66.0,75.0,75.0
+Midfielder,188388,R. Boudebouz,66.0,74.0,75.0,76.0,40.0,59.0
+Forward,188770,A. Mehmedi,68.0,74.0,70.0,78.0,43.0,66.0
+Midfielder,189172,Fidel,74.0,71.0,73.0,72.0,47.0,66.0
+Forward,224933,K. Lasagna,87.0,70.0,60.0,75.0,29.0,63.0
+Midfielder,200478,J. Hendrick,64.0,68.0,74.0,74.0,70.0,74.0
+Defender,189484,D. Santon,66.0,57.0,70.0,72.0,73.0,67.0
+Defender,202697,J. Stephens,53.0,42.0,61.0,67.0,76.0,73.0
+Midfielder,212911,Hernâni,91.0,68.0,66.0,80.0,29.0,60.0
+Defender,215322,J. Silva,72.0,60.0,67.0,72.0,71.0,76.0
+Goalkeeper,215363,L. Montipò,,,,,,
+Midfielder,217648,G. Haraguchi,84.0,66.0,70.0,78.0,44.0,53.0
+Midfielder,218534,S. Adamyan,79.0,73.0,64.0,76.0,37.0,70.0
+Defender,218540,A. Oyongo,85.0,59.0,68.0,73.0,66.0,76.0
+Forward,219496,Simy,59.0,77.0,45.0,61.0,29.0,78.0
+Forward,219536,I. Pussetto,78.0,73.0,63.0,77.0,25.0,60.0
+Defender,219585,M. Valjent,66.0,36.0,55.0,64.0,75.0,82.0
+Forward,219932,A. Sanabria,73.0,72.0,70.0,75.0,32.0,62.0
+Midfielder,221743,Hélder Costa,85.0,67.0,68.0,76.0,29.0,56.0
+Forward,222041,L. Boyé,73.0,72.0,61.0,77.0,47.0,79.0
+Goalkeeper,222514,F. Woodman,,,,,,
+Forward,223334,Joelinton,76.0,70.0,62.0,73.0,43.0,79.0
+Goalkeeper,224251,R. Zentner,,,,,,
+Defender,224263,J. Kenny,71.0,49.0,65.0,70.0,71.0,70.0
+Defender,224494,R. Henry,91.0,40.0,60.0,73.0,67.0,70.0
+Defender,224656,O. Aina,83.0,60.0,67.0,73.0,70.0,74.0
+Forward,224883,S. Mounié,64.0,73.0,62.0,68.0,45.0,80.0
+Defender,203581,I. Balliu,84.0,39.0,68.0,74.0,69.0,72.0
+Defender,214026,J. Mojica,91.0,65.0,70.0,71.0,68.0,72.0
+Goalkeeper,220901,David Raya,,,,,,
+Midfielder,211999,R. Khedira,48.0,43.0,58.0,62.0,76.0,80.0
+Goalkeeper,207998,D. Ward,,,,,,
+Defender,204355,P. Dummett,64.0,40.0,63.0,67.0,76.0,70.0
+Defender,211856,K. Akpoguma,81.0,48.0,55.0,60.0,76.0,71.0
+Defender,205193,K. Rekik,67.0,39.0,58.0,62.0,73.0,76.0
+Defender,205362,M. Nastasić,65.0,32.0,61.0,56.0,74.0,75.0
+Forward,205495,A. Lozano,78.0,74.0,63.0,69.0,36.0,75.0
+Defender,206098,Patric,70.0,53.0,67.0,70.0,75.0,69.0
+Forward,207562,S. Andersson,54.0,73.0,54.0,69.0,31.0,76.0
+Midfielder,207894,T. Strobl,43.0,49.0,65.0,58.0,74.0,78.0
+Defender,207920,E. Durm,74.0,56.0,66.0,69.0,70.0,69.0
+Defender,206198,D. Heintz,59.0,37.0,60.0,59.0,74.0,79.0
+Midfielder,208535,A. Duncan,71.0,63.0,71.0,74.0,74.0,75.0
+Midfielder,208620,Omar Mascarell,59.0,60.0,67.0,73.0,70.0,72.0
+Midfielder,210475,M. Prietl,58.0,51.0,62.0,65.0,72.0,79.0
+Defender,210964,F. Ceccherini,63.0,43.0,53.0,63.0,76.0,71.0
+Defender,210972,Manquillo,70.0,44.0,63.0,72.0,72.0,66.0
+Midfielder,211099,O. Nguette,85.0,67.0,67.0,76.0,40.0,63.0
+Midfielder,208137,Lucas Torró,39.0,63.0,65.0,65.0,73.0,73.0
+Midfielder,211381,S. Boufal,79.0,66.0,72.0,79.0,27.0,50.0
+Midfielder,211408,K. Linetty,67.0,63.0,71.0,75.0,72.0,69.0
+Defender,232270,T. Fosu-Mensah,77.0,60.0,64.0,65.0,72.0,76.0
+Defender,234986,P. Retsos,65.0,35.0,59.0,57.0,75.0,71.0
+Midfielder,235407,S. Özcan,69.0,62.0,69.0,75.0,69.0,73.0
+Defender,235290,K. Bonifazi,52.0,35.0,51.0,56.0,75.0,64.0
+Midfielder,235167,V. Janelt,66.0,62.0,66.0,68.0,70.0,75.0
+Defender,235036,W. Faes,55.0,37.0,54.0,57.0,73.0,75.0
+Defender,233084,N. Molina,78.0,64.0,67.0,72.0,68.0,66.0
+Midfielder,234728,L. Bénes,63.0,70.0,78.0,75.0,44.0,60.0
+Defender,233767,S. Alakouch,73.0,45.0,67.0,72.0,70.0,65.0
+Midfielder,232610,T. Asano,90.0,69.0,62.0,75.0,30.0,61.0
+Midfielder,235522,Aleix Febas,68.0,62.0,75.0,76.0,61.0,66.0
+Midfielder,235456,J. Bellegarde,79.0,60.0,69.0,75.0,69.0,69.0
+Midfielder,236556,M. Hongla,82.0,69.0,70.0,76.0,66.0,77.0
+Midfielder,235526,D. Geiger,58.0,47.0,71.0,78.0,55.0,58.0
+Midfielder,235781,Santi Comesaña,63.0,67.0,64.0,69.0,72.0,73.0
+Forward,235888,I. Cardona,73.0,74.0,67.0,72.0,26.0,63.0
+Defender,236331,E. Cabaco,54.0,41.0,48.0,54.0,74.0,76.0
+Midfielder,236935,H. Wolf,77.0,69.0,67.0,77.0,36.0,65.0
+Defender,236454,S. Doumbia,86.0,43.0,62.0,70.0,68.0,69.0
+Goalkeeper,236515,Álvaro,,,,,,
+Midfielder,236518,A. Nordin,80.0,69.0,68.0,75.0,37.0,58.0
+Midfielder,236624,A. Barkok,78.0,66.0,69.0,78.0,55.0,65.0
+Defender,236703,D. Raum,86.0,59.0,66.0,74.0,64.0,70.0
+Midfielder,231864,M. van Bergen,93.0,65.0,64.0,75.0,27.0,51.0
+Defender,232008,Toni Lato,77.0,56.0,71.0,71.0,68.0,61.0
+Midfielder,225204,Raúl Guti,68.0,68.0,69.0,70.0,67.0,79.0
+Defender,231685,R. Pierre-Gabriel,76.0,48.0,60.0,69.0,71.0,72.0
+Midfielder,231445,J. Dasilva,74.0,70.0,73.0,74.0,62.0,75.0
+Defender,224808,G. Ferrari,53.0,27.0,39.0,49.0,75.0,79.0
+Midfielder,224949,J. Dilrosun,83.0,63.0,63.0,79.0,43.0,52.0
+Forward,225018,F. Andone,73.0,71.0,62.0,73.0,51.0,71.0
+Midfielder,225200,Kike Barja,76.0,66.0,67.0,73.0,34.0,61.0
+Midfielder,226414,M. Coco,86.0,69.0,68.0,72.0,47.0,59.0
+Midfielder,226861,S. Thioub,78.0,71.0,69.0,73.0,30.0,69.0
+Midfielder,227503,J. Bruun Larsen,85.0,69.0,69.0,72.0,55.0,67.0
+Midfielder,228332,H. Choudhury,64.0,45.0,62.0,66.0,74.0,74.0
+Defender,228349,M. Vojvoda,70.0,50.0,68.0,69.0,70.0,70.0
+Midfielder,228698,V. Kovalenko,75.0,71.0,72.0,73.0,59.0,71.0
+Goalkeeper,228736,W. Faríñez,,,,,,
+Defender,228805,Raillo,57.0,36.0,53.0,54.0,74.0,79.0
+Midfielder,228815,T. Roberts,75.0,69.0,68.0,75.0,38.0,71.0
+Midfielder,228946,M. Svanberg,77.0,66.0,74.0,76.0,62.0,68.0
+Forward,229071,K. Onisiwo,76.0,69.0,66.0,74.0,51.0,79.0
+Defender,229221,William,72.0,50.0,68.0,75.0,70.0,68.0
+Midfielder,229636,G. Pereiro,70.0,73.0,70.0,77.0,40.0,67.0
+Midfielder,229667,Josan,85.0,69.0,66.0,74.0,52.0,55.0
+Midfielder,230107,L. Coulibaly,73.0,58.0,67.0,72.0,71.0,74.0
+Defender,230578,M. Diakhaby,58.0,38.0,53.0,58.0,74.0,75.0
+Defender,230918,T. Chalobah,65.0,43.0,63.0,68.0,72.0,77.0
+Defender,231235,K. Amian,79.0,48.0,63.0,68.0,73.0,79.0
+Defender,231292,J. Lewis,77.0,53.0,64.0,74.0,70.0,69.0
+Defender,236822,G. Gudmundsson,87.0,64.0,67.0,72.0,66.0,70.0
+Midfielder,224019,Pedro Chirivella,64.0,52.0,70.0,72.0,66.0,69.0
+Defender,236947,J. Torunarigha,74.0,34.0,63.0,65.0,75.0,74.0
+Forward,237715,P. Cutrone,72.0,71.0,55.0,71.0,29.0,69.0
+Midfielder,245598,I. Baba,66.0,49.0,61.0,59.0,73.0,78.0
+Midfielder,246174,H. Elliott,79.0,62.0,71.0,78.0,30.0,41.0
+Defender,246352,Hugo Guillamón,61.0,36.0,63.0,60.0,75.0,68.0
+Defender,246875,O. Kossounou,75.0,32.0,58.0,65.0,73.0,78.0
+Defender,247019,B. Kouyaté,62.0,37.0,50.0,58.0,73.0,77.0
+Defender,247819,N. Schlotterbeck,69.0,29.0,47.0,53.0,75.0,75.0
+Midfielder,247827,M. Olise,78.0,64.0,74.0,77.0,50.0,54.0
+Defender,248820,Mateu Morey,75.0,46.0,67.0,76.0,68.0,62.0
+Midfielder,251570,R. Cherki,72.0,67.0,68.0,81.0,21.0,58.0
+Forward,251756,R. Nteka,75.0,72.0,65.0,73.0,58.0,82.0
+Forward,251810,B. Brobbey,83.0,71.0,54.0,68.0,30.0,81.0
+Defender,252017,F. Daniliuc,60.0,42.0,61.0,61.0,73.0,74.0
+Defender,252086,Son,84.0,50.0,64.0,71.0,67.0,72.0
+Defender,252327,Manu Sánchez,71.0,44.0,62.0,68.0,71.0,62.0
+Forward,252590,Fer Niño,67.0,74.0,59.0,68.0,35.0,69.0
+Defender,253149,J. Frimpong,91.0,50.0,65.0,77.0,64.0,68.0
+Forward,253444,A. Kalimuendo,82.0,72.0,52.0,74.0,29.0,65.0
+Defender,255523,Y. Maçon,86.0,50.0,62.0,72.0,67.0,69.0
+Midfielder,257889,K. Jakić,75.0,57.0,63.0,67.0,70.0,82.0
+Goalkeeper,258390,I. Grbić,,,,,,
+Midfielder,258602,Jon Morcillo,76.0,74.0,71.0,75.0,37.0,59.0
+Midfielder,259233,I. Moriba,72.0,70.0,64.0,73.0,64.0,65.0
+Midfielder,259377,Yeremy Pino,71.0,66.0,70.0,73.0,31.0,46.0
+Forward,245228,F. Krüger,86.0,72.0,55.0,72.0,22.0,70.0
+Forward,244675,Sancet,71.0,71.0,67.0,76.0,51.0,55.0
+Defender,243976,Catena,68.0,39.0,54.0,50.0,74.0,78.0
+Defender,241159,M. Guéhi,71.0,31.0,49.0,64.0,74.0,72.0
+Defender,237985,K. Danso,78.0,32.0,45.0,56.0,72.0,76.0
+Midfielder,238126,Guridi,66.0,63.0,67.0,75.0,61.0,57.0
+Forward,239025,I. Niane,82.0,74.0,54.0,71.0,20.0,62.0
+Midfielder,239356,A. Matusiwa,62.0,47.0,58.0,67.0,72.0,80.0
+Midfielder,239452,I. Diallo,64.0,48.0,64.0,70.0,71.0,72.0
+Midfielder,239712,M. Okugawa,76.0,65.0,68.0,78.0,38.0,42.0
+Midfielder,239744,M. Cuisance,69.0,67.0,78.0,77.0,53.0,62.0
+Midfielder,239970,Paulinho,77.0,67.0,69.0,80.0,36.0,61.0
+Forward,240452,M. Nzola,86.0,70.0,59.0,68.0,29.0,75.0
+Defender,240926,N. Phillips,53.0,30.0,49.0,51.0,73.0,78.0
+Midfielder,241390,E. Elmas,71.0,69.0,71.0,77.0,61.0,67.0
+Midfielder,243593,A. Laurienté,77.0,72.0,70.0,76.0,33.0,45.0
+Midfielder,241463,Dani Raba,66.0,71.0,72.0,73.0,38.0,58.0
+Forward,241821,M. Bayo,72.0,75.0,60.0,73.0,25.0,60.0
+Midfielder,241856,Manu Morlanes,69.0,62.0,73.0,75.0,68.0,64.0
+Midfielder,241925,C. Führich,81.0,66.0,68.0,74.0,54.0,61.0
+Midfielder,241928,A. Sambi Lokonga,66.0,58.0,72.0,77.0,67.0,69.0
+Midfielder,241937,A. Harroui,74.0,68.0,70.0,75.0,67.0,76.0
+Defender,242000,K. Mavropanos,77.0,33.0,49.0,49.0,74.0,78.0
+Midfielder,242434,C. Jones,67.0,65.0,70.0,76.0,63.0,70.0
+Defender,242641,R. Aït Nouri,75.0,42.0,63.0,73.0,70.0,51.0
+Forward,243315,Dani Gómez,78.0,74.0,60.0,73.0,37.0,63.0
+Midfielder,224415,Luis Rioja,79.0,67.0,69.0,75.0,32.0,49.0
+Midfielder,201073,N. De Préville,74.0,73.0,72.0,74.0,37.0,68.0
+Midfielder,223978,Manu García,78.0,69.0,72.0,75.0,40.0,56.0
+Defender,191648,M. Yoshida,52.0,41.0,51.0,63.0,74.0,71.0
+Forward,192445,D. Ginczek,64.0,74.0,51.0,66.0,38.0,75.0
+Midfielder,192612,M. Jajalo,63.0,64.0,70.0,74.0,70.0,76.0
+Forward,192663,F. Klos,63.0,73.0,61.0,61.0,39.0,81.0
+Defender,193148,V. Le Goff,71.0,61.0,66.0,71.0,68.0,69.0
+Goalkeeper,193336,V. Belec,,,,,,
+Goalkeeper,193786,F. Bardi,,,,,,
+Forward,193794,Villalibre,75.0,72.0,55.0,68.0,39.0,81.0
+Midfielder,193886,D. Didavi,58.0,76.0,73.0,75.0,49.0,68.0
+Defender,194665,S. Ilsanker,62.0,53.0,51.0,50.0,73.0,81.0
+Forward,195586,A. Finnbogason,55.0,76.0,61.0,72.0,33.0,64.0
+Defender,199313,A. Bamba,78.0,41.0,65.0,65.0,70.0,72.0
+Forward,199602,J. Guidetti,56.0,75.0,67.0,71.0,38.0,71.0
+Defender,199763,B. Bereszyński,84.0,56.0,64.0,69.0,67.0,73.0
+Midfielder,199829,Timor,41.0,66.0,72.0,67.0,68.0,76.0
+Midfielder,200469,L. Rupp,63.0,66.0,74.0,74.0,66.0,64.0
+Defender,200752,Juan Jesus,71.0,33.0,52.0,59.0,75.0,73.0
+Defender,201049,L. Tonelli,56.0,31.0,44.0,59.0,76.0,67.0
+Midfielder,201368,K. McLean,65.0,70.0,70.0,72.0,65.0,74.0
+Defender,201955,M. Haïdara,77.0,51.0,62.0,70.0,68.0,78.0
+Forward,202276,S. Zoller,72.0,74.0,65.0,73.0,39.0,65.0
+Midfielder,202316,T. Chandler,64.0,71.0,72.0,70.0,72.0,78.0
+Goalkeeper,203042,J. Butland,,,,,,
+Forward,203280,V. Germain,68.0,74.0,70.0,73.0,39.0,66.0
+Defender,192227,S. Mustafi,57.0,57.0,62.0,59.0,73.0,77.0
+Defender,191210,S. Corchia,72.0,62.0,71.0,71.0,72.0,62.0
+Midfielder,204497,K. Stöger,52.0,67.0,76.0,77.0,41.0,63.0
+Defender,191055,Dídac Vilà,74.0,52.0,66.0,68.0,71.0,74.0
+Defender,223139,A. Zedadka,83.0,55.0,56.0,74.0,65.0,62.0
+Goalkeeper,150477,R. Salin,,,,,,
+Midfielder,152747,A. Lennon,78.0,60.0,70.0,77.0,48.0,56.0
+Goalkeeper,156437,P. Pentke,,,,,,
+Midfielder,161805,V. Behrami,55.0,63.0,71.0,71.0,72.0,73.0
+Goalkeeper,162297,D. Padelli,,,,,,
+Midfielder,166074,Bebé,82.0,78.0,69.0,71.0,41.0,84.0
+Defender,169115,A. Masiello,40.0,37.0,56.0,59.0,75.0,71.0
+Defender,169426,Barragán,69.0,52.0,66.0,66.0,71.0,73.0
+Goalkeeper,173178,Manolo Reina,,,,,,
+Goalkeeper,177475,T. Sippel,,,,,,
+Goalkeeper,177644,Kiko Casilla,,,,,,
+Goalkeeper,180739,E. Kawashima,,,,,,
+Defender,182179,S. De Maio,54.0,33.0,39.0,51.0,75.0,77.0
+Midfielder,182184,D. Stephens,49.0,62.0,71.0,67.0,71.0,71.0
+Defender,182888,H. Nordtveit,54.0,53.0,69.0,65.0,74.0,72.0
+Goalkeeper,183497,O. Karnezis,,,,,,
+Forward,186146,D. Welbeck,71.0,72.0,67.0,72.0,42.0,66.0
+Defender,190034,T. Kolodziejczak,67.0,37.0,68.0,60.0,73.0,77.0
+Defender,190520,T. Jantschke,65.0,41.0,63.0,66.0,75.0,71.0
+Defender,190666,M. Gulde,66.0,40.0,52.0,57.0,74.0,71.0
+Midfielder,190761,T. Arslan,65.0,68.0,73.0,76.0,69.0,67.0
+Midfielder,191053,T. Rincón,65.0,59.0,70.0,75.0,73.0,75.0
+Midfielder,204152,J. Jønsson,70.0,56.0,65.0,68.0,72.0,75.0
+Midfielder,183287,F. Lemoine,37.0,58.0,69.0,68.0,71.0,75.0
+Midfielder,205157,Ruiz de Galarreta,69.0,59.0,69.0,72.0,67.0,70.0
+Defender,212244,C. Lenz,71.0,42.0,66.0,69.0,72.0,68.0
+Midfielder,212886,W. Cyprien,72.0,71.0,73.0,74.0,73.0,73.0
+Defender,213063,Róber,57.0,43.0,61.0,61.0,75.0,69.0
+Defender,213414,W. Troost-Ekong,61.0,32.0,45.0,44.0,76.0,77.0
+Midfielder,213750,K. Sema,78.0,66.0,71.0,74.0,60.0,68.0
+Defender,213868,J. Castelletto,73.0,30.0,52.0,62.0,74.0,76.0
+Goalkeeper,214462,I. Arboleda,,,,,,
+Defender,214622,J. Toljan,86.0,42.0,62.0,69.0,66.0,67.0
+Goalkeeper,214680,G. Gallon,,,,,,
+Defender,215410,B. Chardonnet,55.0,40.0,52.0,57.0,75.0,74.0
+Midfielder,215616,Jason,72.0,71.0,71.0,73.0,49.0,65.0
+Defender,215651,Samir,60.0,33.0,55.0,57.0,75.0,73.0
+Defender,216067,R. Gagliolo,74.0,51.0,53.0,64.0,72.0,71.0
+Defender,216605,Akapo,84.0,51.0,60.0,63.0,69.0,76.0
+Midfielder,218311,J. Dossou,83.0,66.0,65.0,72.0,35.0,63.0
+Defender,218981,H. Palacios,83.0,35.0,61.0,61.0,69.0,80.0
+Midfielder,219728,Edgar Méndez,74.0,71.0,70.0,70.0,43.0,77.0
+Defender,220348,Iza Carcelén,78.0,59.0,67.0,71.0,68.0,70.0
+Defender,220414,Diego Rico,72.0,57.0,69.0,69.0,71.0,74.0
+Midfielder,220475,A. Grassi,65.0,63.0,72.0,74.0,67.0,62.0
+Midfielder,221885,P. Seguin,66.0,59.0,69.0,71.0,68.0,75.0
+Midfielder,222475,M. Thorsby,68.0,62.0,68.0,71.0,73.0,80.0
+Midfielder,222844,Walace,65.0,66.0,68.0,69.0,68.0,72.0
+Defender,205553,L. Ceppitelli,51.0,33.0,35.0,44.0,76.0,70.0
+Defender,212772,Ó. Duarte,49.0,47.0,51.0,54.0,75.0,76.0
+Midfielder,218746,Pozo,74.0,72.0,71.0,75.0,61.0,58.0
+Defender,212225,E. Roco,33.0,41.0,54.0,58.0,75.0,77.0
+Midfielder,208861,J. Gastien,56.0,63.0,65.0,71.0,70.0,78.0
+Forward,205670,D. Gayle,75.0,74.0,58.0,73.0,28.0,60.0
+Midfielder,212214,A. Solari,86.0,64.0,70.0,74.0,58.0,74.0
+Goalkeeper,205878,S. Kapino,,,,,,
+Defender,205943,V. Chiricheș,56.0,62.0,56.0,62.0,75.0,66.0
+Defender,205995,J. Willems,72.0,65.0,73.0,73.0,70.0,72.0
+Goalkeeper,206218,P. Nardi,,,,,,
+Midfielder,207537,J. Lukaku,85.0,61.0,68.0,73.0,68.0,79.0
+Defender,207593,J. Uronen,72.0,57.0,69.0,67.0,69.0,75.0
+Defender,207650,E. Krafth,66.0,58.0,67.0,70.0,72.0,71.0
+Midfielder,208144,D. Bessa,60.0,69.0,74.0,76.0,55.0,48.0
+Defender,208449,C. Hérelle,57.0,48.0,61.0,61.0,74.0,73.0
+Defender,206219,Juan Cruz,75.0,40.0,60.0,63.0,69.0,73.0
+Defender,208892,S. Byram,71.0,60.0,66.0,71.0,71.0,68.0
+Midfielder,210489,L. Schaub,58.0,67.0,72.0,77.0,42.0,67.0
+Forward,209504,B. Hrgota,73.0,73.0,65.0,74.0,27.0,65.0
+Midfielder,211879,J. Haberer,61.0,63.0,70.0,73.0,62.0,68.0
+Midfielder,211361,D. Cataldi,66.0,71.0,75.0,73.0,68.0,64.0
+Defender,210802,J. Nilsson,60.0,32.0,54.0,55.0,74.0,74.0
+Midfielder,210697,C. Nørgaard,62.0,57.0,68.0,69.0,73.0,74.0
+Midfielder,209618,F. Tardieu,56.0,62.0,71.0,68.0,69.0,76.0
+Defender,209547,S. Mitrović,33.0,34.0,51.0,54.0,74.0,81.0
+Midfielder,211818,K. Möhwald,57.0,71.0,75.0,74.0,64.0,68.0
+Midfielder,231089,I. Sissoko,50.0,55.0,65.0,66.0,71.0,84.0
+Midfielder,233075,Garrido,36.0,43.0,57.0,53.0,71.0,88.0
+Midfielder,231041,C. Ninga,89.0,71.0,63.0,69.0,27.0,77.0
+Defender,231588,Joan Sastre,77.0,36.0,56.0,67.0,69.0,64.0
+Defender,230681,G. Pezzella,76.0,52.0,64.0,70.0,67.0,74.0
+Defender,231874,J. Horn,78.0,35.0,59.0,67.0,68.0,68.0
+Forward,232225,J. Serra,61.0,72.0,52.0,61.0,37.0,77.0
+Defender,234843,M. Leitsch,87.0,37.0,55.0,63.0,73.0,71.0
+Midfielder,234457,O. Etebo,77.0,65.0,68.0,75.0,71.0,81.0
+Defender,234514,O. El Hajjam,70.0,46.0,65.0,68.0,73.0,74.0
+Defender,234791,Luan Peres,71.0,34.0,59.0,64.0,74.0,70.0
+Forward,235161,J. Maja,76.0,71.0,62.0,73.0,28.0,58.0
+Midfielder,235432,M. Munetsi,63.0,48.0,65.0,65.0,70.0,75.0
+Midfielder,230564,M. Gaćinović,75.0,60.0,70.0,78.0,63.0,63.0
+Midfielder,235834,F. Depaoli,74.0,53.0,70.0,72.0,69.0,57.0
+Defender,235553,Y. Salmier,43.0,28.0,45.0,53.0,72.0,80.0
+Defender,230672,Lyanco,65.0,36.0,52.0,58.0,72.0,69.0
+Defender,228290,J. Laporte,51.0,27.0,44.0,51.0,72.0,80.0
+Defender,230074,E. Kwateng,63.0,37.0,63.0,69.0,71.0,66.0
+Forward,229624,Sergi Guardiola,73.0,72.0,60.0,71.0,30.0,78.0
+Midfielder,224013,Sergi Canós,71.0,69.0,67.0,74.0,54.0,68.0
+Defender,236723,F. Ballo-Touré,85.0,51.0,67.0,70.0,66.0,72.0
+Midfielder,224368,M. Doumbia,81.0,67.0,67.0,74.0,38.0,63.0
+Forward,224508,L. Mancuso,76.0,72.0,62.0,74.0,34.0,68.0
+Forward,224967,M. Sylla,76.0,72.0,61.0,71.0,37.0,72.0
+Defender,225669,K. Ehizibue,85.0,57.0,63.0,70.0,66.0,76.0
+Midfielder,226356,M. Fares,76.0,62.0,67.0,75.0,67.0,68.0
+Midfielder,228595,G. Prömel,65.0,64.0,66.0,70.0,71.0,77.0
+Midfielder,228614,G. Holtmann,94.0,64.0,63.0,70.0,57.0,59.0
+Goalkeeper,228616,D. Bertaud,,,,,,
+Defender,228681,F. Sierralta,53.0,30.0,50.0,53.0,70.0,76.0
+Defender,228716,Kevin,68.0,53.0,65.0,65.0,68.0,67.0
+Midfielder,228908,J. Berthomier,69.0,69.0,75.0,74.0,51.0,65.0
+Defender,229266,J. Rodon,58.0,29.0,49.0,57.0,74.0,72.0
+Goalkeeper,229542,A. Desmas,,,,,,
+Goalkeeper,236033,Dani Cárdenas,,,,,,
+Defender,255891,B. Šutalo,64.0,31.0,51.0,55.0,75.0,67.0
+Midfielder,237161,S. Longstaff,57.0,65.0,70.0,69.0,64.0,64.0
+Midfielder,237540,P. Förster,69.0,65.0,70.0,71.0,59.0,77.0
+Midfielder,251191,J. Allevinah,86.0,69.0,63.0,74.0,28.0,51.0
+Defender,251325,M. Meyerhöfer,70.0,40.0,61.0,70.0,67.0,71.0
+Midfielder,252909,Antonio Sánchez,76.0,68.0,69.0,75.0,55.0,72.0
+Defender,254548,M. Bard,78.0,48.0,63.0,73.0,67.0,70.0
+Midfielder,256035,K. Sulemana,93.0,66.0,60.0,76.0,28.0,63.0
+Midfielder,257025,K. de la Fuente,83.0,64.0,68.0,73.0,19.0,49.0
+Defender,257204,S. Diomande,63.0,46.0,60.0,60.0,71.0,74.0
+Goalkeeper,258585,I. Pandur,,,,,,
+Midfielder,258615,Zarraga,78.0,66.0,69.0,75.0,59.0,67.0
+Midfielder,258683,I. Ilić,69.0,64.0,72.0,74.0,62.0,66.0
+Defender,258782,A. Ismajli,72.0,28.0,49.0,61.0,74.0,66.0
+Defender,258946,M. Lovato,68.0,30.0,51.0,58.0,74.0,70.0
+Goalkeeper,259166,E. Green,,,,,,
+Goalkeeper,263139,D. Greif,,,,,,
+Defender,223033,Jorge Meré,68.0,30.0,53.0,64.0,73.0,73.0
+Midfielder,248573,J. Dina Ebimbe,83.0,61.0,68.0,75.0,66.0,75.0
+Midfielder,247500,Edgar,60.0,49.0,60.0,62.0,72.0,78.0
+Defender,247182,Tuta,69.0,41.0,60.0,67.0,72.0,72.0
+Midfielder,240193,E. Rexhbeçaj,59.0,63.0,70.0,73.0,64.0,68.0
+Defender,239136,N. Cozza,77.0,37.0,61.0,66.0,73.0,71.0
+Defender,239550,A. Gravillon,62.0,42.0,48.0,55.0,72.0,75.0
+Midfielder,239671,Tete Morente,81.0,72.0,69.0,72.0,43.0,68.0
+Midfielder,240017,A. Olsen,81.0,70.0,67.0,75.0,35.0,66.0
+Midfielder,240095,L. Štulac,70.0,61.0,68.0,67.0,69.0,70.0
+Defender,240100,T. Augello,76.0,39.0,64.0,69.0,67.0,61.0
+Midfielder,240916,D. Ljubicic,68.0,61.0,67.0,68.0,70.0,75.0
+Midfielder,246929,Gerson Rodrigues,86.0,69.0,64.0,67.0,44.0,81.0
+Defender,244068,K. Schlotterbeck,66.0,26.0,51.0,54.0,74.0,72.0
+Midfielder,244280,A. Fein,50.0,57.0,68.0,72.0,67.0,74.0
+Midfielder,245253,L. Barreiro Martins,67.0,56.0,66.0,77.0,69.0,61.0
+Midfielder,245992,B. Gilmour,67.0,54.0,70.0,73.0,68.0,55.0
+Defender,246284,Óscar Gil,79.0,46.0,63.0,68.0,66.0,72.0
+Defender,246606,Fran García,90.0,49.0,63.0,70.0,65.0,60.0
+Defender,223641,T. Baumgartl,63.0,34.0,55.0,50.0,72.0,75.0
+Defender,211385,R. Durmisi,75.0,61.0,70.0,72.0,69.0,65.0
+Midfielder,222553,S. Griesbeck,64.0,47.0,60.0,56.0,73.0,83.0
+Goalkeeper,189061,S. Burchert,,,,,,
+Defender,189576,Ramalho,70.0,35.0,57.0,57.0,71.0,73.0
+Defender,189680,Fábio,75.0,54.0,69.0,73.0,70.0,67.0
+Forward,190738,H. Nielsen,79.0,70.0,67.0,71.0,42.0,75.0
+Goalkeeper,192317,J. Steer,,,,,,
+Defender,192622,S. Duffy,41.0,47.0,49.0,48.0,72.0,79.0
+Defender,192725,M. Le Marchand,64.0,39.0,67.0,66.0,72.0,71.0
+Midfielder,193062,M. Zeegelaar,72.0,62.0,68.0,73.0,73.0,72.0
+Midfielder,193337,J. Obi,83.0,67.0,69.0,74.0,74.0,75.0
+Midfielder,194020,Pelé,71.0,60.0,65.0,69.0,70.0,79.0
+Defender,196801,Mexer,39.0,48.0,57.0,63.0,73.0,73.0
+Defender,197688,Gabriel Silva,67.0,59.0,71.0,70.0,69.0,67.0
+Midfielder,197813,J. Martin,56.0,67.0,73.0,71.0,66.0,67.0
+Defender,198553,C. Gamboa,84.0,48.0,66.0,71.0,67.0,71.0
+Forward,199274,I. Nestorovski,68.0,74.0,52.0,69.0,35.0,74.0
+Midfielder,199288,A. Losilla,53.0,57.0,64.0,70.0,70.0,76.0
+Goalkeeper,189342,C. Pinsoglio,,,,,,
+Defender,189043,D. Brosinski,70.0,59.0,69.0,69.0,68.0,67.0
+Midfielder,199897,N. Höfler,64.0,47.0,65.0,66.0,70.0,72.0
+Goalkeeper,185172,V. Fiorillo,,,,,,
+Forward,134779,J. Briand,59.0,71.0,71.0,71.0,46.0,70.0
+Goalkeeper,222464,Sivera,,,,,,
+Goalkeeper,149258,A. Cordaz,,,,,,
+Forward,169216,S. Long,81.0,69.0,61.0,72.0,36.0,67.0
+Midfielder,171018,Mario Suárez,41.0,65.0,70.0,64.0,68.0,75.0
+Defender,172316,Coke,60.0,66.0,67.0,68.0,73.0,65.0
+Defender,176285,W. Reid,40.0,51.0,45.0,41.0,73.0,68.0
+Midfielder,178628,F. Forestieri,75.0,71.0,69.0,75.0,48.0,64.0
+Defender,180706,C. Cathcart,35.0,37.0,55.0,53.0,74.0,71.0
+Forward,182212,A. Modeste,62.0,72.0,63.0,69.0,35.0,77.0
+Defender,183280,A. Rami,46.0,48.0,53.0,58.0,71.0,77.0
+Defender,183491,Zanka,52.0,39.0,57.0,54.0,72.0,79.0
+Midfielder,183632,R. Tesche,58.0,67.0,68.0,68.0,71.0,71.0
+Defender,183916,J. Pied,59.0,64.0,72.0,72.0,72.0,66.0
+Midfielder,184749,D. Gosling,50.0,68.0,71.0,68.0,70.0,67.0
+Forward,199439,M. Gregoritsch,60.0,73.0,72.0,70.0,41.0,71.0
+Defender,139860,J. Morel,50.0,44.0,60.0,57.0,74.0,71.0
+Goalkeeper,200212,M. Esser,,,,,,
+Goalkeeper,216325,A. Gunn,,,,,,
+Midfielder,211891,A. Voglsammer,79.0,74.0,65.0,69.0,38.0,79.0
+Midfielder,213134,L. Öztunalı,81.0,68.0,67.0,74.0,48.0,68.0
+Defender,213938,D. Biraschi,58.0,35.0,56.0,62.0,75.0,64.0
+Defender,215565,M. Miazga,51.0,26.0,47.0,58.0,73.0,77.0
+Defender,215569,Unai García,60.0,41.0,59.0,54.0,73.0,75.0
+Defender,215604,C. Brunner,74.0,56.0,62.0,65.0,71.0,69.0
+Forward,217731,Sandro,64.0,75.0,65.0,76.0,30.0,62.0
+Midfielder,211354,M. Benassi,55.0,70.0,71.0,75.0,70.0,66.0
+Midfielder,219571,Camarasa,58.0,72.0,72.0,73.0,68.0,72.0
+Defender,219680,C. Hountondji,41.0,33.0,52.0,56.0,73.0,72.0
+Defender,219688,Marcos Mauro,55.0,42.0,55.0,54.0,73.0,72.0
+Midfielder,219984,M. Aramu,74.0,63.0,70.0,74.0,52.0,60.0
+Midfielder,221797,E. Thommy,76.0,70.0,71.0,75.0,33.0,50.0
+Defender,200408,B. Gibson,53.0,29.0,49.0,52.0,73.0,68.0
+Defender,211826,R. Czichos,59.0,48.0,59.0,62.0,72.0,75.0
+Midfielder,221860,C. Gruezo,61.0,46.0,61.0,67.0,68.0,73.0
+Midfielder,210868,José Mari,65.0,60.0,67.0,66.0,68.0,73.0
+Defender,206222,Bigas,66.0,52.0,59.0,61.0,72.0,73.0
+Midfielder,202135,S. Sturaro,68.0,67.0,70.0,72.0,75.0,75.0
+Defender,202151,K. Stafylidis,73.0,63.0,66.0,70.0,70.0,69.0
+Forward,203889,Y. Touzghar,71.0,73.0,61.0,72.0,24.0,69.0
+Midfielder,204233,C. Musonda,78.0,63.0,69.0,79.0,24.0,37.0
+Midfielder,204830,Vadillo,83.0,68.0,67.0,75.0,34.0,55.0
+Midfielder,206085,J. Murphy,78.0,67.0,68.0,74.0,61.0,63.0
+Defender,205934,N. Murru,71.0,40.0,61.0,69.0,70.0,67.0
+Midfielder,206463,J. Dudziak,75.0,62.0,72.0,77.0,65.0,66.0
+Midfielder,206506,T. Dingomé,63.0,64.0,72.0,74.0,66.0,68.0
+Defender,208335,L. Kübler,75.0,45.0,57.0,62.0,71.0,66.0
+Defender,208459,M. Dijks,67.0,40.0,65.0,65.0,71.0,77.0
+Defender,209937,Quini,73.0,60.0,65.0,71.0,69.0,62.0
+Defender,210320,I. Mbaye,68.0,49.0,64.0,68.0,71.0,67.0
+Midfielder,210450,A. Touré,39.0,56.0,59.0,58.0,74.0,80.0
+Midfielder,239441,Jordi Mboula,87.0,66.0,62.0,75.0,32.0,63.0
+Forward,237631,L. Mothiba,70.0,72.0,60.0,70.0,27.0,69.0
+Midfielder,238072,E. Löwen,53.0,62.0,68.0,67.0,70.0,85.0
+Forward,238196,A. Sigurðsson,76.0,68.0,67.0,73.0,41.0,62.0
+Midfielder,238504,A. Bassi,69.0,67.0,68.0,74.0,49.0,61.0
+Defender,239322,C. Zimmermann,47.0,33.0,40.0,43.0,72.0,80.0
+Midfielder,239367,R. Hack,83.0,67.0,63.0,76.0,33.0,51.0
+Midfielder,240787,H. Traorè,70.0,66.0,69.0,75.0,56.0,59.0
+Forward,239964,E. Shomurodov,81.0,70.0,62.0,70.0,37.0,69.0
+Goalkeeper,240091,G. Vicario,,,,,,
+Defender,240099,K. Rüegg,80.0,52.0,64.0,71.0,65.0,78.0
+Midfielder,240507,A. Gomes,75.0,70.0,69.0,74.0,40.0,58.0
+Midfielder,240661,E. Vignato,73.0,61.0,70.0,75.0,39.0,48.0
+Defender,240671,Y. Çetin,59.0,42.0,54.0,59.0,72.0,71.0
+Midfielder,237386,K. Dewsbury-Hall,62.0,61.0,68.0,71.0,63.0,66.0
+Defender,237522,Jorge Cuenca,59.0,35.0,56.0,49.0,72.0,67.0
+Midfielder,234889,F. Jensen,69.0,68.0,67.0,73.0,51.0,70.0
+Midfielder,236830,Z. Youssouf,64.0,57.0,71.0,75.0,64.0,71.0
+Midfielder,234333,M. Maolida,78.0,68.0,63.0,75.0,24.0,58.0
+Defender,240988,D. Vavro,63.0,49.0,51.0,56.0,70.0,77.0
+Forward,232207,I. Šaponjić,71.0,71.0,48.0,65.0,31.0,66.0
+Forward,233139,C. Itten,68.0,72.0,60.0,66.0,36.0,74.0
+Defender,233409,R. Gumny,81.0,37.0,60.0,69.0,67.0,66.0
+Defender,233812,A. Lucoqui,79.0,44.0,59.0,67.0,68.0,71.0
+Midfielder,233943,Ronaldo Vieira,73.0,58.0,65.0,72.0,67.0,75.0
+Defender,234727,T. Hübers,83.0,39.0,54.0,56.0,72.0,71.0
+Forward,236621,P. Hamel,57.0,72.0,57.0,66.0,28.0,63.0
+Forward,234875,L. Höler,70.0,72.0,50.0,59.0,40.0,78.0
+Defender,231749,Miguelón,75.0,50.0,63.0,73.0,66.0,66.0
+Goalkeeper,235413,R. Majecki,,,,,,
+Midfielder,235824,T. Alarcón,66.0,50.0,59.0,64.0,69.0,75.0
+Defender,236316,Y. Valery,72.0,52.0,60.0,69.0,70.0,73.0
+Midfielder,236368,G. Maggiore,66.0,59.0,65.0,70.0,64.0,67.0
+Defender,240947,T. Mitchell,74.0,37.0,56.0,66.0,71.0,65.0
+Midfielder,246350,E. Le Fée,63.0,53.0,73.0,75.0,56.0,46.0
+Defender,241070,N. Maraš,67.0,37.0,50.0,56.0,72.0,75.0
+Defender,254470,L. Thomas,77.0,42.0,63.0,67.0,67.0,67.0
+Defender,250954,C. Richards,72.0,27.0,57.0,55.0,71.0,73.0
+Forward,252042,João Pedro,78.0,68.0,59.0,74.0,22.0,57.0
+Midfielder,252293,I. Jakobs,86.0,58.0,58.0,73.0,61.0,69.0
+Defender,252961,T. Nianzou,69.0,37.0,55.0,62.0,71.0,74.0
+Midfielder,253036,N. Mbuku,78.0,64.0,67.0,76.0,34.0,49.0
+Midfielder,253177,Y. Musah,88.0,66.0,62.0,71.0,57.0,68.0
+Forward,254544,Reinier,77.0,68.0,64.0,75.0,43.0,65.0
+Defender,248484,N. Collins,65.0,26.0,53.0,57.0,71.0,75.0
+Midfielder,254660,J. Thielmann,76.0,69.0,65.0,70.0,40.0,64.0
+Forward,255223,A. Adli,84.0,72.0,64.0,74.0,35.0,52.0
+Defender,257713,G. Frabotta,70.0,55.0,68.0,68.0,66.0,68.0
+Midfielder,261987,Blanco,61.0,56.0,67.0,66.0,62.0,58.0
+Forward,263230,M. Osmajić,76.0,70.0,60.0,65.0,39.0,71.0
+Defender,231111,A. Hack,62.0,32.0,59.0,57.0,73.0,74.0
+Defender,248550,Vivian,68.0,38.0,53.0,57.0,72.0,74.0
+Defender,247497,A. Bella Kotchap,76.0,25.0,50.0,47.0,71.0,74.0
+Forward,242075,J. Sargent,75.0,70.0,61.0,71.0,39.0,70.0
+Forward,244257,J. Burkardt,79.0,68.0,61.0,75.0,37.0,69.0
+Defender,242603,H. Marcelin,62.0,35.0,49.0,52.0,71.0,75.0
+Midfielder,243016,Alberto Soro,79.0,63.0,69.0,71.0,44.0,61.0
+Defender,243497,S. Walukiewicz,61.0,38.0,49.0,59.0,72.0,73.0
+Defender,243526,M. Müldür,77.0,49.0,60.0,72.0,67.0,72.0
+Midfielder,243558,Óscar Valentín,66.0,45.0,61.0,62.0,69.0,72.0
+Defender,243945,Gonzalo Verdú,57.0,53.0,55.0,56.0,72.0,77.0
+Defender,244269,F. Benković,63.0,44.0,55.0,56.0,70.0,80.0
+Defender,247124,G. Mensah,75.0,56.0,64.0,71.0,65.0,65.0
+Defender,244349,J. Vásquez,66.0,32.0,57.0,56.0,73.0,72.0
+Defender,244456,M. Erlić,56.0,33.0,49.0,51.0,71.0,73.0
+Forward,244706,K. Behrens,69.0,71.0,50.0,65.0,28.0,80.0
+Midfielder,245021,M. Loum,49.0,53.0,59.0,62.0,70.0,80.0
+Defender,245156,F. Russo,66.0,30.0,50.0,48.0,74.0,71.0
+Midfielder,245741,J. Lindstrøm,81.0,65.0,66.0,73.0,46.0,59.0
+Defender,231263,J. Gélin,52.0,36.0,66.0,61.0,72.0,70.0
+Midfielder,243019,T. Băluță,60.0,49.0,57.0,50.0,69.0,74.0
+Forward,230800,R. Manaj,69.0,72.0,54.0,70.0,28.0,69.0
+Defender,206159,S. Sabelli,76.0,40.0,60.0,64.0,68.0,72.0
+Midfielder,203128,T. Monconduit,57.0,55.0,68.0,65.0,70.0,75.0
+Midfielder,203568,P. Wszołek,78.0,63.0,67.0,68.0,54.0,72.0
+Defender,203884,K. Djidji,61.0,32.0,53.0,63.0,72.0,69.0
+Goalkeeper,204246,M. Bettinelli,,,,,,
+Forward,204366,J. Locadia,70.0,70.0,66.0,71.0,35.0,73.0
+Goalkeeper,205812,P. Terracciano,,,,,,
+Defender,206423,V. Haroyan,58.0,30.0,49.0,51.0,72.0,75.0
+Forward,201335,F. Santander,68.0,70.0,62.0,68.0,31.0,77.0
+Defender,208019,D. Bain,61.0,26.0,49.0,53.0,72.0,75.0
+Midfielder,208700,D. Blum,80.0,70.0,65.0,73.0,32.0,66.0
+Midfielder,212138,P. Frankowski,92.0,57.0,66.0,67.0,48.0,70.0
+Midfielder,212192,J. Green,74.0,68.0,66.0,76.0,33.0,60.0
+Goalkeeper,18122,N. Penneteau,,,,,,
+Forward,212626,D. Selke,76.0,70.0,53.0,67.0,40.0,75.0
+Forward,202716,Abdón Prats,67.0,76.0,60.0,69.0,29.0,62.0
+Defender,200968,F. Ogier,41.0,31.0,39.0,52.0,73.0,78.0
+Forward,213993,F. Forte,57.0,72.0,61.0,67.0,32.0,70.0
+Defender,188802,M. Schmelzer,55.0,48.0,65.0,65.0,74.0,70.0
+Midfielder,230786,Pepelu,55.0,61.0,71.0,70.0,64.0,70.0
+Goalkeeper,158777,P. Tschauner,,,,,,
+Defender,163261,P. Bardsley,43.0,58.0,65.0,67.0,74.0,73.0
+Goalkeeper,172198,J. Moulin,,,,,,
+Defender,183921,J. Faussurier,57.0,59.0,73.0,70.0,69.0,68.0
+Forward,184789,Á. Szalai,33.0,72.0,58.0,63.0,43.0,77.0
+Defender,189390,B. Oczipka,64.0,59.0,70.0,64.0,68.0,75.0
+Goalkeeper,200332,T. Koubek,,,,,,
+Midfielder,193910,A. Forshaw,65.0,61.0,72.0,72.0,64.0,64.0
+Defender,194146,K. Long,51.0,35.0,50.0,56.0,71.0,71.0
+Midfielder,198136,A. Ragusa,82.0,67.0,65.0,73.0,44.0,64.0
+Forward,198420,M. Waris,87.0,69.0,66.0,73.0,37.0,65.0
+Defender,198857,S. Romagnoli,56.0,40.0,45.0,53.0,73.0,78.0
+Defender,199191,D. Appiah,75.0,39.0,59.0,63.0,69.0,75.0
+Midfielder,212947,J. Cabot,91.0,66.0,60.0,75.0,28.0,53.0
+Defender,190697,S. Strandberg,67.0,43.0,53.0,58.0,71.0,75.0
+Forward,215247,M. Ingvartsen,63.0,75.0,63.0,72.0,36.0,72.0
+Defender,225995,P. Stojanović,79.0,50.0,68.0,70.0,63.0,72.0
+Defender,223524,E. Goldaniga,43.0,33.0,41.0,51.0,73.0,67.0
+Goalkeeper,224041,M. Schwäbe,,,,,,
+Defender,224378,M. Bani,56.0,18.0,42.0,53.0,73.0,70.0
+Goalkeeper,224440,J. Pollersbeck,,,,,,
+Goalkeeper,224442,B. Kamara,,,,,,
+Midfielder,225855,A. Bobichon,65.0,73.0,72.0,72.0,56.0,65.0
+Midfielder,226401,K. Dowell,64.0,68.0,70.0,72.0,44.0,51.0
+Midfielder,221982,P. Roberts,76.0,64.0,68.0,79.0,27.0,39.0
+Midfielder,226773,P. Diop,75.0,57.0,66.0,68.0,65.0,76.0
+Midfielder,229011,K. N'Doram,62.0,48.0,60.0,68.0,69.0,79.0
+Midfielder,229148,Dalbert,84.0,57.0,67.0,72.0,66.0,68.0
+Defender,229705,J. Duverne,61.0,35.0,59.0,66.0,72.0,73.0
+Defender,230019,V. Nsimba,85.0,59.0,63.0,69.0,65.0,61.0
+Forward,215334,G. Carrillo,46.0,74.0,54.0,70.0,39.0,72.0
+Defender,222969,J. Hergault,48.0,44.0,67.0,69.0,69.0,72.0
+Midfielder,227562,L. Haraslín,79.0,62.0,66.0,73.0,40.0,61.0
+Midfielder,220925,A. Schöpf,70.0,66.0,69.0,71.0,63.0,71.0
+Midfielder,220029,S. Khaoui,65.0,68.0,70.0,73.0,46.0,60.0
+Midfielder,215556,E. Fernandes,67.0,65.0,67.0,72.0,70.0,69.0
+Defender,220837,D. Machado,86.0,56.0,63.0,71.0,65.0,70.0
+Defender,216282,R. Framberger,81.0,41.0,56.0,58.0,69.0,61.0
+Midfielder,216483,T. Fosu,85.0,64.0,64.0,73.0,38.0,62.0
+Midfielder,219652,Rober Ibáñez,75.0,67.0,70.0,73.0,48.0,53.0
+Defender,219709,Saúl,69.0,45.0,67.0,68.0,68.0,65.0
+Defender,219777,Chema Rodríguez,59.0,59.0,57.0,60.0,72.0,71.0
+Defender,217821,Henrique,76.0,45.0,61.0,70.0,68.0,65.0
+Midfielder,220466,F. Mattiello,72.0,64.0,70.0,73.0,69.0,61.0
+Forward,220829,E. Torregrossa,71.0,70.0,55.0,68.0,28.0,72.0
+Defender,220509,L. Venuti,73.0,26.0,59.0,66.0,68.0,61.0
+Midfielder,220529,L. Palmiero,67.0,63.0,72.0,72.0,65.0,62.0
+Defender,220061,N. Gyömbér,57.0,31.0,42.0,50.0,73.0,67.0
+Defender,220534,S. Luperto,49.0,55.0,60.0,59.0,74.0,68.0
+Midfielder,245714,Álex Blanco,80.0,63.0,66.0,70.0,37.0,53.0
+Midfielder,241933,Monchu,70.0,65.0,68.0,71.0,65.0,65.0
+Midfielder,241071,Moreto Cassamá,72.0,57.0,68.0,75.0,65.0,62.0
+Forward,241410,E. Salcedo,78.0,63.0,61.0,77.0,39.0,52.0
+Midfielder,241588,Toni Moya,60.0,63.0,63.0,70.0,63.0,58.0
+Defender,241629,Rogério,75.0,53.0,65.0,72.0,67.0,59.0
+Goalkeeper,242818,F. Dahmen,,,,,,
+Defender,242660,J. Beyer,72.0,34.0,57.0,63.0,70.0,68.0
+Defender,242958,P. Jaeckel,73.0,33.0,51.0,51.0,72.0,71.0
+Midfielder,243249,J. Ekkelenkamp,63.0,67.0,66.0,69.0,61.0,72.0
+Midfielder,239894,R. Kouamé,67.0,52.0,67.0,71.0,67.0,73.0
+Defender,245336,M. Kilman,58.0,42.0,59.0,62.0,70.0,74.0
+Goalkeeper,240311,L. Zidane,,,,,,
+Midfielder,239138,Jeong Woo Yeong,82.0,57.0,60.0,75.0,35.0,57.0
+Midfielder,239778,J. Moder,68.0,70.0,68.0,68.0,65.0,73.0
+Forward,239747,S. Córdova,75.0,69.0,54.0,68.0,24.0,63.0
+Midfielder,239732,S. Żurkowski,81.0,62.0,66.0,69.0,69.0,80.0
+Defender,239575,G. Nyamsi,49.0,33.0,48.0,51.0,67.0,78.0
+Forward,239432,A. Grbic,71.0,72.0,54.0,67.0,33.0,73.0
+Defender,239340,J. Chabot,36.0,27.0,44.0,50.0,70.0,75.0
+Defender,239096,A. Karazor,50.0,36.0,57.0,60.0,72.0,70.0
+Midfielder,239073,C. Antwi-Adjei,90.0,56.0,61.0,75.0,26.0,53.0
+Midfielder,238637,S. Vasiliadis,71.0,61.0,66.0,73.0,64.0,73.0
+Midfielder,237647,A. Hrustić,69.0,65.0,68.0,72.0,57.0,67.0
+Defender,246666,N. Katterbach,72.0,40.0,59.0,74.0,67.0,58.0
+Midfielder,237502,D. Johnsen,80.0,60.0,67.0,72.0,32.0,59.0
+Midfielder,246431,R. Sottil,83.0,62.0,63.0,72.0,33.0,50.0
+Forward,256268,A. Broja,75.0,68.0,53.0,70.0,29.0,70.0
+Midfielder,246928,Iván Martín,74.0,60.0,69.0,70.0,41.0,51.0
+Midfielder,255268,Javi Martínez,69.0,63.0,62.0,71.0,57.0,69.0
+Defender,237156,M. Wagué,77.0,40.0,61.0,71.0,67.0,66.0
+Midfielder,262081,Cantero,80.0,61.0,63.0,71.0,24.0,63.0
+Forward,260407,E. Wahi,84.0,68.0,60.0,74.0,30.0,64.0
+Midfielder,259868,P. Sarr,67.0,63.0,68.0,71.0,65.0,58.0
+Midfielder,259681,Rodri,73.0,65.0,65.0,72.0,37.0,53.0
+Midfielder,258608,O. Bukari,87.0,63.0,62.0,76.0,29.0,62.0
+Midfielder,258433,E. Matazo,74.0,58.0,68.0,73.0,65.0,70.0
+Midfielder,257271,L. Gourna,64.0,52.0,64.0,67.0,67.0,68.0
+Forward,256675,O. Marmoush,86.0,68.0,59.0,76.0,29.0,54.0
+Defender,256343,Robson Bambu,73.0,41.0,55.0,60.0,71.0,69.0
+Defender,256197,P. Hincapié,75.0,27.0,58.0,60.0,70.0,69.0
+Midfielder,255001,N. Rovella,67.0,49.0,68.0,73.0,62.0,64.0
+Midfielder,246947,P. Akouokou,62.0,56.0,66.0,67.0,68.0,63.0
+Forward,253718,I. Ramírez,69.0,73.0,50.0,60.0,25.0,63.0
+Midfielder,253283,F. Pellistri,79.0,63.0,65.0,74.0,27.0,61.0
+Midfielder,252541,J. Chotard,69.0,54.0,71.0,73.0,62.0,64.0
+Defender,252146,Franquesa,74.0,52.0,60.0,65.0,67.0,62.0
+Forward,252037,Fábio Silva,73.0,70.0,46.0,72.0,22.0,63.0
+Midfielder,251873,Y. Demir,84.0,66.0,65.0,78.0,19.0,50.0
+Defender,251530,Nuno Tavares,86.0,52.0,64.0,72.0,61.0,74.0
+Midfielder,251429,F. Kunze,66.0,38.0,55.0,58.0,73.0,74.0
+Midfielder,251401,T. Coulibaly,79.0,57.0,62.0,77.0,42.0,61.0
+Midfielder,250858,P. Ciss,66.0,51.0,57.0,55.0,70.0,83.0
+Defender,248053,S. Arzamendia,75.0,57.0,61.0,67.0,66.0,62.0
+Forward,237286,A. Connolly,75.0,70.0,50.0,71.0,20.0,64.0
+Defender,229584,P. Stenzel,61.0,59.0,65.0,65.0,72.0,68.0
+Goalkeeper,236758,O. Christensen,,,,,,
+Goalkeeper,219836,Rubén Yáñez,,,,,,
+Defender,216730,S. Gregersen,75.0,44.0,46.0,45.0,67.0,82.0
+Goalkeeper,215213,A. Werner,,,,,,
+Midfielder,214944,Gumbau,37.0,64.0,68.0,64.0,68.0,63.0
+Midfielder,211504,L. Baker,67.0,67.0,71.0,71.0,64.0,70.0
+Forward,211239,C. Jean,78.0,70.0,69.0,74.0,31.0,58.0
+Midfielder,211231,R. Azeez,65.0,59.0,63.0,67.0,66.0,76.0
+Defender,210880,R. Fiamozzi,84.0,49.0,62.0,65.0,63.0,77.0
+Defender,209840,J. Jeanvier,68.0,35.0,49.0,54.0,69.0,73.0
+Defender,209818,J. Brenet,79.0,36.0,61.0,69.0,67.0,66.0
+Goalkeeper,209532,D. Bachmann,,,,,,
+Defender,208862,J. Giraudon,53.0,36.0,58.0,58.0,71.0,72.0
+Goalkeeper,206145,B. Uphoff,,,,,,
+Forward,206141,K. Coulibaly,70.0,70.0,60.0,62.0,26.0,76.0
+Midfielder,206042,J. Dezi,76.0,66.0,66.0,70.0,62.0,67.0
+Midfielder,205086,P. Klement,57.0,66.0,75.0,73.0,40.0,53.0
+Forward,203344,Thiago Galhardo,64.0,74.0,47.0,67.0,24.0,52.0
+Midfielder,198836,V. Pajot,53.0,58.0,70.0,69.0,70.0,69.0
+Forward,198554,A. Ujah,64.0,70.0,54.0,68.0,33.0,67.0
+Midfielder,236529,S. Alzate,70.0,59.0,67.0,75.0,62.0,68.0
+Defender,197777,J. Sala,67.0,60.0,68.0,69.0,68.0,69.0
+Forward,193077,D. Falcinelli,65.0,69.0,52.0,70.0,23.0,64.0
+Goalkeeper,179547,V. Mannone,,,,,,
+Defender,178418,F. Peluso,49.0,49.0,58.0,59.0,73.0,67.0
+Goalkeeper,163600,J. Ruddy,,,,,,
+Goalkeeper,106795,G. Pegolo,,,,,,
+Goalkeeper,219584,L. Lezzerini,,,,,,
+Goalkeeper,198039,M. Gillespie,,,,,,
+Defender,219852,A. Ferrari,66.0,32.0,51.0,63.0,72.0,70.0
+Defender,229487,L. Klünter,86.0,44.0,60.0,67.0,71.0,68.0
+Midfielder,235623,Álvaro Jiménez,79.0,67.0,66.0,69.0,46.0,64.0
+Goalkeeper,220383,Aarón,,,,,,
+Defender,234933,A. Sedlar,52.0,40.0,49.0,48.0,71.0,78.0
+Midfielder,234760,A. Reca,78.0,57.0,64.0,69.0,62.0,65.0
+Defender,233705,J. Sørensen,67.0,55.0,61.0,66.0,68.0,76.0
+Defender,233097,R. van Drongelen,60.0,25.0,56.0,53.0,69.0,73.0
+Midfielder,231949,S. Ghoddos,60.0,72.0,69.0,71.0,49.0,65.0
+Midfielder,231848,Q. Boisgard,60.0,63.0,72.0,71.0,55.0,68.0
+Defender,231098,C. Traoré,70.0,33.0,54.0,64.0,69.0,77.0
+Midfielder,230686,J. Makengo,65.0,66.0,70.0,71.0,68.0,65.0
+Midfielder,230144,A. Dioussé,64.0,46.0,67.0,73.0,67.0,63.0
+Forward,233732,D. Okereke,85.0,67.0,54.0,73.0,26.0,66.0
+Defender,229236,M. Udol,69.0,42.0,62.0,69.0,69.0,69.0
+Defender,225673,K. Adams Nuhu,64.0,42.0,54.0,56.0,67.0,81.0
+Midfielder,223790,S. Becker,90.0,67.0,62.0,71.0,31.0,67.0
+Forward,222634,I. Success,72.0,68.0,64.0,73.0,35.0,62.0
+Defender,222160,Y. Koné,77.0,46.0,63.0,71.0,67.0,70.0
+Midfielder,225117,N. Haas,77.0,58.0,70.0,72.0,62.0,67.0
+Goalkeeper,224836,V. Milinković-Savić,,,,,,
+Defender,225908,R. Oxford,67.0,33.0,53.0,56.0,71.0,72.0
+Forward,226050,C. Teuchert,76.0,68.0,58.0,74.0,35.0,64.0
+Defender,227106,Diego González,68.0,32.0,59.0,60.0,71.0,74.0
+Midfielder,228080,F. Passlack,71.0,60.0,67.0,71.0,65.0,75.0
+Defender,228326,Brian Oliván,73.0,56.0,59.0,68.0,65.0,76.0
+Forward,251243,M. Klimowicz,74.0,58.0,64.0,76.0,31.0,47.0
+Midfielder,250723,K. Koné,71.0,57.0,66.0,74.0,63.0,70.0
+Defender,248878,L. Kilian,58.0,37.0,56.0,52.0,69.0,72.0
+Defender,248808,A. Hickey,69.0,50.0,65.0,67.0,66.0,56.0
+Defender,247623,J. Ngakia,73.0,28.0,50.0,65.0,67.0,63.0
+Midfielder,247076,C. Oliva,58.0,59.0,68.0,68.0,69.0,66.0
+Midfielder,246918,Jaume Grau,61.0,55.0,68.0,65.0,66.0,62.0
+Defender,246387,M. Suárez,74.0,43.0,59.0,63.0,65.0,73.0
+Goalkeeper,246139,Iñaki Peña,,,,,,
+Defender,245347,M. Bauer,47.0,26.0,47.0,49.0,70.0,71.0
+Forward,246044,Andrés Martín,78.0,69.0,65.0,69.0,27.0,64.0
+Defender,245900,L. Binks,50.0,29.0,49.0,53.0,67.0,80.0
+Midfielder,245894,Rober,80.0,66.0,63.0,73.0,26.0,50.0
+Midfielder,245715,J. Shackleton,80.0,46.0,67.0,73.0,62.0,68.0
+Forward,243032,Hugo Duro,72.0,69.0,44.0,71.0,29.0,58.0
+Defender,244840,L. Czyborra,85.0,48.0,60.0,69.0,61.0,66.0
+Goalkeeper,243675,K. Scherpen,,,,,,
+Defender,243449,L. Perrin,47.0,35.0,49.0,54.0,71.0,69.0
+Midfielder,243253,K. Agudelo,69.0,61.0,66.0,73.0,53.0,61.0
+Midfielder,252014,H. Bockhorn,76.0,60.0,63.0,69.0,64.0,66.0
+Defender,251380,L. Brassier,68.0,36.0,56.0,64.0,68.0,73.0
+Midfielder,258271,Miguel Baeza,61.0,63.0,72.0,68.0,43.0,53.0
+Midfielder,252060,T. Pobega,65.0,67.0,64.0,68.0,65.0,69.0
+Defender,252317,D. Nemeth,60.0,29.0,43.0,40.0,70.0,79.0
+Defender,241585,Igor,68.0,31.0,49.0,53.0,69.0,75.0
+Defender,262908,Matheus Thuler,65.0,33.0,43.0,51.0,68.0,75.0
+Defender,262869,Guilherme Ramos,54.0,33.0,46.0,45.0,69.0,74.0
+Midfielder,261306,I. Sissokho,67.0,53.0,61.0,65.0,66.0,67.0
+Forward,260644,Kaio Jorge,77.0,68.0,52.0,73.0,23.0,62.0
+Defender,260178,Juan Iglesias,58.0,37.0,54.0,59.0,71.0,57.0
+Forward,259751,M. Hoppe,76.0,69.0,52.0,67.0,24.0,60.0
+Defender,259119,S. Sow,63.0,41.0,54.0,60.0,69.0,66.0
+Midfielder,258949,Jofre Carreras,82.0,65.0,60.0,74.0,35.0,63.0
+Defender,258432,C. Matsima,55.0,34.0,48.0,55.0,69.0,71.0
+Defender,257278,A. Theate,73.0,40.0,52.0,53.0,67.0,79.0
+Midfielder,257191,A. Stach,69.0,51.0,65.0,62.0,64.0,74.0
+Defender,256780,M. Dárdai,65.0,32.0,63.0,56.0,71.0,69.0
+Defender,255654,P. Kalulu,72.0,36.0,58.0,61.0,70.0,64.0
+Forward,255529,E. Touré,73.0,70.0,54.0,68.0,22.0,66.0
+Defender,254840,S. Pavlović,62.0,43.0,50.0,62.0,68.0,75.0
+Midfielder,254659,M. Zerkane,62.0,61.0,67.0,71.0,60.0,69.0
+Defender,253213,G. Kyriakopoulos,70.0,48.0,59.0,65.0,66.0,69.0
+Defender,252873,A. Andrade,74.0,51.0,59.0,64.0,68.0,76.0
+Defender,242752,N. Ferguson,64.0,36.0,54.0,64.0,68.0,68.0
+Goalkeeper,211398,M. Caillard,,,,,,
+Midfielder,241489,Nolaskoain,54.0,60.0,65.0,68.0,70.0,70.0
+Forward,213699,A. Fletcher,73.0,69.0,44.0,67.0,29.0,69.0
+Midfielder,211325,A. Schiavone,61.0,68.0,69.0,70.0,62.0,75.0
+Defender,211270,E. Saveljich,45.0,32.0,46.0,43.0,69.0,80.0
+Defender,210723,N. Gießelmann,66.0,52.0,64.0,65.0,66.0,74.0
+Midfielder,206167,S. Prcić,53.0,59.0,71.0,68.0,67.0,66.0
+Defender,205243,M. Wagué,35.0,33.0,42.0,44.0,68.0,82.0
+Defender,203780,F. Veseli,70.0,41.0,58.0,65.0,70.0,67.0
+Midfielder,201938,A. Limbombe,82.0,66.0,66.0,72.0,49.0,55.0
+Forward,201243,A. La Mantia,54.0,67.0,35.0,61.0,30.0,79.0
+Forward,201013,Ł. Teodorczyk,58.0,70.0,57.0,63.0,32.0,71.0
+Goalkeeper,199574,A. Letellier,,,,,,
+Midfielder,198731,E. Rashani,83.0,63.0,61.0,71.0,39.0,66.0
+Forward,192660,S. Polter,70.0,68.0,53.0,61.0,28.0,85.0
+Goalkeeper,184781,D. Petrić,,,,,,
+Goalkeeper,184084,M. Dreyer,,,,,,
+Midfielder,183220,J. Morávek,37.0,69.0,73.0,72.0,55.0,56.0
+Goalkeeper,167931,R. Elliot,,,,,,
+Goalkeeper,149309,A. Rosati,,,,,,
+Defender,149064,C. Molinaro,60.0,49.0,62.0,65.0,70.0,64.0
+Midfielder,239807,D. Frattesi,74.0,68.0,68.0,72.0,61.0,66.0
+Forward,212613,W. Saïd,75.0,69.0,65.0,72.0,29.0,57.0
+Goalkeeper,139668,F. Marchetti,,,,,,
+Forward,215927,R. Emond,58.0,71.0,56.0,62.0,27.0,66.0
+Midfielder,231428,F. Bandinelli,72.0,67.0,67.0,69.0,63.0,65.0
+Midfielder,239439,P. Płacheta,93.0,60.0,60.0,69.0,39.0,61.0
+Midfielder,237640,N. Bajrami,74.0,59.0,67.0,70.0,57.0,64.0
+Midfielder,236838,Y. Maleh,68.0,66.0,69.0,73.0,64.0,65.0
+Defender,236304,Josema,60.0,35.0,53.0,52.0,69.0,71.0
+Defender,234679,P. Sandler,63.0,39.0,62.0,68.0,70.0,66.0
+Midfielder,232786,K. Endo,76.0,54.0,64.0,69.0,47.0,61.0
+Defender,231823,J. Hoogma,55.0,29.0,51.0,58.0,69.0,72.0
+Forward,231743,K. Davis,65.0,65.0,53.0,67.0,42.0,80.0
+Midfielder,233472,N. Sarenren Bazee,75.0,61.0,64.0,74.0,29.0,47.0
+Midfielder,231137,D. Črnigoj,71.0,59.0,68.0,69.0,37.0,64.0
+Defender,224213,T. Ebuehi,88.0,40.0,53.0,65.0,64.0,72.0
+Midfielder,230912,P. Ghiglione,76.0,52.0,65.0,69.0,65.0,62.0
+Forward,223137,F. Bonazzoli,70.0,68.0,53.0,68.0,28.0,59.0
+Midfielder,223581,J. Iglesias,56.0,59.0,68.0,65.0,65.0,62.0
+Defender,222692,B. Schmitz,60.0,50.0,63.0,64.0,69.0,70.0
+Defender,226108,F. Romagna,52.0,32.0,51.0,57.0,72.0,62.0
+Forward,227732,A. Donis,81.0,68.0,57.0,73.0,24.0,61.0
+Goalkeeper,228456,Juan Pérez,,,,,,
+Defender,219461,E. Palmer-Brown,67.0,30.0,50.0,51.0,68.0,75.0
+Defender,244187,A. Mendy,79.0,34.0,62.0,59.0,62.0,70.0
+Defender,247229,R. Bellanova,73.0,32.0,55.0,62.0,65.0,65.0
+Midfielder,246923,J. Ramsey,67.0,58.0,62.0,71.0,44.0,60.0
+Defender,246679,G. Biancone,72.0,47.0,59.0,66.0,61.0,74.0
+Goalkeeper,245822,D. Alemdar,,,,,,
+Midfielder,245283,F. El Melali,72.0,61.0,62.0,76.0,30.0,34.0
+Midfielder,244970,Y. Magnin,70.0,50.0,61.0,71.0,67.0,56.0
+Midfielder,244480,H. Magnetti,57.0,49.0,63.0,69.0,62.0,75.0
+Goalkeeper,244363,Daniel Fuzato,,,,,,
+Midfielder,240343,L. Fiordilino,82.0,57.0,68.0,71.0,66.0,68.0
+Goalkeeper,243311,Josep Martínez,,,,,,
+Defender,243057,N. Williams,74.0,36.0,61.0,68.0,63.0,59.0
+Defender,242054,Igor Silva,79.0,51.0,61.0,71.0,63.0,63.0
+Defender,241842,B. Johnson,74.0,37.0,55.0,64.0,65.0,65.0
+Forward,241523,M. Forss,74.0,69.0,44.0,64.0,39.0,68.0
+Midfielder,240658,S. Kiyine,72.0,57.0,65.0,75.0,64.0,58.0
+Forward,240589,Miguel,73.0,67.0,52.0,65.0,31.0,72.0
+Goalkeeper,240371,A. Jakubech,,,,,,
+Midfielder,240351,S. Moutoussamy,71.0,58.0,67.0,72.0,66.0,58.0
+Midfielder,252448,J. Leweling,84.0,59.0,58.0,72.0,31.0,68.0
+Midfielder,251954,C. Summerville,88.0,61.0,59.0,70.0,24.0,49.0
+Defender,256781,L. Netz,77.0,43.0,56.0,64.0,64.0,61.0
+Midfielder,252594,I. Lihadji,79.0,59.0,62.0,73.0,26.0,42.0
+Defender,257270,T. Pembélé,85.0,46.0,61.0,69.0,63.0,61.0
+Defender,264453,M. van de Ven,72.0,43.0,56.0,60.0,67.0,73.0
+Midfielder,263929,M. Cancellieri,82.0,61.0,62.0,72.0,31.0,60.0
+Forward,261771,M. Sahi,74.0,70.0,57.0,69.0,28.0,59.0
+Forward,261084,A. Dieng,82.0,71.0,56.0,67.0,30.0,56.0
+Midfielder,260823,N. Fagioli,67.0,59.0,70.0,73.0,54.0,58.0
+Defender,258728,José Fontán,65.0,45.0,56.0,61.0,71.0,58.0
+Defender,258407,B. Soppy,78.0,39.0,60.0,65.0,63.0,71.0
+Defender,257711,R. Calafiori,69.0,48.0,49.0,66.0,65.0,65.0
+Midfielder,257057,A. Onana,71.0,53.0,61.0,66.0,66.0,74.0
+Defender,253052,I. Kabore,91.0,27.0,58.0,64.0,58.0,70.0
+Defender,257000,A. Carboni,56.0,28.0,54.0,61.0,70.0,64.0
+Forward,256689,L. Gueye,76.0,70.0,64.0,70.0,24.0,55.0
+Forward,256658,J. Ngankam,76.0,67.0,59.0,69.0,26.0,70.0
+Forward,255839,J. Antiste,82.0,69.0,51.0,69.0,20.0,56.0
+Forward,255461,Barbero,71.0,67.0,48.0,64.0,21.0,65.0
+Midfielder,255069,Nico González,71.0,60.0,66.0,66.0,55.0,67.0
+Forward,254267,B. Białek,67.0,67.0,46.0,64.0,35.0,73.0
+Midfielder,254088,A. Diallo,81.0,63.0,57.0,74.0,25.0,43.0
+Defender,240277,M. Gabbia,52.0,33.0,42.0,52.0,72.0,71.0
+Defender,240020,Ricardo Mangas,68.0,36.0,53.0,65.0,67.0,69.0
+Defender,239841,V. Lampropoulos,65.0,42.0,54.0,54.0,70.0,70.0
+Midfielder,231354,M. Pantović,80.0,59.0,62.0,67.0,39.0,62.0
+Defender,229891,J. Ryerson,66.0,57.0,61.0,66.0,65.0,74.0
+Defender,229640,M. Pedersen,85.0,46.0,62.0,70.0,60.0,66.0
+Midfielder,229337,Matheus Pereira,69.0,60.0,65.0,74.0,35.0,58.0
+Midfielder,226686,M. Christiansen,59.0,50.0,63.0,64.0,64.0,77.0
+Goalkeeper,225868,David Gil,,,,,,
+Defender,225189,S. Bastoni,64.0,54.0,67.0,68.0,65.0,60.0
+Midfielder,224062,P. Dziczek,63.0,47.0,60.0,65.0,63.0,73.0
+Defender,223751,G. Jung,69.0,41.0,59.0,61.0,69.0,70.0
+Defender,219957,J. Laursen,68.0,52.0,60.0,67.0,66.0,69.0
+Midfielder,219952,L. Henderson,62.0,60.0,67.0,70.0,53.0,74.0
+Goalkeeper,219937,N. Körber,,,,,,
+Defender,211394,P. Faragò,60.0,57.0,69.0,67.0,65.0,66.0
+Defender,210381,C. Lykogiannis,65.0,68.0,67.0,66.0,65.0,66.0
+Defender,209637,M. Modolo,67.0,45.0,49.0,50.0,66.0,80.0
+Defender,206546,Pablo Iñiguez,40.0,42.0,58.0,61.0,69.0,67.0
+Forward,201924,Y. Qasmi,59.0,68.0,48.0,64.0,30.0,71.0
+Midfielder,198220,M. Bourabia,56.0,61.0,69.0,71.0,63.0,60.0
+Forward,195912,Suk Hyun Jun,55.0,69.0,57.0,65.0,39.0,73.0
+Defender,239679,P. Mazzocchi,76.0,56.0,62.0,67.0,65.0,70.0
+Goalkeeper,231073,B. Radunović,,,,,,
+Goalkeeper,223603,F. Bredlow,,,,,,
+Midfielder,233373,S. Diarra,86.0,56.0,62.0,71.0,42.0,51.0
+Forward,235842,A. Pinamonti,63.0,70.0,45.0,67.0,22.0,62.0
+Goalkeeper,234371,R. Descamps,,,,,,
+Forward,239121,H. Al Ghaddioui,53.0,71.0,53.0,59.0,29.0,75.0
+Forward,238873,P. Pellegri,69.0,67.0,55.0,66.0,21.0,63.0
+Defender,238662,T. Puchacz,86.0,62.0,59.0,67.0,61.0,77.0
+Midfielder,238569,K. Schindler,83.0,63.0,61.0,68.0,52.0,65.0
+Midfielder,237823,H. Abe,89.0,61.0,56.0,71.0,33.0,59.0
+Defender,237040,D. Nikolaou,56.0,37.0,45.0,42.0,69.0,72.0
+Defender,237024,L. Itter,70.0,44.0,63.0,68.0,66.0,62.0
+Defender,236308,R. Marchizza,60.0,29.0,54.0,62.0,68.0,67.0
+Midfielder,239496,Y. Fekir,72.0,65.0,62.0,72.0,30.0,53.0
+Defender,235735,E. Ampadu,61.0,30.0,55.0,62.0,68.0,67.0
+Midfielder,235647,H. Sarpei,68.0,38.0,57.0,64.0,66.0,67.0
+Forward,235513,S. Ganvoula,81.0,67.0,50.0,60.0,26.0,73.0
+Forward,235360,R. Ache,81.0,64.0,43.0,65.0,28.0,68.0
+Midfielder,235215,G. Crociata,73.0,56.0,66.0,72.0,32.0,58.0
+Defender,234856,H. Mendes,76.0,42.0,60.0,62.0,65.0,70.0
+Defender,234472,M. Sørensen,56.0,34.0,53.0,59.0,69.0,72.0
+Midfielder,234385,N. Hauptmann,63.0,54.0,68.0,73.0,57.0,54.0
+Forward,254320,Jorge Padilla,81.0,68.0,53.0,71.0,32.0,58.0
+Midfielder,253130,Robert Navarro,77.0,62.0,58.0,69.0,33.0,63.0
+Forward,253416,Raúl García,66.0,67.0,49.0,63.0,24.0,56.0
+Midfielder,253473,S. Ricci,67.0,44.0,67.0,68.0,62.0,64.0
+Forward,254849,Y. Badji,72.0,64.0,52.0,65.0,29.0,71.0
+Midfielder,254566,P. Wimmer,87.0,54.0,59.0,69.0,44.0,71.0
+Midfielder,254579,L. Da Cunha,78.0,61.0,62.0,70.0,34.0,55.0
+Forward,254692,E. Colley,80.0,65.0,51.0,69.0,21.0,51.0
+Midfielder,252259,E. Millot,65.0,60.0,66.0,71.0,52.0,44.0
+Forward,252865,Iker Losada,69.0,69.0,52.0,69.0,34.0,52.0
+Defender,251751,S. Agouzoul,55.0,38.0,53.0,52.0,67.0,67.0
+Midfielder,252027,A. Vranckx,72.0,57.0,65.0,68.0,60.0,73.0
+Midfielder,244694,C. Sabaly,81.0,58.0,60.0,70.0,18.0,40.0
+Forward,251916,P. Yade,79.0,68.0,59.0,68.0,29.0,64.0
+Midfielder,255934,J. Onana,53.0,57.0,62.0,61.0,63.0,76.0
+Defender,251547,D. Schnegg,73.0,53.0,60.0,65.0,63.0,74.0
+Midfielder,250959,A. Stiller,64.0,53.0,72.0,67.0,60.0,63.0
+Midfielder,248661,C. Niasse,59.0,44.0,59.0,64.0,64.0,70.0
+Forward,248385,R. Piccoli,58.0,67.0,49.0,61.0,34.0,64.0
+Defender,246282,Salva Ferrer,70.0,35.0,56.0,61.0,65.0,70.0
+Goalkeeper,255151,S. Ngapandouetnbu,,,,,,
+Forward,264325,M. Satriano,67.0,66.0,52.0,66.0,29.0,65.0
+Midfielder,256516,Nico Williams,82.0,64.0,59.0,70.0,21.0,54.0
+Defender,259173,Víctor Chust,68.0,23.0,36.0,35.0,69.0,66.0
+Midfielder,263941,Chapela,77.0,61.0,60.0,68.0,30.0,49.0
+Defender,262498,Álex Petxa,71.0,49.0,65.0,60.0,62.0,67.0
+Defender,261647,A. Omobamidele,71.0,26.0,46.0,56.0,68.0,68.0
+Midfielder,260158,T. Lacoux,67.0,47.0,67.0,67.0,64.0,59.0
+Defender,260105,R. Drăgușin,69.0,30.0,45.0,53.0,67.0,71.0
+Defender,259569,M. John,62.0,53.0,64.0,71.0,58.0,52.0
+Goalkeeper,259532,Joan García,,,,,,
+Forward,259406,S. Muñoz,75.0,63.0,60.0,71.0,25.0,65.0
+Goalkeeper,259065,Arnau Tenas,,,,,,
+Midfielder,257111,J. Le Douaron,73.0,56.0,60.0,62.0,49.0,74.0
+Midfielder,258922,Marvin,81.0,60.0,59.0,68.0,19.0,48.0
+Defender,258893,S. Čestić,52.0,28.0,42.0,49.0,68.0,72.0
+Forward,258444,E. Guessand,76.0,65.0,52.0,66.0,23.0,68.0
+Forward,257612,S. Mara,72.0,64.0,49.0,65.0,26.0,65.0
+Midfielder,257540,A. Knauff,84.0,55.0,59.0,71.0,35.0,51.0
+Midfielder,257320,A. Moueffek,67.0,55.0,64.0,70.0,66.0,61.0
+Forward,257190,D. Abiama,82.0,66.0,43.0,67.0,22.0,62.0
+Midfielder,257118,I. Kebbal,79.0,61.0,63.0,73.0,24.0,40.0
+Midfielder,244753,J. Keita,92.0,62.0,53.0,73.0,32.0,44.0
+Defender,241445,A. Sissoko,75.0,33.0,56.0,59.0,64.0,63.0
+Forward,244288,A. Idah,72.0,68.0,42.0,64.0,22.0,66.0
+Midfielder,235242,D. Heymans,61.0,68.0,65.0,66.0,55.0,68.0
+Forward,234683,A. Zeqiri,71.0,67.0,56.0,67.0,22.0,66.0
+Defender,228997,C. Goode,53.0,32.0,48.0,55.0,66.0,77.0
+Midfielder,228821,Z. Machach,72.0,62.0,69.0,70.0,43.0,71.0
+Forward,227638,S. Abdullahi,79.0,66.0,53.0,67.0,20.0,76.0
+Forward,225713,J. Augustin,71.0,68.0,60.0,69.0,30.0,51.0
+Midfielder,220491,E. Gyasi,77.0,60.0,61.0,72.0,20.0,64.0
+Midfielder,215810,C. Lombardi,77.0,63.0,59.0,72.0,29.0,50.0
+Midfielder,213375,A. Vacca,71.0,49.0,62.0,66.0,59.0,70.0
+Defender,213323,S. Decarli,58.0,33.0,50.0,54.0,67.0,70.0
+Midfielder,210548,L. Capezzi,47.0,59.0,68.0,66.0,59.0,59.0
+Goalkeeper,209957,J. Busk,,,,,,
+Midfielder,206109,Y. Chibsah,60.0,60.0,62.0,67.0,64.0,74.0
+Defender,198903,R. Aya,69.0,45.0,53.0,55.0,66.0,71.0
+Defender,190530,T. Fontaine,66.0,24.0,52.0,39.0,65.0,74.0
+Goalkeeper,171490,S. Aresti,,,,,,
+Goalkeeper,163201,M. McGovern,,,,,,
+Goalkeeper,157804,S. Carson,,,,,,
+Goalkeeper,135587,N. Mäenpää,,,,,,
+Defender,243944,N. Lozano,62.0,42.0,48.0,54.0,65.0,75.0
+Midfielder,234891,N. Seufert,63.0,51.0,65.0,71.0,61.0,60.0
+Goalkeeper,173165,N. Ravaglia,,,,,,
+Midfielder,235942,F. Cassata,47.0,48.0,68.0,68.0,54.0,57.0
+Goalkeeper,241179,Cristian Rivero,,,,,,
+Forward,237509,B. Lasme,83.0,66.0,52.0,62.0,24.0,71.0
+Midfielder,243642,W. Tchimbembé,83.0,64.0,64.0,68.0,58.0,59.0
+Midfielder,242999,Álex Collado,63.0,65.0,70.0,69.0,56.0,39.0
+Midfielder,242908,J. Clarke,75.0,60.0,61.0,71.0,25.0,53.0
+Midfielder,242332,G. Busio,64.0,62.0,65.0,71.0,59.0,65.0
+Defender,241999,J. Billong,51.0,34.0,46.0,46.0,67.0,77.0
+Midfielder,241689,R. Massimo,87.0,59.0,56.0,70.0,53.0,59.0
+Forward,241266,W. Geubbels,86.0,67.0,55.0,66.0,26.0,53.0
+Midfielder,242964,A. Gordon,79.0,61.0,60.0,70.0,31.0,55.0
+Goalkeeper,240913,C. Kelleher,,,,,,
+Defender,239635,K. Fila,81.0,47.0,60.0,61.0,61.0,68.0
+Defender,239614,Areso,72.0,30.0,62.0,66.0,61.0,66.0
+Defender,239363,K. Dabila,54.0,31.0,47.0,54.0,69.0,67.0
+Midfielder,239249,Oriol Busquets,44.0,43.0,63.0,64.0,64.0,67.0
+Defender,238446,Tachi,54.0,29.0,46.0,48.0,68.0,58.0
+Midfielder,238379,N. Nartey,71.0,49.0,65.0,73.0,62.0,70.0
+Goalkeeper,240751,G. Poussin,,,,,,
+Defender,238157,M. Roerslev,75.0,39.0,59.0,64.0,60.0,65.0
+Midfielder,247599,L. Leroy,63.0,55.0,65.0,68.0,57.0,69.0
+Defender,256788,I. Boura,67.0,47.0,53.0,69.0,62.0,58.0
+Forward,256476,M. Cho,75.0,66.0,53.0,68.0,24.0,49.0
+Defender,252802,W. Singo,77.0,40.0,57.0,67.0,62.0,59.0
+Midfielder,252025,K. Koindredi,66.0,67.0,67.0,67.0,45.0,65.0
+Midfielder,250779,M. Svoboda,58.0,41.0,53.0,58.0,65.0,77.0
+Defender,247649,J. Branthwaite,63.0,29.0,45.0,47.0,66.0,64.0
+Midfielder,245855,D. Chambost,64.0,64.0,66.0,66.0,52.0,65.0
+Forward,247335,W. Isidor,67.0,65.0,54.0,66.0,21.0,57.0
+Defender,246126,C. Mola,68.0,40.0,63.0,65.0,62.0,61.0
+Forward,246053,J. Gelhardt,73.0,66.0,57.0,69.0,27.0,63.0
+Forward,245461,F. Colidio,68.0,67.0,63.0,70.0,25.0,44.0
+Midfielder,245367,X. Simons,68.0,57.0,66.0,70.0,57.0,60.0
+Defender,257406,F. Doucouré,79.0,37.0,56.0,65.0,61.0,56.0
+Midfielder,245277,K. Michael,75.0,64.0,68.0,70.0,52.0,58.0
+Midfielder,257318,K. Ruiz-Atil,67.0,54.0,64.0,72.0,44.0,41.0
+Midfielder,263489,D. Peretz,67.0,54.0,64.0,62.0,63.0,62.0
+Midfielder,258359,Martín Calderón,68.0,61.0,65.0,64.0,63.0,61.0
+Defender,259307,M. Gusto,78.0,49.0,60.0,65.0,59.0,66.0
+Midfielder,259331,M. Portanova,66.0,59.0,68.0,67.0,52.0,60.0
+Forward,260044,Lautaro,65.0,67.0,46.0,65.0,20.0,57.0
+Defender,260082,Jesús Vázquez,72.0,44.0,58.0,57.0,61.0,63.0
+Defender,261865,Miguel,71.0,40.0,47.0,58.0,64.0,58.0
+Midfielder,262053,Kayky,82.0,58.0,57.0,72.0,28.0,45.0
+Midfielder,262091,E. Darboe,62.0,46.0,61.0,62.0,63.0,60.0
+Defender,262140,Carlos Domínguez,65.0,23.0,49.0,46.0,68.0,59.0
+Defender,263578,Álex Balde,76.0,35.0,53.0,66.0,62.0,48.0
+Midfielder,263617,Beñat Prados,66.0,65.0,65.0,68.0,60.0,52.0
+Midfielder,263825,A. Burlamaqui,58.0,41.0,63.0,59.0,60.0,57.0
+Midfielder,264240,Gavi,66.0,53.0,67.0,69.0,50.0,48.0
+Forward,264422,M. Abline,75.0,68.0,54.0,69.0,23.0,48.0
+Goalkeeper,244364,Gabriel Brazão,,,,,,
+Forward,244601,S. van Hooijdonk,76.0,68.0,55.0,62.0,26.0,67.0
+Goalkeeper,242242,S. Cibois,,,,,,
+Goalkeeper,244340,R. Vodišek,,,,,,
+Defender,219956,P. Ceccaroni,72.0,30.0,52.0,54.0,67.0,66.0
+Forward,235554,I. Sacko,81.0,64.0,60.0,69.0,40.0,58.0
+Goalkeeper,235266,C. Früchtl,,,,,,
+Defender,235261,L. Bogdan,54.0,32.0,44.0,50.0,67.0,68.0
+Midfielder,233794,S. Edera,62.0,66.0,63.0,71.0,39.0,35.0
+Defender,229107,N. De Medina,70.0,40.0,56.0,62.0,65.0,67.0
+Goalkeeper,225395,Ezkieta,,,,,,
+Goalkeeper,210366,N. Lomb,,,,,,
+Defender,236400,D. Gudelj,75.0,32.0,52.0,64.0,63.0,49.0
+Forward,199053,R. Bocalon,72.0,65.0,46.0,65.0,37.0,64.0
+Forward,192840,M. Đurić,50.0,65.0,53.0,55.0,32.0,77.0
+Forward,191068,G. Zigoni,66.0,63.0,48.0,64.0,37.0,71.0
+Midfielder,189730,F. Di Tacchio,51.0,50.0,58.0,59.0,64.0,86.0
+Goalkeeper,188836,J. Steele,,,,,,
+Midfielder,243393,T. Richards,73.0,62.0,63.0,68.0,51.0,66.0
+Goalkeeper,236378,A. Plizzari,,,,,,
+Goalkeeper,183513,J. Grahl,,,,,,
+Defender,236914,Álex Martín,51.0,42.0,51.0,46.0,66.0,66.0
+Midfielder,240697,S. Baptiste,65.0,52.0,62.0,70.0,64.0,65.0
+Midfielder,237328,N. Tella,86.0,57.0,56.0,69.0,31.0,54.0
+Defender,243156,Álvaro García,65.0,52.0,59.0,61.0,66.0,68.0
+Defender,242907,B. Reynolds,70.0,47.0,59.0,60.0,62.0,63.0
+Defender,241494,M. Jenz,64.0,29.0,45.0,46.0,66.0,76.0
+Defender,240997,Kike Hermoso,63.0,29.0,45.0,44.0,68.0,63.0
+Midfielder,240860,José Lara,71.0,62.0,62.0,71.0,33.0,39.0
+Midfielder,243312,Pablo Martínez,66.0,56.0,67.0,64.0,58.0,60.0
+Defender,240453,S. Niakaté,68.0,28.0,44.0,61.0,65.0,78.0
+Defender,238749,M. Nadé,36.0,30.0,34.0,51.0,67.0,76.0
+Forward,238656,S. Tigges,57.0,67.0,55.0,55.0,42.0,79.0
+Midfielder,238282,M. Coulibaly,75.0,59.0,65.0,66.0,64.0,72.0
+Midfielder,237916,W. Smallbone,67.0,62.0,64.0,72.0,57.0,46.0
+Defender,239770,N. Casale,63.0,43.0,57.0,59.0,65.0,71.0
+Defender,252573,A. Terzić,69.0,41.0,53.0,63.0,63.0,59.0
+Defender,255406,Javi Castro,67.0,31.0,42.0,49.0,65.0,69.0
+Midfielder,255140,Pablo Gozálbez,63.0,66.0,64.0,65.0,49.0,54.0
+Midfielder,255015,M. Rivera,75.0,61.0,59.0,70.0,37.0,43.0
+Forward,253407,S. Greenwood,69.0,65.0,58.0,66.0,33.0,56.0
+Forward,253396,G. Simeone,74.0,66.0,49.0,64.0,25.0,69.0
+Defender,252964,G. Zappa,70.0,32.0,57.0,61.0,60.0,56.0
+Midfielder,251572,C. Boli,68.0,57.0,61.0,70.0,45.0,44.0
+Midfielder,251974,H. Mbock,63.0,58.0,61.0,68.0,60.0,66.0
+Forward,251198,E. Simms,74.0,65.0,52.0,63.0,25.0,68.0
+Midfielder,247721,T. Raschl,66.0,53.0,64.0,69.0,55.0,64.0
+Defender,246763,K. Hoever,70.0,36.0,59.0,64.0,62.0,61.0
+Midfielder,246683,L. Agoumé,56.0,54.0,60.0,66.0,55.0,66.0
+Defender,256097,Javi López,71.0,27.0,47.0,54.0,62.0,66.0
+Goalkeeper,245865,S. Bajic,,,,,,
+Defender,255854,Pacheco,54.0,22.0,44.0,42.0,65.0,65.0
+Defender,258768,Iván Bravo,76.0,34.0,49.0,62.0,61.0,57.0
+Midfielder,256118,Y. Keitel,65.0,48.0,62.0,62.0,62.0,66.0
+Forward,256731,J. Krasso,66.0,64.0,59.0,63.0,19.0,59.0
+Midfielder,257470,A. Elanga,81.0,60.0,58.0,68.0,29.0,51.0
+Goalkeeper,258466,Leo Román,,,,,,
+Goalkeeper,258534,Diego Conde,,,,,,
+Midfielder,258536,Cedric Teguía,83.0,61.0,61.0,62.0,54.0,74.0
+Midfielder,258923,Arribas,68.0,53.0,56.0,72.0,33.0,51.0
+Defender,259088,A. Medioub,51.0,30.0,37.0,48.0,65.0,72.0
+Midfielder,259139,David Costa,69.0,56.0,61.0,74.0,27.0,40.0
+Defender,260658,C. Wooh,72.0,38.0,51.0,59.0,63.0,73.0
+Midfielder,261249,É. Michut,65.0,53.0,64.0,71.0,56.0,49.0
+Defender,262138,C. Lukeba,66.0,35.0,52.0,56.0,64.0,65.0
+Midfielder,262333,Y. Kallon,67.0,66.0,55.0,71.0,22.0,60.0
+Midfielder,263582,M. Peart-Harris,72.0,64.0,64.0,64.0,41.0,59.0
+Midfielder,245023,P. Mićin,60.0,64.0,61.0,68.0,34.0,50.0
+Forward,245637,G. Rutter,77.0,64.0,54.0,66.0,23.0,59.0
+Midfielder,259584,M. Ruggeri,65.0,49.0,62.0,64.0,64.0,63.0
+Forward,244921,Sergio Moreno,72.0,62.0,49.0,65.0,19.0,52.0
+Defender,219661,P. Jaroszyński,68.0,45.0,60.0,62.0,65.0,68.0
+Goalkeeper,235633,Y. Diouf,,,,,,
+Midfielder,235108,Léo Sena,68.0,47.0,67.0,66.0,60.0,64.0
+Defender,230676,R. Pirrello,62.0,42.0,51.0,54.0,65.0,70.0
+Defender,228869,Camus,72.0,47.0,56.0,60.0,62.0,66.0
+Forward,223537,E. Berggreen,34.0,67.0,52.0,59.0,30.0,70.0
+Goalkeeper,223082,W. Norris,,,,,,
+Midfielder,216255,M. Stefaniak,75.0,60.0,64.0,68.0,29.0,58.0
+Forward,236940,Darío Poveda,46.0,67.0,56.0,64.0,25.0,51.0
+Goalkeeper,53739,L. Grant,,,,,,
+Midfielder,216237,K. Azamoum,57.0,56.0,67.0,65.0,59.0,66.0
+Midfielder,204468,T. Weilandt,73.0,63.0,60.0,67.0,39.0,60.0
+Goalkeeper,203824,R. Matthews,,,,,,
+Midfielder,203249,J. Valencia,80.0,61.0,60.0,66.0,42.0,53.0
+Defender,244919,Martín,58.0,25.0,41.0,42.0,66.0,59.0
+Goalkeeper,236028,Javi Díaz,,,,,,
+Goalkeeper,116314,D. Martin,,,,,,
+Midfielder,237335,G. Kastanos,68.0,57.0,60.0,72.0,28.0,60.0
+Defender,243241,A. Buongiorno,59.0,43.0,52.0,54.0,65.0,66.0
+Goalkeeper,238186,M. Bułka,,,,,,
+Midfielder,244114,B. Mendy,60.0,40.0,57.0,51.0,66.0,72.0
+Midfielder,244097,T. Bonga,81.0,59.0,52.0,67.0,32.0,71.0
+Midfielder,244024,O. Batista Meier,75.0,64.0,57.0,74.0,29.0,44.0
+Midfielder,243604,Juan Cruz,77.0,62.0,61.0,69.0,34.0,39.0
+Defender,243353,B. Mumba,75.0,45.0,58.0,70.0,62.0,55.0
+Midfielder,244509,D. Jastrzembski,79.0,58.0,61.0,67.0,35.0,57.0
+Defender,241479,Mario Hernández,71.0,31.0,47.0,47.0,65.0,66.0
+Midfielder,240941,L. Pintor,80.0,65.0,54.0,69.0,27.0,53.0
+Midfielder,240319,T. Tillman,70.0,51.0,64.0,72.0,35.0,62.0
+Goalkeeper,240212,D. Petković,,,,,,
+Defender,241007,E. Ebosse,68.0,35.0,54.0,61.0,62.0,68.0
+Defender,239259,R. Bushiri,65.0,26.0,37.0,43.0,63.0,77.0
+Defender,258034,Toni Herrero,76.0,46.0,60.0,66.0,57.0,58.0
+Forward,259031,L. Delap,76.0,64.0,47.0,61.0,24.0,66.0
+Midfielder,258966,A. Cambiaso,68.0,52.0,63.0,67.0,65.0,52.0
+Midfielder,258937,Aimar Oroz,71.0,59.0,66.0,62.0,52.0,58.0
+Defender,258625,A. Barry,72.0,25.0,31.0,45.0,65.0,69.0
+Midfielder,258037,Álex Blesa,64.0,52.0,63.0,67.0,48.0,52.0
+Midfielder,257396,B. Domingues,62.0,60.0,61.0,66.0,33.0,46.0
+Midfielder,257534,C. Palmer,77.0,58.0,60.0,68.0,45.0,54.0
+Forward,257399,W. Faghir,69.0,62.0,48.0,66.0,22.0,66.0
+Midfielder,257349,R. Ladinetti,65.0,55.0,66.0,64.0,54.0,57.0
+Defender,257110,Fran González,48.0,26.0,45.0,46.0,61.0,76.0
+Midfielder,257075,P. Nebel,76.0,56.0,58.0,71.0,27.0,48.0
+Midfielder,259205,N. Ahamada,69.0,48.0,63.0,70.0,56.0,61.0
+Defender,256666,Y. Mosquera,71.0,22.0,38.0,45.0,64.0,69.0
+Midfielder,259190,D. Lopy,62.0,53.0,62.0,62.0,60.0,71.0
+Midfielder,263945,Alberto Moreno,69.0,59.0,63.0,67.0,52.0,55.0
+Midfielder,259582,Isma Ruiz,66.0,46.0,60.0,61.0,60.0,56.0
+Defender,259583,D. Udogie,73.0,50.0,56.0,65.0,60.0,64.0
+Midfielder,259679,J. Braaf,83.0,60.0,57.0,66.0,40.0,64.0
+Midfielder,261680,Gori,74.0,56.0,63.0,67.0,57.0,59.0
+Midfielder,262137,H. Keïta,72.0,56.0,60.0,68.0,53.0,54.0
+Forward,262652,L. Joseph,77.0,67.0,50.0,61.0,19.0,51.0
+Midfielder,263943,Javi Serrano,71.0,56.0,60.0,64.0,59.0,63.0
+Defender,264008,W. Kechrida,68.0,34.0,48.0,59.0,63.0,58.0
+Defender,264044,M. Viti,67.0,34.0,36.0,43.0,67.0,64.0
+Defender,264105,Pep Gayà,56.0,32.0,48.0,49.0,64.0,72.0
+Defender,264158,Diego Moreno,75.0,38.0,55.0,60.0,60.0,62.0
+Midfielder,264322,M. Saban,82.0,58.0,56.0,67.0,35.0,46.0
+Defender,264406,L. Spatz,57.0,42.0,51.0,44.0,64.0,65.0
+Goalkeeper,264430,Christian Gómez,,,,,,
+Defender,256404,Jorge Silva,58.0,32.0,44.0,48.0,67.0,57.0
+Defender,256544,M. Bogarde,60.0,30.0,50.0,64.0,66.0,62.0
+Midfielder,256115,L. Samardžić,64.0,61.0,59.0,72.0,29.0,53.0
+Goalkeeper,231474,João Costa,,,,,,
+Forward,242965,F. Hornby,61.0,64.0,50.0,58.0,24.0,72.0
+Goalkeeper,52326,E. Jakupović,,,,,,
+Defender,254787,Pepe Sánchez,71.0,48.0,57.0,60.0,62.0,65.0
+Goalkeeper,118794,A. Lonergan,,,,,,
+Midfielder,177404,S. Fürstner,47.0,46.0,60.0,61.0,63.0,67.0
+Goalkeeper,198132,D. Oberhauser,,,,,,
+Forward,208129,S. Novothny,45.0,64.0,41.0,57.0,27.0,70.0
+Goalkeeper,210676,W. Falcone,,,,,,
+Defender,223306,J. Jach,58.0,45.0,51.0,55.0,62.0,75.0
+Midfielder,229743,A. Deiola,59.0,63.0,60.0,61.0,60.0,68.0
+Defender,233051,L. Bolton,81.0,51.0,59.0,64.0,59.0,63.0
+Midfielder,235521,Carbonell,52.0,60.0,63.0,68.0,63.0,61.0
+Goalkeeper,237935,K. Klaesson,,,,,,
+Defender,240777,L. Ranieri,58.0,34.0,43.0,60.0,68.0,52.0
+Midfielder,241462,R. Guerra,48.0,58.0,56.0,62.0,63.0,59.0
+Midfielder,240906,B. Adekanye,71.0,59.0,55.0,68.0,30.0,50.0
+Goalkeeper,244120,S. Rénot,,,,,,
+Midfielder,250790,A. Traoré,76.0,59.0,53.0,68.0,22.0,61.0
+Defender,254123,Migue,67.0,45.0,57.0,64.0,60.0,64.0
+Defender,253465,T. Mengi,78.0,39.0,54.0,59.0,63.0,68.0
+Midfielder,252936,A. Flips,62.0,57.0,64.0,66.0,41.0,51.0
+Midfielder,251912,Z. Ould Khaled,55.0,47.0,58.0,62.0,61.0,68.0
+Midfielder,251757,Javi Gómez,75.0,59.0,61.0,67.0,28.0,47.0
+Defender,245290,De La Fuente,50.0,39.0,50.0,55.0,64.0,63.0
+Midfielder,250822,B. Fadiga,75.0,47.0,60.0,71.0,59.0,53.0
+Defender,250955,J. Stanišić,65.0,28.0,49.0,58.0,64.0,60.0
+Midfielder,248574,B. Benkhedim,69.0,60.0,62.0,69.0,41.0,44.0
+Forward,247463,F. Balogun,74.0,63.0,45.0,63.0,21.0,60.0
+Midfielder,246402,M. Bidstrup,63.0,52.0,64.0,66.0,61.0,63.0
+Defender,246061,A. Solano,63.0,35.0,54.0,62.0,61.0,57.0
+Forward,245639,André Anderson,70.0,59.0,60.0,67.0,25.0,49.0
+Midfielder,261374,L. Bate,71.0,49.0,66.0,65.0,54.0,57.0
+Defender,260159,L. Mouyokolo,59.0,34.0,39.0,46.0,61.0,76.0
+Forward,261025,D. Scarlett,72.0,62.0,46.0,60.0,20.0,56.0
+Forward,260926,K. Schade,79.0,61.0,53.0,64.0,23.0,55.0
+Midfielder,260814,E. Sevikyan,67.0,55.0,62.0,65.0,31.0,55.0
+Defender,260692,Iker Recio,70.0,40.0,53.0,50.0,62.0,70.0
+Forward,260340,Svensson,80.0,62.0,51.0,65.0,30.0,58.0
+Goalkeeper,258485,F. Jörgensen,,,,,,
+Midfielder,259806,F. Da Silva,66.0,52.0,66.0,68.0,49.0,57.0
+Forward,259747,I. Diabate,78.0,63.0,50.0,58.0,18.0,67.0
+Goalkeeper,259580,Ángel Jiménez,,,,,,
+Midfielder,259422,Nico Serrano,73.0,56.0,54.0,70.0,18.0,48.0
+Midfielder,259405,Zarzana,70.0,51.0,65.0,60.0,22.0,49.0
+Midfielder,259356,C. Chukwuemeka,62.0,53.0,62.0,67.0,44.0,57.0
+Defender,262042,M. Estève,63.0,30.0,45.0,47.0,62.0,68.0
+Defender,261654,O. El Hilali,82.0,40.0,50.0,58.0,59.0,59.0
+Forward,264451,E. Vergani,63.0,69.0,51.0,66.0,21.0,54.0
+Midfielder,262113,N. Zalewski,66.0,57.0,61.0,70.0,42.0,48.0
+Midfielder,262260,Mini,66.0,51.0,64.0,62.0,62.0,54.0
+Defender,262663,K. Ezekwem,55.0,27.0,52.0,56.0,62.0,67.0
+Midfielder,262672,N. Weißhaupt,66.0,57.0,62.0,66.0,32.0,44.0
+Defender,262889,A. Garcia MacNulty,64.0,35.0,41.0,47.0,64.0,68.0
+Midfielder,263014,B. Makouana,84.0,61.0,54.0,66.0,30.0,49.0
+Midfielder,263194,I. Gharbi,71.0,55.0,60.0,71.0,40.0,40.0
+Defender,263281,J. Bongard,50.0,35.0,49.0,49.0,63.0,68.0
+Goalkeeper,263880,Agirrezabala,,,,,,
+Defender,264050,B. Nokoue,73.0,42.0,50.0,58.0,58.0,67.0
+Forward,264081,Pablo Gálvez,67.0,63.0,46.0,64.0,19.0,63.0
+Defender,264103,Torrente,57.0,31.0,49.0,42.0,64.0,66.0
+Midfielder,264110,Llabrés,81.0,57.0,55.0,66.0,31.0,51.0
+Midfielder,264159,Iker Benito,75.0,57.0,57.0,66.0,35.0,50.0
+Goalkeeper,264170,Luis López,,,,,,
+Defender,259171,Lanchi,67.0,39.0,52.0,59.0,59.0,55.0
+Goalkeeper,220833,A. Mandrea,,,,,,
+Forward,258185,Luis Carbonell,74.0,64.0,51.0,69.0,19.0,43.0
+Midfielder,238755,M. Warming,87.0,54.0,53.0,66.0,32.0,49.0
+Defender,245996,K. Fobi,74.0,37.0,46.0,59.0,60.0,67.0
+Defender,244196,D. Thompson,79.0,39.0,52.0,57.0,58.0,60.0
+Forward,243838,N. Burkart,78.0,61.0,54.0,64.0,27.0,63.0
+Midfielder,242947,R. Kehr,89.0,57.0,56.0,61.0,27.0,59.0
+Defender,241488,Sillero,69.0,43.0,53.0,54.0,65.0,62.0
+Forward,240434,J. Tell,60.0,63.0,56.0,62.0,31.0,61.0
+Defender,238189,T. Uwakwe,74.0,52.0,55.0,57.0,57.0,62.0
+Midfielder,250789,D. Bakwa,78.0,52.0,57.0,68.0,30.0,56.0
+Midfielder,237871,J. Holsgrove,65.0,53.0,64.0,63.0,54.0,54.0
+Midfielder,234614,L. Lumeka,75.0,60.0,56.0,64.0,25.0,46.0
+Goalkeeper,226259,L. Andrenacci,,,,,,
+Defender,222209,G. Mutombo,36.0,26.0,45.0,41.0,63.0,73.0
+Defender,215756,S. McQueen,61.0,48.0,61.0,64.0,64.0,54.0
+Midfielder,257975,B. Brahimi,75.0,60.0,58.0,68.0,26.0,59.0
+Defender,247764,K. John,69.0,43.0,54.0,62.0,60.0,55.0
+Forward,240803,J. Eppiah,74.0,62.0,52.0,67.0,29.0,61.0
+Midfielder,252598,Sergio Lozano,62.0,51.0,62.0,67.0,54.0,48.0
+Midfielder,256128,Jony Álamo,63.0,45.0,62.0,65.0,61.0,48.0
+Goalkeeper,253497,P. Bonet,,,,,,
+Midfielder,257916,M. Schroers,67.0,65.0,62.0,64.0,37.0,48.0
+Goalkeeper,257273,J. Olschowsky,,,,,,
+Midfielder,257084,L. Ugochukwu,67.0,50.0,60.0,65.0,58.0,69.0
+Midfielder,257083,J. Kadile,79.0,63.0,52.0,66.0,22.0,52.0
+Midfielder,256306,Ö. Beyaz,61.0,53.0,66.0,66.0,47.0,44.0
+Midfielder,257917,S. Christiansen,60.0,55.0,64.0,65.0,56.0,60.0
+Midfielder,256104,T. Tessmann,67.0,47.0,63.0,65.0,56.0,69.0
+Defender,254529,C. Drameh,78.0,35.0,52.0,62.0,56.0,62.0
+Forward,254244,Nabil Touaizi,75.0,61.0,57.0,66.0,30.0,59.0
+Defender,254121,C. Cresswell,52.0,27.0,48.0,49.0,63.0,63.0
+Forward,254019,N. Gioacchini,77.0,64.0,47.0,58.0,23.0,58.0
+Midfielder,255174,L. Tramoni,67.0,55.0,62.0,65.0,39.0,52.0
+Midfielder,258815,S. Damiani,64.0,48.0,61.0,61.0,57.0,57.0
+Defender,259581,Sergio Barcia,67.0,32.0,47.0,53.0,63.0,64.0
+Goalkeeper,259530,Alfonso Pastor,,,,,,
+Defender,259524,Aitor Paredes,62.0,25.0,38.0,47.0,63.0,65.0
+Midfielder,259403,J. Ideho,82.0,49.0,56.0,65.0,34.0,48.0
+Goalkeeper,259314,Pere Joan,,,,,,
+Midfielder,259117,A. Sotona,89.0,58.0,52.0,65.0,28.0,48.0
+Midfielder,258171,H. Mejbri,69.0,51.0,61.0,64.0,52.0,58.0
+Midfielder,258722,Capita,73.0,50.0,57.0,71.0,20.0,40.0
+Defender,256770,K. Kurt,70.0,45.0,57.0,65.0,59.0,50.0
+Defender,257946,A. Seidu,64.0,28.0,45.0,58.0,63.0,43.0
+Goalkeeper,257914,J. Kersken,,,,,,
+Goalkeeper,257350,J. Flere,,,,,,
+Midfielder,256887,T. Booth,66.0,59.0,61.0,67.0,45.0,49.0
+Goalkeeper,260326,B. Fall,,,,,,
+Midfielder,260141,C. Cîrjan,63.0,54.0,65.0,66.0,44.0,39.0
+Defender,264380,M. Sponsel,64.0,43.0,56.0,57.0,60.0,65.0
+Defender,260574,L. Assignon,77.0,38.0,52.0,60.0,59.0,57.0
+Midfielder,263620,R. Lavia,58.0,41.0,52.0,59.0,62.0,59.0
+Goalkeeper,264161,Pablo Valencia,,,,,,
+Goalkeeper,264116,Alejandro Iturbe,,,,,,
+Midfielder,264102,Álvaro Bravo,64.0,54.0,62.0,65.0,51.0,54.0
+Forward,264092,Alan Godoy,76.0,60.0,48.0,66.0,31.0,49.0
+Midfielder,263953,S. Edozie,75.0,55.0,55.0,65.0,28.0,47.0
+Midfielder,263646,Bastida,59.0,40.0,54.0,54.0,62.0,55.0
+Midfielder,262954,Fabio Blanco,73.0,56.0,55.0,66.0,28.0,46.0
+Midfielder,260828,De Tomás,67.0,58.0,59.0,63.0,30.0,50.0
+Defender,262709,M. Bokele,62.0,30.0,36.0,42.0,66.0,59.0
+Defender,262118,T. Livramento,79.0,46.0,56.0,58.0,56.0,58.0
+Defender,261621,L. Mbete,65.0,32.0,47.0,57.0,61.0,66.0
+Midfielder,261580,E. Sutherland,74.0,54.0,58.0,64.0,27.0,45.0
+Defender,260930,K. Sildillia,57.0,25.0,42.0,48.0,62.0,62.0
+Midfielder,260910,S. Shoretire,72.0,56.0,56.0,66.0,37.0,55.0
+Defender,256854,W. Omari,55.0,33.0,46.0,50.0,61.0,67.0
+Midfielder,258319,N. Iosifov,71.0,62.0,59.0,65.0,26.0,46.0
+Midfielder,256564,T. Lemperle,67.0,59.0,56.0,65.0,31.0,57.0
+Defender,243284,F. Winther,58.0,31.0,50.0,58.0,62.0,62.0
+Forward,243034,Alfon,74.0,63.0,51.0,67.0,32.0,53.0
+Midfielder,242980,M. Shabani,68.0,54.0,62.0,65.0,35.0,55.0
+Defender,242850,S. Asta,66.0,31.0,47.0,61.0,60.0,58.0
+Midfielder,241038,K. Bennetts,75.0,57.0,58.0,65.0,41.0,55.0
+Midfielder,240175,Bruno Jordão,64.0,55.0,60.0,68.0,49.0,60.0
+Midfielder,239145,E. Massouema,60.0,48.0,59.0,62.0,61.0,65.0
+Midfielder,237382,F. Melegoni,56.0,53.0,65.0,63.0,55.0,50.0
+Defender,235548,M. Cabit,67.0,38.0,58.0,61.0,62.0,58.0
+Defender,234205,H. Ito,69.0,51.0,59.0,59.0,61.0,68.0
+Defender,233728,M. Doucouré,63.0,31.0,49.0,53.0,62.0,59.0
+Goalkeeper,233211,N. Klinger,,,,,,
+Midfielder,227877,R. Pereira de Sa,73.0,55.0,62.0,68.0,53.0,59.0
+Goalkeeper,222096,H. Lewis,,,,,,
+Goalkeeper,221332,G. Guerrieri,,,,,,
+Defender,256049,Carrasco,69.0,38.0,53.0,63.0,58.0,55.0
+Defender,243133,J. Scally,79.0,31.0,56.0,63.0,54.0,68.0
+Goalkeeper,202793,A. Berardi,,,,,,
+Defender,245076,L. Racic,59.0,26.0,39.0,51.0,62.0,65.0
+Midfielder,248070,Relu,53.0,46.0,59.0,56.0,61.0,59.0
+Midfielder,245286,J. Žambůrek,62.0,46.0,60.0,65.0,41.0,51.0
+Midfielder,253693,C. Noß,71.0,53.0,58.0,72.0,31.0,44.0
+Midfielder,253010,A. Sher,67.0,45.0,58.0,68.0,50.0,58.0
+Midfielder,252922,Tòfol Montiel,67.0,58.0,58.0,67.0,39.0,48.0
+Midfielder,251293,L. Dehl,61.0,56.0,59.0,64.0,44.0,54.0
+Goalkeeper,248478,D. Ramaj,,,,,,
+Midfielder,254243,E. Anderson,66.0,62.0,59.0,65.0,35.0,49.0
+Defender,247741,A. Glennon,70.0,48.0,53.0,61.0,57.0,61.0
+Midfielder,246863,F. Nmecha,73.0,54.0,61.0,63.0,45.0,59.0
+Midfielder,246861,A. Riccardi,60.0,55.0,59.0,63.0,51.0,52.0
+Midfielder,246549,M. Siby,51.0,41.0,53.0,54.0,58.0,76.0
+Defender,246002,L. Matheson,76.0,36.0,53.0,61.0,55.0,53.0
+Defender,246950,R. Astley,51.0,34.0,52.0,49.0,64.0,55.0
+Midfielder,245903,H. White,69.0,56.0,65.0,64.0,57.0,56.0
+Forward,260723,R. Street,56.0,62.0,45.0,57.0,29.0,54.0
+Midfielder,262171,E. Bove,64.0,50.0,59.0,62.0,52.0,50.0
+Midfielder,262062,Metinho,68.0,48.0,57.0,63.0,60.0,57.0
+Defender,261495,S. Coulibaly,62.0,36.0,48.0,57.0,59.0,61.0
+Forward,261265,L. Richardson,67.0,60.0,47.0,63.0,26.0,53.0
+Midfielder,261133,N. John,62.0,56.0,58.0,66.0,39.0,51.0
+Midfielder,260990,R. Ascone,66.0,47.0,60.0,66.0,50.0,50.0
+Midfielder,259531,Arratia,59.0,43.0,60.0,60.0,57.0,65.0
+Defender,260143,Z. Monlouis,61.0,31.0,43.0,48.0,63.0,64.0
+Midfielder,260014,T. Civeja,59.0,45.0,60.0,63.0,49.0,59.0
+Midfielder,259419,T. Nakai,58.0,50.0,60.0,64.0,31.0,47.0
+Midfielder,259096,T. Akinola,71.0,50.0,55.0,59.0,58.0,65.0
+Defender,258976,F. Parisi,64.0,60.0,55.0,61.0,55.0,55.0
+Forward,263016,Y. Guermouche,65.0,62.0,48.0,58.0,23.0,61.0
+Midfielder,258533,B. Bjarkason,64.0,50.0,60.0,61.0,33.0,50.0
+Goalkeeper,262659,N. Atubolu,,,,,,
+Defender,264026,N. Bitumazala,67.0,42.0,55.0,63.0,59.0,56.0
+Midfielder,263149,S. McGurk,72.0,59.0,60.0,61.0,43.0,50.0
+Forward,263355,R. Friedrich,67.0,63.0,47.0,59.0,21.0,39.0
+Midfielder,263398,P. Sciortino,54.0,40.0,54.0,53.0,61.0,60.0
+Midfielder,263435,E. Gebreyesus,73.0,59.0,52.0,65.0,27.0,48.0
+Midfielder,263448,G. Manvelyan,73.0,59.0,60.0,67.0,32.0,32.0
+Defender,263551,R. Savage,65.0,31.0,51.0,51.0,62.0,61.0
+Midfielder,263604,S. Ben Seghir,70.0,63.0,55.0,67.0,28.0,36.0
+Midfielder,264035,J. Rak-Sakyi,69.0,61.0,57.0,64.0,24.0,46.0
+Defender,264096,Recasens,61.0,28.0,50.0,54.0,62.0,63.0
+Midfielder,264160,Pablo Ibáñez,59.0,47.0,59.0,58.0,58.0,58.0
+Forward,264238,Diego López,70.0,61.0,52.0,61.0,34.0,51.0
+Midfielder,264349,J. McAtee,63.0,59.0,58.0,66.0,40.0,53.0
+Defender,264401,B. Meïté,63.0,30.0,35.0,38.0,64.0,61.0
+Defender,264589,L. Gechter,61.0,33.0,38.0,39.0,64.0,64.0
+Defender,257253,B. Thomas,55.0,32.0,41.0,44.0,62.0,65.0
+Goalkeeper,258031,F. Palmowski,,,,,,
+Forward,257289,H. Ekitike,69.0,59.0,46.0,60.0,22.0,66.0
+Goalkeeper,257235,T. Boulhendi,,,,,,
+Midfielder,241552,J. Italiano,74.0,55.0,56.0,67.0,46.0,46.0
+Midfielder,247349,J. Jenkins,69.0,37.0,56.0,61.0,55.0,61.0
+Midfielder,247245,T. Ostrák,62.0,56.0,62.0,63.0,53.0,61.0
+Goalkeeper,246671,A. Okonkwo,,,,,,
+Goalkeeper,246603,Matis Carvalho,,,,,,
+Midfielder,246278,Manu Navarro,59.0,53.0,59.0,58.0,55.0,53.0
+Defender,245906,M. Fagan-Walcott,64.0,29.0,44.0,49.0,59.0,69.0
+Goalkeeper,240722,Campos,,,,,,
+Forward,247508,M. Güçlü,75.0,60.0,54.0,61.0,23.0,56.0
+Defender,239998,P. Hristov,47.0,31.0,36.0,39.0,63.0,66.0
+Forward,239666,T. Müsel,67.0,61.0,57.0,65.0,28.0,54.0
+Defender,239051,J. Albert,51.0,26.0,38.0,42.0,61.0,70.0
+Midfielder,238473,E. Mašović,54.0,30.0,46.0,53.0,61.0,64.0
+Goalkeeper,234858,M. Funk,,,,,,
+Goalkeeper,233691,M. Adamonis,,,,,,
+Forward,247388,A. Buksa,72.0,60.0,47.0,59.0,23.0,55.0
+Defender,245628,A. Abqar,46.0,30.0,42.0,46.0,61.0,64.0
+Forward,248228,V. De Baunbag,74.0,59.0,52.0,64.0,26.0,59.0
+Forward,252916,Nacho Ramón,66.0,63.0,42.0,55.0,30.0,62.0
+Defender,248559,L. Pétrot,60.0,31.0,42.0,50.0,63.0,67.0
+Midfielder,257171,N. Fatar,71.0,67.0,57.0,63.0,27.0,49.0
+Midfielder,257112,R. Saïd,79.0,58.0,51.0,70.0,20.0,33.0
+Forward,256853,M. Tillman,66.0,64.0,48.0,61.0,18.0,56.0
+Defender,256801,A. Kamardin,55.0,29.0,41.0,43.0,63.0,60.0
+Midfielder,255577,Dani Plomer,70.0,47.0,57.0,59.0,28.0,53.0
+Midfielder,252975,B. Traoré,54.0,47.0,60.0,62.0,60.0,50.0
+Defender,256058,Pablo Pérez,66.0,35.0,51.0,55.0,56.0,58.0
+Defender,252302,Y. Larouci,75.0,47.0,52.0,62.0,56.0,57.0
+Goalkeeper,252241,D. Rouyard,,,,,,
+Midfielder,252059,S. Abdul Samed,56.0,46.0,52.0,61.0,58.0,58.0
+Forward,251603,K. Piscopo,73.0,62.0,50.0,60.0,48.0,65.0
+Forward,251349,T. Baeten,74.0,61.0,41.0,58.0,21.0,58.0
+Forward,248674,L. Munteanu,73.0,61.0,52.0,64.0,38.0,56.0
+Midfielder,262096,A. Miller,82.0,55.0,48.0,60.0,31.0,47.0
+Defender,260241,J. Lang,60.0,32.0,35.0,42.0,62.0,62.0
+Midfielder,261616,Q. Merlin,63.0,53.0,58.0,62.0,47.0,53.0
+Midfielder,261336,J. Philogene-Bidace,67.0,58.0,57.0,61.0,30.0,42.0
+Midfielder,261202,N. Chadli,67.0,59.0,54.0,68.0,22.0,51.0
+Goalkeeper,261170,O. Ba,,,,,,
+Goalkeeper,260969,Pablo Picón,,,,,,
+Midfielder,260778,F. Tongya,70.0,48.0,64.0,59.0,37.0,61.0
+Defender,258529,V. Daley-Campbell,69.0,40.0,49.0,54.0,55.0,69.0
+Forward,260084,M. Pagliuca,65.0,59.0,52.0,61.0,22.0,59.0
+Midfielder,260083,John Donald,57.0,43.0,54.0,53.0,60.0,60.0
+Defender,259721,F. Tripi,49.0,29.0,51.0,48.0,63.0,54.0
+Forward,259424,Salazar,53.0,64.0,45.0,60.0,20.0,48.0
+Forward,259335,E. Gedikli,61.0,60.0,47.0,56.0,24.0,54.0
+Midfielder,259324,T. Suengchitthawon,66.0,54.0,59.0,66.0,40.0,45.0
+Goalkeeper,258641,O. Bosworth,,,,,,
+Midfielder,263150,J. Meyer,60.0,44.0,52.0,59.0,59.0,60.0
+Forward,262641,D. Touré,87.0,62.0,43.0,65.0,17.0,38.0
+Defender,264561,J. Norris,72.0,35.0,51.0,50.0,57.0,54.0
+Midfielder,263168,T. Onyango,62.0,46.0,59.0,56.0,52.0,65.0
+Defender,264172,Carmona,66.0,27.0,42.0,49.0,58.0,61.0
+Forward,264590,N. Koffi,74.0,64.0,50.0,62.0,22.0,49.0
+Midfielder,258139,Raúl Moro,68.0,52.0,52.0,67.0,27.0,36.0
+Midfielder,264245,K. Mizuta,69.0,57.0,52.0,66.0,29.0,50.0
+Defender,264237,Joseda,61.0,43.0,54.0,56.0,59.0,61.0
+Defender,264189,M. Paskotsi,67.0,36.0,50.0,57.0,58.0,59.0
+Midfielder,264175,Pedro Ortiz,65.0,55.0,53.0,60.0,49.0,60.0
+Forward,264173,Iván Romero,69.0,58.0,43.0,59.0,22.0,53.0
+Defender,264121,A. Tsoungui,59.0,34.0,34.0,39.0,60.0,67.0
+Midfielder,263330,W. Lgharbi,67.0,52.0,63.0,65.0,46.0,43.0
+Midfielder,264094,Carlos Beitia,63.0,47.0,57.0,63.0,44.0,57.0
+Midfielder,264027,S. Delaye,65.0,45.0,60.0,68.0,53.0,46.0
+Defender,263908,B. Locko,61.0,36.0,43.0,59.0,59.0,52.0
+Defender,263647,G. Altare,63.0,29.0,37.0,39.0,64.0,63.0
+Midfielder,263603,O. Targhalline,56.0,48.0,63.0,60.0,55.0,55.0
+Midfielder,263602,B. Nadir,68.0,45.0,60.0,56.0,57.0,63.0
+Defender,263442,Y. M'Bemba,58.0,30.0,46.0,39.0,58.0,65.0
+Midfielder,258330,M. Cissé,72.0,51.0,54.0,67.0,29.0,40.0
+Goalkeeper,194894,F. Rossi,,,,,,
+Forward,258041,Novoa,54.0,63.0,45.0,62.0,22.0,45.0
+Defender,243513,G. Corbo,47.0,26.0,39.0,47.0,63.0,59.0
+Goalkeeper,248766,M. Barcola,,,,,,
+Defender,247533,J. Boyer,65.0,33.0,47.0,56.0,56.0,57.0
+Midfielder,247166,J. Olayinka,79.0,60.0,58.0,64.0,47.0,55.0
+Midfielder,246877,G. Gaetano,58.0,60.0,60.0,65.0,33.0,42.0
+Midfielder,245994,A. Gomez Mancini,62.0,54.0,60.0,61.0,57.0,59.0
+Midfielder,245780,F. Schwarzholz,58.0,38.0,55.0,56.0,57.0,59.0
+Midfielder,244087,R. Rösch,59.0,57.0,53.0,62.0,35.0,53.0
+Forward,243278,R. Cassidy,74.0,59.0,47.0,60.0,23.0,54.0
+Defender,251569,Joel López,71.0,36.0,43.0,58.0,56.0,58.0
+Midfielder,242454,M. Čović,70.0,44.0,55.0,69.0,35.0,33.0
+Midfielder,241160,G. McEachran,61.0,45.0,63.0,64.0,49.0,44.0
+Goalkeeper,257638,L. Philipp,,,,,,
+Midfielder,237825,N. Kirby,71.0,47.0,56.0,64.0,36.0,51.0
+Forward,236849,D. Ceter,49.0,62.0,35.0,51.0,33.0,67.0
+Defender,209784,J. Phojo,63.0,37.0,57.0,58.0,59.0,51.0
+Goalkeeper,205727,J. Furlan,,,,,,
+Goalkeeper,251369,O. Djoco,,,,,,
+Goalkeeper,239203,G. Coudert,,,,,,
+Midfielder,251855,W. Taïbi,58.0,48.0,62.0,64.0,46.0,55.0
+Defender,255932,L. Lacroix,55.0,31.0,42.0,38.0,62.0,58.0
+Defender,252440,N. Zortea,63.0,35.0,40.0,62.0,61.0,56.0
+Midfielder,257630,K. Horváth,64.0,53.0,57.0,67.0,40.0,42.0
+Forward,257254,M. Thompson,66.0,59.0,48.0,58.0,26.0,53.0
+Midfielder,257247,C. Watts,62.0,52.0,62.0,65.0,46.0,54.0
+Midfielder,257042,U. Bertelli,59.0,50.0,60.0,60.0,53.0,56.0
+Midfielder,256610,D. Hoogewerf,79.0,58.0,51.0,62.0,25.0,48.0
+Defender,256500,N. Collins,85.0,25.0,39.0,48.0,59.0,67.0
+Midfielder,257306,C. Souaré,67.0,48.0,62.0,62.0,50.0,62.0
+Midfielder,255391,E. Pizzuto,63.0,43.0,54.0,61.0,56.0,59.0
+Midfielder,254807,K. Baah,85.0,55.0,51.0,63.0,31.0,56.0
+Midfielder,254480,L. Egloff,67.0,52.0,58.0,65.0,33.0,56.0
+Defender,253969,L. Hjelde,68.0,32.0,51.0,54.0,60.0,65.0
+Midfielder,253474,N. Tauer,53.0,45.0,55.0,58.0,58.0,58.0
+Midfielder,255125,A. Ounahi,60.0,44.0,57.0,57.0,59.0,50.0
+Goalkeeper,253216,Adrián,,,,,,
+Midfielder,261241,M. Ibrahimi,67.0,49.0,53.0,66.0,30.0,38.0
+Defender,263114,M. Elimbi,62.0,32.0,37.0,41.0,62.0,58.0
+Midfielder,261745,L. Günther,68.0,59.0,48.0,64.0,22.0,58.0
+Midfielder,261528,M. Obuz,67.0,50.0,53.0,64.0,26.0,53.0
+Defender,261517,M. Bondswell,66.0,32.0,52.0,53.0,57.0,58.0
+Midfielder,261428,J. Michelbrink,62.0,45.0,57.0,64.0,37.0,38.0
+Forward,260554,L. Hartwig,77.0,62.0,47.0,54.0,21.0,48.0
+Defender,261224,Hugo Bueno,60.0,37.0,46.0,60.0,56.0,55.0
+Midfielder,260195,John Patrick,69.0,56.0,48.0,58.0,20.0,57.0
+Forward,260191,M. Niang,75.0,59.0,40.0,55.0,18.0,55.0
+Midfielder,260157,M. Haygarth,72.0,53.0,52.0,63.0,28.0,46.0
+Midfielder,263353,E. Uhlmann,70.0,47.0,55.0,59.0,56.0,57.0
+Goalkeeper,263116,L. Rieß,,,,,,
+Midfielder,264222,F. Rüth,55.0,36.0,56.0,48.0,59.0,64.0
+Defender,263354,J. Pfennig,55.0,30.0,37.0,37.0,63.0,56.0
+Goalkeeper,263441,L. Bonelli,,,,,,
+Midfielder,263522,J. Sarmiento,76.0,58.0,53.0,61.0,29.0,44.0
+Midfielder,263949,S. Fofana,65.0,45.0,53.0,55.0,59.0,63.0
+Midfielder,264033,N. Sow,61.0,29.0,46.0,54.0,59.0,59.0
+Midfielder,264059,R. Bourlès,62.0,50.0,63.0,62.0,44.0,49.0
+Defender,264141,O. Offiah,64.0,33.0,39.0,56.0,61.0,61.0
+Defender,264223,N. König,55.0,31.0,38.0,42.0,59.0,65.0
+Midfielder,264246,T. Rupil,59.0,51.0,59.0,66.0,46.0,45.0
+Midfielder,264247,B. Bobzien,67.0,56.0,53.0,65.0,28.0,45.0
+Midfielder,264506,J. Smith,54.0,40.0,53.0,56.0,58.0,63.0
+Defender,259766,F. Stevens,63.0,44.0,53.0,58.0,56.0,62.0
+Forward,260115,P. Yeboah,71.0,62.0,48.0,60.0,22.0,66.0
+Defender,235808,J. Bedeau,71.0,37.0,46.0,53.0,57.0,66.0
+Midfielder,259165,J. Wosz,66.0,50.0,58.0,69.0,48.0,45.0
+Midfielder,254279,E. Sadiku,56.0,31.0,48.0,54.0,56.0,64.0
+Defender,258805,H. Ashby,73.0,37.0,46.0,53.0,53.0,60.0
+Defender,237612,F. Delli Carri,40.0,27.0,32.0,41.0,64.0,54.0
+Midfielder,242436,J. Russell,65.0,52.0,57.0,59.0,55.0,63.0
+Midfielder,246100,K. Askildsen,59.0,43.0,57.0,62.0,57.0,55.0
+Defender,246154,L. McCarron,80.0,52.0,53.0,60.0,49.0,46.0
+Midfielder,246592,Algobia,36.0,55.0,58.0,60.0,54.0,44.0
+Defender,247248,M. Mbow,61.0,29.0,34.0,38.0,58.0,66.0
+Midfielder,250931,P. Osterhage,67.0,46.0,55.0,64.0,49.0,59.0
+Midfielder,251439,T. Thomas,55.0,51.0,57.0,59.0,56.0,64.0
+Midfielder,251625,U. Eneme-Ella,64.0,50.0,56.0,63.0,40.0,52.0
+Defender,252078,S. Loric,65.0,32.0,42.0,58.0,59.0,52.0
+Midfielder,253729,A. Okoflex,77.0,57.0,50.0,66.0,25.0,52.0
+Defender,240570,S. Sissoko,75.0,41.0,55.0,58.0,53.0,68.0
+Defender,254995,T. Tamas,68.0,37.0,41.0,58.0,58.0,54.0
+Defender,257238,C. Wiggett,58.0,36.0,37.0,57.0,62.0,50.0
+Midfielder,255312,S. Banks,73.0,57.0,57.0,61.0,32.0,46.0
+Goalkeeper,258555,D. van den Heuvel,,,,,,
+Goalkeeper,257637,D. Klein,,,,,,
+Defender,257239,J. Brooking,59.0,29.0,36.0,41.0,62.0,55.0
+Defender,258457,K. Boma,50.0,31.0,43.0,44.0,61.0,58.0
+Midfielder,257217,G. Cangiano,67.0,56.0,54.0,65.0,29.0,43.0
+Defender,256743,A. Sylla,58.0,31.0,46.0,40.0,61.0,61.0
+Midfielder,256728,Santiago Eneme,61.0,50.0,55.0,66.0,36.0,49.0
+Midfielder,255611,D. Maldini,68.0,51.0,59.0,61.0,38.0,50.0
+Midfielder,255363,H. Wise,59.0,48.0,59.0,58.0,53.0,53.0
+Forward,260863,W. Suzuki,61.0,55.0,50.0,54.0,30.0,70.0
+Defender,263352,D. Lelle,55.0,32.0,36.0,43.0,62.0,49.0
+Midfielder,260924,J. Frommann,53.0,44.0,52.0,56.0,57.0,61.0
+Midfielder,260927,K. Chauke,71.0,47.0,55.0,61.0,37.0,41.0
+Forward,261007,R. Werthmüller,68.0,58.0,47.0,61.0,24.0,52.0
+Goalkeeper,262069,Y. Pandor,,,,,,
+Midfielder,262632,V. Cherny,60.0,48.0,57.0,62.0,37.0,51.0
+Goalkeeper,262708,T. Malbec,,,,,,
+Midfielder,263155,B. Klefisch,62.0,45.0,59.0,58.0,59.0,58.0
+Goalkeeper,263171,V. Lesieur,,,,,,
+Goalkeeper,263272,P. Schulze,,,,,,
+Defender,264338,D. Schmidt,62.0,29.0,42.0,46.0,59.0,63.0
+Forward,263572,N. Nadje,61.0,60.0,45.0,55.0,25.0,52.0
+Defender,264097,Alex Rodríguez,66.0,26.0,41.0,49.0,54.0,59.0
+Defender,264098,A. Akurugu,63.0,25.0,43.0,48.0,55.0,57.0
+Midfielder,264120,A. Moran,62.0,54.0,54.0,63.0,39.0,50.0
+Defender,264209,L. Bogarde,60.0,44.0,52.0,59.0,57.0,60.0
+Defender,264421,T. Small,77.0,31.0,41.0,56.0,53.0,53.0
+Defender,264437,A. Mbengue,58.0,31.0,33.0,36.0,62.0,56.0
+Goalkeeper,264460,P. Zovko,,,,,,
+Midfielder,264512,A. Camblan,65.0,46.0,60.0,63.0,40.0,40.0
+Defender,258931,H. Roberts,72.0,44.0,53.0,54.0,57.0,64.0
+Midfielder,260016,D. Berisha,63.0,48.0,53.0,63.0,32.0,47.0
+Midfielder,255755,J. de Vries,75.0,51.0,56.0,58.0,24.0,52.0
+Forward,258930,C. Archer,58.0,59.0,49.0,56.0,22.0,50.0
+Goalkeeper,251345,A. Mair,,,,,,
+Forward,233368,R. Harker,66.0,58.0,41.0,57.0,27.0,53.0
+Defender,243279,L. Gordon,78.0,41.0,48.0,56.0,51.0,52.0
+Midfielder,243818,M. Sangare,64.0,49.0,54.0,59.0,56.0,71.0
+Goalkeeper,244090,L. Schaffran,,,,,,
+Midfielder,258689,Diego Bri,60.0,55.0,57.0,61.0,24.0,34.0
+Midfielder,246349,D. Markanday,73.0,49.0,54.0,62.0,24.0,46.0
+Goalkeeper,247289,Bruno Bertinato,,,,,,
+Defender,248472,M. Lavinier,59.0,39.0,45.0,51.0,56.0,60.0
+Goalkeeper,251298,O. Hanin,,,,,,
+Goalkeeper,251332,R. Bouallak,,,,,,
+Forward,246092,A. Reghba,68.0,57.0,54.0,60.0,25.0,70.0
+Midfielder,251407,J. Young,62.0,47.0,58.0,61.0,50.0,45.0
+Midfielder,255474,M. Helm,68.0,55.0,55.0,59.0,37.0,53.0
+Goalkeeper,251453,D. Langley,,,,,,
+Goalkeeper,257082,M. Liesegang,,,,,,
+Defender,256449,Christian Marques,51.0,37.0,52.0,48.0,59.0,62.0
+Midfielder,258313,F. Schneider,54.0,54.0,56.0,59.0,54.0,61.0
+Midfielder,253475,M. Papela,65.0,48.0,58.0,61.0,54.0,51.0
+Midfielder,253120,B. Kone,69.0,65.0,51.0,57.0,32.0,47.0
+Midfielder,254113,C. Campbell,70.0,53.0,55.0,64.0,41.0,50.0
+Goalkeeper,257142,L. Margueron,,,,,,
+Forward,263110,I. Baldé,69.0,59.0,37.0,61.0,19.0,41.0
+Goalkeeper,259430,Marcelo Pitaluga,,,,,,
+Defender,260079,M. Bruns,51.0,26.0,34.0,43.0,58.0,60.0
+Defender,261640,J. Baptiste,63.0,31.0,44.0,43.0,56.0,60.0
+Midfielder,262988,G. Gürpüz,65.0,43.0,58.0,65.0,43.0,45.0
+Midfielder,263038,M. Pečar,55.0,51.0,57.0,62.0,38.0,45.0
+Defender,263963,O. Olufunwa,69.0,33.0,46.0,51.0,52.0,52.0
+Midfielder,263162,J. Montes,63.0,49.0,54.0,57.0,51.0,59.0
+Forward,264039,L. Dobbin,74.0,57.0,48.0,59.0,20.0,43.0
+Midfielder,264180,A. Devine,64.0,46.0,56.0,59.0,51.0,53.0
+Midfielder,264194,J. Castrop,66.0,38.0,58.0,63.0,40.0,49.0
+Midfielder,264213,G. Walther,66.0,50.0,52.0,60.0,29.0,44.0
+Midfielder,264410,H. Lindley,68.0,46.0,55.0,55.0,53.0,57.0
+Forward,258748,C. Chukwuemeka,86.0,54.0,47.0,59.0,17.0,61.0
+Goalkeeper,243711,T. Callens,,,,,,
+Forward,256884,J. Rahou,57.0,58.0,59.0,60.0,48.0,50.0
+Midfielder,251301,J. Albrecht,52.0,47.0,56.0,59.0,53.0,54.0
+Midfielder,256506,F. Clarke,71.0,48.0,53.0,58.0,29.0,41.0
+Defender,240867,A. Alese,71.0,35.0,39.0,46.0,56.0,63.0
+Midfielder,242787,E. Dixon-Bonner,64.0,51.0,56.0,61.0,53.0,53.0
+Defender,243848,B. Lyons-Foster,57.0,28.0,40.0,40.0,57.0,61.0
+Defender,250866,M. Boyes,65.0,36.0,49.0,58.0,57.0,56.0
+Midfielder,243391,Iker Pozo,66.0,44.0,56.0,56.0,51.0,55.0
+Midfielder,251386,C. Bombo,65.0,40.0,55.0,58.0,55.0,57.0
+Midfielder,251648,E. Iversen,62.0,46.0,55.0,57.0,55.0,53.0
+Defender,253429,T. Clayton,61.0,32.0,40.0,45.0,57.0,60.0
+Forward,253971,T. Dickson-Peters,69.0,60.0,43.0,57.0,20.0,45.0
+Defender,254588,B. Koumetio,53.0,32.0,41.0,36.0,58.0,60.0
+Midfielder,255927,D. Pecile,62.0,45.0,57.0,58.0,49.0,54.0
+Midfielder,258721,M. Torlak,59.0,49.0,54.0,63.0,32.0,40.0
+Defender,264505,O. Dodgson,63.0,36.0,47.0,55.0,52.0,56.0
+Defender,264343,J. Schröder,63.0,33.0,47.0,53.0,53.0,55.0
+Midfielder,264342,G. Schäfer,64.0,57.0,53.0,56.0,28.0,48.0
+Midfielder,264293,H. Diarra,60.0,39.0,54.0,58.0,51.0,53.0
+Goalkeeper,263315,L. Schulz,,,,,,
+Goalkeeper,262939,A. Schulz,,,,,,
+Defender,262045,W. Mikelbrencis,58.0,32.0,43.0,54.0,55.0,48.0
+Defender,260710,E. Kratzer,62.0,29.0,43.0,47.0,54.0,52.0
+Defender,264411,S. Swinkels,61.0,31.0,37.0,37.0,56.0,60.0
+Goalkeeper,258688,Lluis Andreu,,,,,,
+Midfielder,252480,M. Pochettino,76.0,49.0,52.0,55.0,32.0,41.0
+Midfielder,251371,N. Jaby,69.0,46.0,55.0,55.0,53.0,43.0
+Defender,248711,A. Tchaptchet,57.0,31.0,35.0,37.0,58.0,62.0
+Midfielder,248473,P. Ekwah Elimby,60.0,33.0,49.0,50.0,55.0,67.0
+Defender,248469,D. Simeu,62.0,28.0,39.0,45.0,55.0,63.0
+Goalkeeper,239510,M. Köbbing,,,,,,
+Midfielder,234571,Mésaque Djú,72.0,51.0,46.0,58.0,27.0,59.0
+Goalkeeper,255014,T. Bartouche-Selbonne,,,,,,
+Midfielder,256620,L. Gibbs,67.0,49.0,53.0,56.0,48.0,48.0
+Goalkeeper,263887,J. Urbig,,,,,,
+Midfielder,263459,M. Camara,58.0,37.0,53.0,56.0,44.0,51.0
+Goalkeeper,262322,N. Noll,,,,,,
+Midfielder,260929,R. Finnigan,63.0,47.0,55.0,57.0,47.0,57.0
+Goalkeeper,258928,V. Sinisalo,,,,,,
+Midfielder,261032,J. Hodge,59.0,45.0,54.0,58.0,48.0,58.0
+Forward,256392,A. Kuol,77.0,53.0,34.0,50.0,18.0,60.0
+Defender,253483,S. McClelland,51.0,32.0,36.0,38.0,56.0,60.0
+Midfielder,248694,I. Karamoko,46.0,47.0,55.0,56.0,53.0,61.0
+Goalkeeper,247656,P. Grave,,,,,,
+Midfielder,247622,Bernardo Rosa,64.0,44.0,53.0,60.0,45.0,47.0
+Goalkeeper,235806,G. Satalino,,,,,,
+Forward,256353,Z. Emmerson,72.0,52.0,47.0,58.0,21.0,45.0
+Midfielder,254819,K. Urbański,65.0,50.0,49.0,58.0,32.0,40.0
+Goalkeeper,262931,T. Ernst,,,,,,
+Goalkeeper,261375,L. Bergström,,,,,,
+Goalkeeper,259973,P. Boer,,,,,,
+Forward,258532,C. Carty,65.0,54.0,46.0,53.0,23.0,53.0
+Midfielder,253461,L. Cundle,61.0,51.0,54.0,58.0,46.0,41.0
+Defender,251590,L. Richards,61.0,41.0,49.0,50.0,52.0,59.0
+Defender,248569,J. Furlong,62.0,29.0,44.0,50.0,52.0,51.0
+Goalkeeper,242983,J. McCracken,,,,,,
+Defender,240799,D. Zappella,60.0,26.0,34.0,50.0,55.0,58.0
+Defender,240866,R. Hannam,64.0,34.0,44.0,51.0,49.0,45.0
+Defender,256556,B. Chrisene,69.0,42.0,53.0,59.0,44.0,52.0
+Midfielder,251516,O. Ashley,71.0,43.0,50.0,53.0,40.0,66.0
+Goalkeeper,263399,M. Nazaretian,,,,,,
+Defender,244507,P. Estrada,62.0,43.0,49.0,53.0,50.0,54.0
+Goalkeeper,245130,O. Webber,,,,,,
