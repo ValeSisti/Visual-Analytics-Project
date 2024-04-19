@@ -23,3 +23,6 @@ Project developed for the Visual Analytics course from the master's degree in "E
 ## Usage
 * Run "npm -i" to install all the required node modules
 * Run "npm run start" in order to execute the project
+
+## Documentation
+For more information about the project, please refer to the [presentation](https://github.com/ValeSisti/Visual-Analytics-Project/blob/main/Documentation/presentazione.pdf) and [report](https://github.com/ValeSisti/Visual-Analytics-Project/blob/main/Documentation/report.pdf)
