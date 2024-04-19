@@ -10,9 +10,8 @@ that can help them to achieve their goals. It is used only data coming from the 
 
 
 
+Project developed for the Visual Analytics course from the master's degree in "Engineering in Computer Science" at Sapienza.
 *Authors: Mauro Ficorella, Valentina Sisti, Martina Turbessi*
-
-Project developed for the Visual Analytics course from the master's degree in "Engineering in Computer Science" at Sapienza
 
 ## Prerequisites
 * Windows/MacOS operating system;
