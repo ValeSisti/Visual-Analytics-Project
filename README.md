@@ -21,8 +21,14 @@ Project developed for the Visual Analytics course from the master's degree in "E
 * You can recreate our environment through the provided environment.yml file.
 
 ## Usage
-* Run "npm -i" to install all the required node modules
-* Run "npm run start" in order to execute the project
+* Install all the required node modules
+  ```bash
+  npm -i
+  ```
+* Execute the project
+  ```bash
+  npm run start
+  ```
 
 ## Documentation
 For more information about the project, please refer to the [presentation](https://github.com/ValeSisti/Visual-Analytics-Project/blob/main/Documentation/presentazione.pdf) and [report](https://github.com/ValeSisti/Visual-Analytics-Project/blob/main/Documentation/report.pdf)
